@@ -1,0 +1,2000 @@
+000.000.000.000 - 000.255.255.255 , 000 , Bogon
+001.002.004.000 - 001.002.004.255 , 000 , China Internet Information Center (CNNIC)
+001.002.008.000 - 001.002.008.255 , 000 , China Internet Information Center (CNNIC)
+001.009.096.105 - 001.009.096.105 , 000 , Botnet on Telekom Malaysia
+001.009.102.251 - 001.009.102.251 , 000 , Botnet on Telekom Malaysia
+001.009.106.186 - 001.009.106.186 , 000 , Botnet on Telekom Malaysia
+001.016.000.000 - 001.019.255.255 , 000 , Korea Internet & Security Agency (KISA) - IPv6 Policy
+001.055.241.140 - 001.055.241.140 , 000 , Botnet on FPT Telecom
+001.093.021.147 - 001.093.021.147 , 000 , SMSHoax FakeAV Fraud Trojan
+001.093.026.097 - 001.093.026.097 , 000 , SMSHoax FakeAV Fraud Trojan
+001.179.128.002 - 001.179.128.002 , 000 , SMSHoax FakeAV Fraud Trojan
+001.179.128.003 - 001.179.128.003 , 000 , SMSHoax FakeAV Fraud Trojan
+001.179.136.040 - 001.179.136.047 , 000 , Communications Police Bangkok
+001.179.138.224 - 001.179.138.231 , 000 , Royal thai Navy College Of Nursing
+001.179.140.200 - 001.179.140.203 , 000 , Traffic Police Bangkok
+001.179.146.052 - 001.179.146.055 , 000 , Central-Police-Training-Division TH
+001.179.147.002 - 001.179.147.002 , 000 , SMSHoax FakeAV Fraud Trojan
+001.179.153.216 - 001.179.153.219 , 000 , Ministry-of-Public-Health TH
+001.179.164.124 - 001.179.164.127 , 000 , Armytp45-TH
+001.179.167.188 - 001.179.167.191 , 000 , Southern Border Provinces Police Operation Center
+001.186.188.000 - 001.186.188.127 , 000 , Detected AP2P on D-VoiS
+001.202.096.052 - 001.202.096.052 , 000 , Detected AP2P on ChinaNet Beijing proxy
+001.204.179.141 - 001.204.179.141 , 000 , Botnet on ChinaNet Guizhou
+001.226.051.218 - 001.226.051.218 , 000 , Detected AP2P on SK Broadband proxy
+002.051.000.165 - 002.051.000.165 , 000 , SMSHoax FakeAV Fraud Trojan
+002.056.009.116 - 002.056.009.116 , 000 , Detected kad activity on E-Rent LLC (hijacked)
+002.061.073.179 - 002.061.073.179 , 000 , SMSHoax FakeAV Fraud Trojan
+002.095.002.174 - 002.095.002.174 , 000 , datingnearby.com
+002.095.041.202 - 002.095.041.202 , 000 , datingnearby.com
+002.135.237.106 - 002.135.237.106 , 000 , SMSHoax FakeAV Fraud Trojan
+002.135.237.250 - 002.135.237.250 , 000 , SMSHoax FakeAV Fraud Trojan
+002.176.159.195 - 002.176.159.195 , 000 , Botnet on ITC
+002.181.001.127 - 002.181.001.127 , 000 , Detected AP2P on ITC proxy
+002.181.108.137 - 002.181.108.137 , 000 , SMSHoax FakeAV Fraud Trojan
+002.183.155.002 - 002.183.155.002 , 000 , SMSHoax FakeAV Fraud Trojan
+002.184.193.227 - 002.184.193.227 , 000 , Detected AP2P on Dadehaye Donyaye Door proxy
+002.185.001.100 - 002.185.001.100 , 000 , SMSHoax FakeAV Fraud Trojan
+002.188.016.134 - 002.188.016.134 , 000 , SMSHoax FakeAV Fraud Trojan
+003.000.000.000 - 003.255.255.255 , 000 , Amazon, General Electric Company
+004.000.025.146 - 004.000.025.148 , 000 , s0-0.ciscoseattle.bbnplanet.net
+004.000.026.014 - 004.000.029.024 , 000 , p1-0.cisco.bbnplanet.net
+004.000.038.000 - 004.000.038.255 , 000 , Level 3 Communications
+004.000.159.000 - 004.000.159.255 , 000 , Level 3 Communications
+004.000.181.000 - 004.000.182.255 , 000 , Level 3 Communications
+004.001.075.000 - 004.001.075.255 , 000 , Level 3 Communications, s0.mediasentry.bbnplanet.net
+004.001.129.000 - 004.001.140.255 , 000 , Level 3 Communications
+004.001.143.000 - 004.001.144.255 , 000 , Level 3 Communications
+004.002.144.064 - 004.002.144.095 , 000 , Cisco Systems, Inc
+004.002.144.224 - 004.002.144.231 , 000 , Drug Enforcement Adm
+004.002.144.248 - 004.002.144.255 , 000 , US Dept of Treasury - TIGTA
+004.002.145.224 - 004.002.145.239 , 000 , City of League City
+004.002.153.000 - 004.002.153.007 , 000 , Verizon/Intel-San Jose
+004.002.153.032 - 004.002.153.063 , 000 , Cisco Systems, Inc
+004.002.160.064 - 004.002.160.079 , 000 , Werner Media
+004.002.161.000 - 004.002.161.007 , 000 , Pike County Auditor
+004.002.161.064 - 004.002.161.071 , 000 , Delaware MRDD
+004.002.162.128 - 004.002.162.135 , 000 , Brown County Commissioners/Georgetown
+004.002.162.144 - 004.002.162.151 , 000 , Portsmouth Municipal Court
+004.002.162.160 - 004.002.162.191 , 000 , City of Circleville
+004.002.163.096 - 004.002.163.127 , 000 , Cisco Systems, Inc
+004.002.169.000 - 004.002.169.031 , 000 , Cisco Systems, Inc
+004.002.169.032 - 004.002.169.063 , 000 , Hilton Garden Inn
+004.002.169.064 - 004.002.169.095 , 000 , Cisco Systems, Inc
+004.002.169.112 - 004.002.169.119 , 000 , Fluent, Inc
+004.002.169.128 - 004.002.169.255 , 000 , Fluent, Inc
+004.002.170.032 - 004.002.170.063 , 000 , Cisco Systems, Inc
+004.002.170.144 - 004.002.170.151 , 000 , Drug Enforcement Adm
+004.002.172.000 - 004.002.172.255 , 000 , Sogeti USA
+004.002.173.032 - 004.002.173.063 , 000 , Pickaway County
+004.002.176.032 - 004.002.176.063 , 000 , Cisco Systems, Inc
+004.002.176.064 - 004.002.176.071 , 000 , U.S. Department of Treasury
+004.002.176.088 - 004.002.176.095 , 000 , Springfield Police Department
+004.002.176.096 - 004.002.176.127 , 000 , Cisco Systems, Inc
+004.002.179.032 - 004.002.179.047 , 000 , State of Rhode Island Attorney
+004.002.179.192 - 004.002.179.223 , 000 , Bingham Dana LLP
+004.002.179.232 - 004.002.179.239 , 000 , Alliance Core Technologies
+004.002.184.000 - 004.002.186.255 , 000 , Alliance Core Technologies
+004.002.188.096 - 004.002.188.103 , 000 , Tyco Engineered Products and Services
+004.002.188.128 - 004.002.188.255 , 000 , Alliance Core Technologies
+004.002.189.000 - 004.002.189.255 , 000 , Legislative Data Systems
+004.002.192.000 - 004.002.192.015 , 000 , Synopsys Inc
+004.002.192.064 - 004.002.192.071 , 000 , US Dept of Treasury - TIGTA
+004.002.192.072 - 004.002.192.079 , 000 , US Dept of Treasury-TIGTA
+004.002.192.096 - 004.002.192.127 , 000 , Cisco Systems, Inc
+004.002.192.192 - 004.002.192.223 , 000 , Cisco Systems, Inc
+004.002.193.000 - 004.002.193.127 , 000 , Synopsys Inc
+004.002.224.000 - 004.002.224.007 , 000 , City of Georgetown
+004.002.224.032 - 004.002.224.127 , 000 , Cisco Systems, Inc
+004.002.225.080 - 004.002.225.087 , 000 , Bensussen Deutsch & Associates, Inc
+004.002.225.248 - 004.002.225.255 , 000 , Drug Enforcement Adm
+004.002.226.152 - 004.002.226.159 , 000 , City of Georgetown
+004.002.227.000 - 004.002.227.063 , 000 , Horry County
+004.002.227.072 - 004.002.227.079 , 000 , US Dept of Treasury-TIGTA
+004.002.227.080 - 004.002.227.087 , 000 , US Dept of Treasury-TIGTA
+004.002.227.128 - 004.002.227.135 , 000 , US Dept of Treasury-TIGTA
+004.017.001.064 - 004.017.001.095 , 000 , County of Georgetown
+004.017.002.000 - 004.017.002.127 , 000 , City of Dothan
+004.017.002.240 - 004.017.002.255 , 000 , Horry County
+004.017.003.128 - 004.017.003.191 , 000 , Georgetown County Sheriff
+004.017.024.000 - 004.017.028.255 , 000 , Houston County Healthcare
+004.017.071.200 - 004.017.071.207 , 000 , US Dept of Treasury - TIGTA
+004.017.130.032 - 004.017.130.063 , 000 , Keane, Inc
+004.017.130.088 - 004.017.130.095 , 000 , US Dept of Treasury - TIGTA
+004.017.137.224 - 004.017.137.255 , 000 , Cisco Systems, Inc
+004.017.140.048 - 004.017.140.063 , 000 , Commonwealth of Massachusetts
+004.017.150.112 - 004.017.150.127 , 000 , City of Boston - BPL
+004.017.157.000 - 004.017.157.255 , 000 , International Data Corporation
+004.017.159.064 - 004.017.159.127 , 000 , City of Worcester
+004.017.160.160 - 004.017.160.175 , 000 , Town of Wrentham
+004.017.160.240 - 004.017.160.247 , 000 , Dept. of Veterans Affairs
+004.017.168.192 - 004.017.168.223 , 000 , Caradas, Inc
+004.017.168.224 - 004.017.168.255 , 000 , Electronic Entertainment Expo
+004.017.172.064 - 004.017.172.095 , 000 , EMC Corporation EMC-172-31
+004.017.175.032 - 004.017.175.063 , 000 , Cisco Systems, Inc. CISCOBXBRGH-175-20 (NET-4-17-175-32-1)
+004.017.180.000 - 004.017.181.255 , 000 , Cambridge City Hall
+004.017.183.128 - 004.017.183.255 , 000 , Mitsubishi Electric ITA
+004.017.192.000 - 004.017.192.031 , 000 , Tracy Cross & Associates, Inc
+004.017.192.064 - 004.017.192.079 , 000 , Fuji Photo Films
+004.017.192.128 - 004.017.192.255 , 000 , Cass County Government
+004.017.193.112 - 004.017.193.127 , 000 , Lord, Bissell & Brook
+004.017.193.128 - 004.017.193.255 , 000 , Chicago Mercantile Exchange
+004.017.222.096 - 004.017.222.127 , 000 , Nexstar Broadcasting
+004.017.229.000 - 004.017.229.031 , 000 , Fort Wayne Air Service
+004.017.232.000 - 004.017.232.255 , 000 , City of Bloomington
+004.017.245.096 - 004.017.245.127 , 000 , Burt, Blee, Dixon and Sutton
+004.018.000.000 - 004.018.000.255 , 000 , Info Cision Management Corporation
+004.018.005.128 - 004.018.005.191 , 000 , Department of Defense
+004.018.006.032 - 004.018.006.063 , 000 , Times Reporter
+004.018.026.000 - 004.018.026.127 , 000 , Micro Electronics Inc
+004.018.026.128 - 004.018.026.135 , 000 , Info Cision Management Corporation
+004.018.032.016 - 004.018.032.031 , 000 , California Capital
+004.018.032.080 - 004.018.032.095 , 000 , City of Oxnard
+004.018.032.096 - 004.018.032.127 , 000 , RJM Productions
+004.018.032.128 - 004.018.032.159 , 000 , Sun Microsystems
+004.018.032.208 - 004.018.032.215 , 000 , Riordan & McKinzie RIORDAN2-32-25 (NET-4-18-32-208-1)
+004.018.032.224 - 004.018.032.239 , 000 , City of Azusa Light & Water Department
+004.018.034.000 - 004.018.034.031 , 000 , Live Planet
+004.018.034.136 - 004.018.034.143 , 000 , Long Beach USD
+004.018.034.224 - 004.018.034.231 , 000 , Games Structure
+004.018.035.016 - 004.018.035.023 , 000 , Quincy Jones Production
+004.018.035.048 - 004.018.035.063 , 000 , City of Barstow
+004.018.035.200 - 004.018.035.207 , 000 , Tigerhill Entertainment
+004.018.035.224 - 004.018.035.255 , 000 , TreeHouse Interactive Design
+004.018.036.000 - 004.018.036.063 , 000 , Guitar Salon International
+004.018.037.016 - 004.018.037.031 , 000 , Promo Music
+004.018.037.128 - 004.018.037.255 , 000 , Werner Media
+004.018.038.000 - 004.018.038.255 , 000 , Univision - ESG End Cust
+004.018.040.064 - 004.018.040.079 , 000 , County of San Bernardino Office of Emergency
+004.018.040.144 - 004.018.040.159 , 000 , Synopsys Inc. SYNOPSYSTOCA-40-22 (NET-4-18-40-144-1)
+004.018.042.008 - 004.018.042.015 , 000 , Drug Enforcement Adm
+004.018.042.024 - 004.018.042.031 , 000 , City of Huntington Beach
+004.018.042.128 - 004.018.042.135 , 000 , Moore, Winter, Skebba & McLennan, LLP
+004.018.044.080 - 004.018.044.095 , 000 , County of San Bernardino Office of Emergency
+004.018.044.136 - 004.018.044.143 , 000 , City of Long Beach Public Library
+004.018.045.176 - 004.018.045.183 , 000 , Javelin Inc
+004.018.046.136 - 004.018.046.143 , 000 , Silver Pictures
+004.018.048.128 - 004.018.048.159 , 000 , Cisco Systems, Inc
+004.018.048.160 - 004.018.048.167 , 000 , City of Huntington Beach
+004.018.049.000 - 004.018.049.015 , 000 , Fuji Photo Film USA, Inc
+004.018.049.064 - 004.018.049.127 , 000 , Palm Springs Hilton
+004.018.049.224 - 004.018.049.239 , 000 , Sanctuary Records Group
+004.018.050.128 - 004.018.050.159 , 000 , City of Redondo Beach
+004.018.051.000 - 004.018.051.255 , 000 , City of Chino Hills
+004.018.052.176 - 004.018.052.191 , 000 , US Dept of Treasury-TIGTA TIGTA8-52-17 (NET-4-18-52-176-1)
+004.018.055.128 - 004.018.055.135 , 000 , Riordan & McKinzie
+004.018.055.144 - 004.018.055.151 , 000 , EMI Music Publishing
+004.018.055.152 - 004.018.055.159 , 000 , Terminal Media
+004.018.057.064 - 004.018.057.095 , 000 , NBS Government Finance Group
+004.018.060.112 - 004.018.060.127 , 000 , Synopsys Inc
+004.018.060.128 - 004.018.060.159 , 000 , Kelley Productions
+004.018.061.000 - 004.018.061.015 , 000 , City of Laguna Beach
+004.018.061.016 - 004.018.061.031 , 000 , City of Azusa
+004.018.061.128 - 004.018.061.191 , 000 , Raytheon Training LLC
+004.018.063.000 - 004.018.063.063 , 000 , Sarnoff Legal Technologies
+004.018.065.192 - 004.018.065.255 , 000 , City of Dallas Library
+004.018.080.000 - 004.018.080.127 , 000 , Lacerte Technology
+004.018.085.000 - 004.018.093.255 , 000 , City of Dallas Library
+004.018.096.168 - 004.018.096.175 , 000 , US Dept of Treasury-TIGTA TIGTA27-96-14 (NET-4-18-96-168-1)
+004.018.096.176 - 004.018.096.191 , 000 , Synopsys Inc
+004.018.097.240 - 004.018.097.247 , 000 , Drug Enforcement Adm
+004.018.101.000 - 004.018.101.007 , 000 , GTE Government Systems-FAA-AIS
+004.018.101.064 - 004.018.101.127 , 000 , GTE Government Systems-FAA-AIS
+004.018.128.088 - 004.018.128.095 , 000 , US Dept of Treasury-TIGTA
+004.018.128.192 - 004.018.128.223 , 000 , Cisco Systems, Inc. CISCOSOUTHFIELD128-24 (NET-4-18-128-192-1)
+004.018.140.048 - 004.018.140.063 , 000 , City of Owosso
+004.018.142.128 - 004.018.142.191 , 000 , County of Alcona
+004.018.151.016 - 004.018.151.031 , 000 , City of Alpena
+004.018.154.000 - 004.018.154.255 , 000 , Dell Pratt
+004.018.162.048 - 004.018.162.063 , 000 , Moore Productions Inc
+004.018.166.000 - 004.018.166.015 , 000 , Synopsys Inc
+004.018.192.000 - 004.018.192.063 , 000 , Bechtel Corp. - Consulting
+004.018.192.176 - 004.018.192.191 , 000 , Shaba Games
+004.018.193.000 - 004.018.193.127 , 000 , Munger, Tolles and Olson, LLP
+004.018.194.096 - 004.018.194.159 , 000 , Cisco Systems, Inc
+004.018.201.000 - 004.018.201.255 , 000 , Hancock, Rothert &amp; Bunshoft
+004.018.203.000 - 004.018.203.255 , 000 , Bechtel Enterprises, Inc. T-1
+004.018.224.000 - 004.018.225.255 , 000 , City of Hillsboro
+004.018.226.048 - 004.018.226.055 , 000 , Javelin Inc
+004.018.226.064 - 004.018.226.095 , 000 , Cisco Systems, Inc. CISCOOSWEGO-226-15 (NET-4-18-226-64-1)
+004.018.228.000 - 004.018.228.255 , 000 , Intel
+004.018.229.096 - 004.018.229.127 , 000 , Epson Portland Inc
+004.018.234.000 - 004.018.234.255 , 000 , Software Professionals
+004.018.239.048 - 004.018.239.063 , 000 , Lockheed Martin Corporation
+004.018.239.192 - 004.018.239.255 , 000 , Intel
+004.018.247.128 - 004.018.247.255 , 000 , Intel Corporation - Dupont WA
+004.018.253.000 - 004.018.253.015 , 000 , Intel Corporation - Dupont WA
+004.018.253.064 - 004.018.253.127 , 000 , Capstone Technology Corporation
+004.019.006.000 - 004.019.006.063 , 000 , Bechtel Corp. - Consulting
+004.019.009.000 - 004.019.009.255 , 000 , City of Webster
+004.019.032.000 - 004.019.032.007 , 000 , US Dept of Treasury - TIGTA
+004.019.032.008 - 004.019.032.015 , 000 , Drug Enforcement Adm
+004.019.032.016 - 004.019.032.031 , 000 , Law Enforcement Online - FBI
+004.019.067.000 - 004.019.067.007 , 000 , City of Chino City Hall
+004.019.067.032 - 004.019.067.039 , 000 , US Dept of Treasury-TIGTA
+004.019.067.048 - 004.019.067.055 , 000 , US Dept of Treasury-TIGTA
+004.019.067.096 - 004.019.067.127 , 000 , City of Santa Paula
+004.019.067.176 - 004.019.067.191 , 000 , City of Westminster
+004.019.068.112 - 004.019.068.127 , 000 , Mancina Music, Inc
+004.019.070.000 - 004.019.070.255 , 000 , Houlihan Lokey Howard + Zukin
+004.019.071.000 - 004.019.071.255 , 000 , R&C Productions, Inc
+004.019.075.048 - 004.019.075.055 , 000 , Universal City Studios Credit Union, Inc UCSCU-75-29 (NET-4-19-75-48-1)
+004.019.075.064 - 004.019.075.079 , 000 , City of Redlands
+004.019.076.000 - 004.019.076.031 , 000 , Dolby Laboratories
+004.019.079.000 - 004.019.079.063 , 000 , Armed Forces Radio + Television ARMEDFORCE-79-18 (NET-4-19-79-0-1)
+004.019.081.064 - 004.019.081.127 , 000 , City of La Mirada
+004.019.083.000 - 004.019.083.255 , 000 , Radar Pictures Inc
+004.019.084.128 - 004.019.084.255 , 000 , Content Guard Inc
+004.019.085.000 - 004.019.085.127 , 000 , Werner Media
+004.019.087.128 - 004.019.087.159 , 000 , City of Upland
+004.019.088.160 - 004.019.088.191 , 000 , Universal City Studios Credit Union, Inc UCSCU-88-10 (NET-4-19-88-160-1)
+004.019.090.000 - 004.019.090.127 , 000 , LionsGate Entertainment
+004.019.090.128 - 004.019.090.255 , 000 , Click Active Media
+004.019.093.016 - 004.019.093.031 , 000 , City of Huntington Beach
+004.019.093.048 - 004.019.093.063 , 000 , Sanctuary Records Group
+004.019.093.096 - 004.019.093.127 , 000 , City of Santa Fe Springs-PSC
+004.019.093.160 - 004.019.093.175 , 000 , Carpathian Pictures
+004.019.093.176 - 004.019.093.183 , 000 , Pinkerton Burns Security PINKERTONS-93-9 (NET-4-19-93-176-1)
+004.019.096.000 - 004.019.096.127 , 000 , Lord, Bissell &amp; Brook
+004.019.099.048 - 004.019.099.063 , 000 , Vigo County Government
+004.019.099.064 - 004.019.099.079 , 000 , International Center for Telecomm
+004.019.099.096 - 004.019.099.127 , 000 , Lord, Bissell & Brook
+004.019.111.128 - 004.019.111.255 , 000 , Chicago Mercantile Exchange
+004.019.161.128 - 004.019.161.159 , 000 , Synopsys Inc
+004.019.195.000 - 004.019.195.063 , 000 , Eastern Research Group Inc EASTERNES4-195-04 (NET-4-19-195-0-1)
+004.019.225.000 - 004.019.225.255 , 000 , Mitsubishi Electric ITA
+004.019.232.000 - 004.019.233.255 , 000 , Old Colony Library Network
+004.019.242.000 - 004.019.242.255 , 000 , Keane, Inc
+004.019.249.064 - 004.019.249.127 , 000 , MAZU NETWORKS MAZU-249-17 (NET-4-19-249-64-1)
+004.020.002.000 - 004.020.003.255 , 000 , Computer Sciences Copr. Consulting, Inc
+004.020.014.000 - 004.020.015.255 , 000 , Computer Sciences Copr. Consulting, Inc
+004.020.017.000 - 004.020.019.255 , 000 , Computer Sciences Copr. Consulting, Inc
+004.020.032.000 - 004.020.032.007 , 000 , GTE Government Systems-FAA-AIS
+004.020.075.000 - 004.020.075.127 , 000 , Nassau County Police Department
+004.020.077.000 - 004.020.077.031 , 000 , Lionbridge Technologies, Inc
+004.020.093.000 - 004.020.093.255 , 000 , Salans Hertzfeld Heilbronn
+004.020.096.016 - 004.020.096.031 , 000 , Synopsys Inc
+004.020.096.032 - 004.020.096.039 , 000 , Javelin Inc
+004.020.096.048 - 004.020.096.055 , 000 , US Dept of Treasury-TIGTA TIGTA19-96-14 (NET-4-20-96-48-1)
+004.020.096.096 - 004.020.096.111 , 000 , Synopsys Inc
+004.020.096.128 - 004.020.096.159 , 000 , Cisco Systems, Inc. CISCOGOLDRIVER-96-11 (NET-4-20-96-128-1)
+004.020.098.192 - 004.020.098.255 , 000 , Electric Oversight Board
+004.020.105.000 - 004.020.105.015 , 000 , US Dept of Treasury - TIGTA
+004.020.106.000 - 004.020.107.255 , 000 , Ziff Davis
+004.020.128.032 - 004.020.128.039 , 000 , Armed Forces Radio + Television
+004.020.128.064 - 004.020.128.095 , 000 , Fancy Publications
+004.020.161.000 - 004.020.161.007 , 000 , MODUS MEDIA INTERNATIONAL
+004.020.161.064 - 004.020.161.095 , 000 , Bingham McCutchen, LLP BINGHAMPALOALTO-161-21 (NET-4-20-161-64-1)
+004.020.161.112 - 004.020.161.127 , 000 , Fish & Richardson PC
+004.020.161.160 - 004.020.161.175 , 000 , Fish & Richardson PC
+004.020.163.064 - 004.020.163.095 , 000 , Synopsys Inc
+004.020.163.128 - 004.020.163.191 , 000 , Synopsys Inc. SYNOPSYS-163-19 (NET-4-20-163-128-1)
+004.020.163.224 - 004.020.163.255 , 000 , Synopsys Inc
+004.020.164.000 - 004.020.164.015 , 000 , Synopsys Inc
+004.020.175.000 - 004.020.175.031 , 000 , City of Richland
+004.020.181.000 - 004.020.181.255 , 000 , Nokia
+004.020.192.032 - 004.020.192.047 , 000 , Animation Technologies, Inc
+004.020.192.048 - 004.020.192.063 , 000 , US Dept of Treasury - TIGTA
+004.020.192.128 - 004.020.192.143 , 000 , US Dept of Treasury-TIGTA TIGTA18-192-25 (NET-4-20-192-128-1)
+004.020.192.144 - 004.020.192.159 , 000 , Synopsys Inc. SYNOPSYSPA-192-22 (NET-4-20-192-144-1)
+004.020.192.160 - 004.020.192.191 , 000 , Cisco Systems, Inc. CISCOMALVERN-192-27 (NET-4-20-192-160-1)
+004.020.197.000 - 004.020.197.015 , 000 , FMC Corporation
+004.020.198.016 - 004.020.198.023 , 000 , FMC Corporation FMCCORP-198-27 (NET-4-20-198-16-1)
+004.020.224.064 - 004.020.224.095 , 000 , Commonwealth of Virginia COMMVIRGINIA-224-05 (NET-4-20-224-64-1)
+004.020.224.128 - 004.020.224.191 , 000 , Circuit Court of Chesterfield County CIRCOURT-224-25 (NET-4-20-224-128-1)
+004.020.228.000 - 004.020.228.255 , 000 , County of Middlesex
+004.021.000.176 - 004.021.000.191 , 000 , Synopsys Inc. SYNOPSYSSDCA-0-04 (NET-4-21-0-176-1)
+004.021.001.032 - 004.021.001.047 , 000 , Vanteon Corporation VANTEON-1-07 (NET-4-21-1-32-1)
+004.021.040.000 - 004.021.040.127 , 000 , 3Com Corporation
+004.021.042.000 - 004.021.042.255 , 000 , American Electronics Association
+004.021.043.000 - 004.021.043.255 , 000 , City of Gilroy
+004.021.068.008 - 004.021.068.015 , 000 , National Academy Press
+004.021.068.048 - 004.021.068.055 , 000 , Navy-Marine Corps Relief Society
+004.021.068.064 - 004.021.068.127 , 000 , Bechtel Corp. - Consulting
+004.021.070.000 - 004.021.070.255 , 000 , DC Water and Sewer Authority
+004.021.076.096 - 004.021.076.103 , 000 , GTSI
+004.021.076.120 - 004.021.076.127 , 000 , US Department of Justice
+004.021.087.064 - 004.021.087.079 , 000 , Federal Retirement Thrift Investment Bo
+004.021.087.224 - 004.021.087.255 , 000 , Dyncorp Techserv
+004.021.096.016 - 004.021.096.023 , 000 , US Dept of Treasury - TIGTA
+004.021.096.048 - 004.021.096.055 , 000 , Navy-Marine Corps Relief Society
+004.021.096.096 - 004.021.096.111 , 000 , Synopsys Inc
+004.021.096.112 - 004.021.096.127 , 000 , Law Enforcement Online - FBI
+004.021.098.000 - 004.021.098.255 , 000 , Carnegie Institution of Washington at DC
+004.021.100.000 - 004.021.100.127 , 000 , Comtex Scientific Corporation
+004.021.100.128 - 004.021.100.135 , 000 , U.S. Department of Treasury
+004.021.100.144 - 004.021.100.151 , 000 , Bureau of National Affairs
+004.021.100.184 - 004.021.100.191 , 000 , Agency for International Development
+004.021.100.192 - 004.021.100.255 , 000 , US Dept of Treasury-TIGTA TIGTA4-100-29 (NET-4-21-100-192-1)
+004.021.101.000 - 004.021.101.255 , 000 , Armed Forces Institute of Pathology AFIP2-101-22 (NET-4-21-101-0-1)
+004.021.102.000 - 004.021.102.031 , 000 , National Democratic Institute
+004.021.108.008 - 004.021.108.015 , 000 , US Dept of Treasury-TIGTA TIGTA38-108-15 (NET-4-21-108-8-1)
+004.021.108.016 - 004.021.108.031 , 000 , Embassy of Finland EMBASSYFIN-108-17 (NET-4-21-108-16-1)
+004.021.108.032 - 004.021.108.039 , 000 , Department of State
+004.021.108.048 - 004.021.108.055 , 000 , US Dept of Treasury-TIGTA TIGTA39-108-15 (NET-4-21-108-48-1)
+004.021.108.064 - 004.021.108.127 , 000 , Embassy of Australia AUSTRALIAEMB-108-30 (NET-4-21-108-64-1)
+004.021.108.224 - 004.021.108.239 , 000 , US Dept of Treasury-TIGTA TIGTA42-108-16 (NET-4-21-108-224-1)
+004.021.109.000 - 004.021.109.255 , 000 , National Association of PHCC NAPHCC-109-18 (NET-4-21-109-0-1)
+004.021.111.128 - 004.021.111.159 , 000 , Bingham Dana LLP BINGHAMDC-111-26 (NET-4-21-111-128-1)
+004.021.111.192 - 004.021.111.207 , 000 , Office of Attorney General - Tech
+004.021.111.208 - 004.021.111.223 , 000 , Computer Sciences Corp
+004.021.111.224 - 004.021.111.239 , 000 , Northrup Grumman
+004.021.111.240 - 004.021.111.247 , 000 , IBM Business Continuity IBMBC-111-17 (NET-4-21-111-240-1)
+004.021.114.080 - 004.021.114.095 , 000 , Department of Defense Education Activity AP2
+004.021.114.096 - 004.021.114.127 , 000 , Sanctuary Records Group SANCTUARY-114-14 (NET-4-21-114-96-1)
+004.021.114.144 - 004.021.114.151 , 000 , Lockheed Martin Integrated Business LMIBS-114-14 (NET-4-21-114-144-1)
+004.021.114.152 - 004.021.114.159 , 000 , SRA SRAI-114-22 (NET-4-21-114-152-1)
+004.021.114.160 - 004.021.114.191 , 000 , Military Home Video Network MILHVN2-114-13 (NET-4-21-114-160-1)
+004.021.116.000 - 004.021.116.127 , 000 , Law Enforcement Online - FBI
+004.021.116.128 - 004.021.116.191 , 000 , Office of Attorney General - Tech
+004.021.117.000 - 004.021.117.127 , 000 , Military Home Video Network MILHVN-117-10 (NET-4-21-117-0-1)
+004.021.117.128 - 004.021.117.135 , 000 , Bullseye Media, Inc BEM-117-128-29 (NET-4-21-117-128-2)
+004.021.117.144 - 004.021.117.151 , 000 , Bullseye Media, Inc BEM-117-144-29 (NET-4-21-117-144-1)
+004.021.117.184 - 004.021.117.191 , 000 , SRA International SRAINTERNATIONAL-117-3 (NET-4-21-117-184-1)
+004.021.120.024 - 004.021.120.031 , 000 , Drug Enforcement Adm
+004.021.120.032 - 004.021.120.063 , 000 , Office of the US Trade Representative
+004.021.122.008 - 004.021.122.031 , 000 , Drug Enforcement Adm
+004.021.122.064 - 004.021.122.071 , 000 , Lockheed Martin Integrated Business LMIBS-122-17 (NET-4-21-122-64-1)
+004.021.122.112 - 004.021.122.127 , 000 , US Customs USCUSTOMS-122-20 (NET-4-21-122-112-1)
+004.021.122.192 - 004.021.122.255 , 000 , Senate Democratic Computer Services
+004.021.126.000 - 004.021.126.255 , 000 , Federal Communications Commission
+004.021.127.000 - 004.021.127.063 , 000 , City of Harrisburg
+004.021.127.128 - 004.021.127.255 , 000 , City of Durham
+004.021.128.000 - 004.021.128.255 , 000 , Dewey Ballantine
+004.021.129.016 - 004.021.129.031 , 000 , Computer Sciences Corp
+004.021.129.160 - 004.021.129.191 , 000 , SRA
+004.021.132.000 - 004.021.132.007 , 000 , EPA
+004.021.132.064 - 004.021.132.127 , 000 , FEMA FEMA2-132-19 (NET-4-21-132-64-1)
+004.021.132.128 - 004.021.132.255 , 000 , Freddie Mac FREDDIEMC-132-13 (NET-4-21-132-128-1)
+004.021.133.000 - 004.021.133.255 , 000 , US Dept of Treasury - TIGTA
+004.021.134.016 - 004.021.134.031 , 000 , US Customs USCUSTOMS-134-4 (NET-4-21-134-16-1)
+004.021.134.048 - 004.021.134.055 , 000 , US Department of Agriculture - NAL
+004.021.134.080 - 004.021.134.087 , 000 , McCarter & English
+004.021.134.168 - 004.021.134.175 , 000 , Pinkerton Burns Security PINKERTONS2-134-12 (NET-4-21-134-168-1)
+004.021.135.032 - 004.021.135.063 , 000 , Cisco Systems, Inc. CISCOHERNDON-135-02 (NET-4-21-135-32-1)
+004.021.139.000 - 004.021.139.063 , 000 , Janes Information Group
+004.021.139.064 - 004.021.139.095 , 000 , Department of State
+004.021.139.128 - 004.021.139.255 , 000 , National Association of County & City He
+004.021.140.000 - 004.021.140.063 , 000 , Computer Sciences Corp
+004.021.148.032 - 004.021.148.063 , 000 , Cisco Systems, Inc. CISCOCOLUMBIA-148-06 (NET-4-21-148-32-1)
+004.021.148.064 - 004.021.148.127 , 000 , Natl Archives & Records  Admin
+004.021.148.128 - 004.021.148.143 , 000 , Sanctuary Records Group SANCTUARY6-148-21 (NET-4-21-148-128-1)
+004.021.148.144 - 004.021.148.159 , 000 , Drug Enforcement Adm
+004.021.148.192 - 004.021.148.223 , 000 , Cisco Systems, Inc. CISCORETRIPRK-148-20 (NET-4-21-148-192-1)
+004.021.154.000 - 004.021.154.127 , 000 , City of Manassas
+004.021.154.224 - 004.021.154.255 , 000 , Durham Convention & Visitors Bureau
+004.021.155.000 - 004.021.155.127 , 000 , Computer Sciences Corp
+004.021.160.032 - 004.021.160.047 , 000 , EMC Corporation
+004.021.160.048 - 004.021.160.063 , 000 , Fish & Richardson PC
+004.021.161.096 - 004.021.161.127 , 000 , Comm of Mass-MRC/DDS
+004.021.161.160 - 004.021.161.191 , 000 , Keane, Inc. KEANEINC-161-20 (NET-4-21-161-160-1)
+004.021.161.216 - 004.021.161.239 , 000 , US Dept of Treasury-TIGTA
+004.021.164.000 - 004.021.164.063 , 000 , Price Waterhouse Coopers
+004.021.164.064 - 004.021.164.095 , 000 , Town of Randolph
+004.021.164.096 - 004.021.164.127 , 000 , Bingham Dana LLP
+004.021.164.160 - 004.021.164.167 , 000 , Criminal History Systems Board MASSCS-164-06 (NET-4-21-164-160-1)
+004.021.165.008 - 004.021.165.015 , 000 , Comm of Mass-MRC/DDS
+004.021.165.032 - 004.021.165.047 , 000 , Plymouth County Sheriff PCSHERIFF2-165-20 (NET-4-21-165-32-1)
+004.021.166.064 - 004.021.166.079 , 000 , Animation Technologies, Inc
+004.021.166.080 - 004.021.166.087 , 000 , Drug Enforcement Adm
+004.021.167.080 - 004.021.167.095 , 000 , Comm of Mass-Dept of Housing & Community DHOUSING-167-02 (NET-4-21-167-80-1)
+004.021.167.160 - 004.021.167.191 , 000 , Action for Boston Community Development ACTIONBOSTON-167-30 (NET-4-21-167-16
+004.021.169.000 - 004.021.171.255 , 000 , Commonwealth of Massachusetts
+004.021.176.128 - 004.021.176.255 , 000 , Registry of Deeds Essex County RODEC-176-16 (NET-4-21-176-128-1)
+004.021.179.032 - 004.021.179.063 , 000 , COPYRIGHT CLEARANCE CENTER
+004.021.179.096 - 004.021.179.127 , 000 , Town of Randolph
+004.021.179.208 - 004.021.179.223 , 000 , Synopsys Inc. SYNOPSYSNY-179-30 (NET-4-21-179-208-1)
+004.021.180.120 - 004.021.180.127 , 000 , Novell NOVELLVZ-180-16 (NET-4-21-180-120-1)
+004.021.180.128 - 004.021.180.191 , 000 , Governor Dumner Academy GDA-180-20 (NET-4-21-180-128-1)
+004.021.181.032 - 004.021.181.063 , 000 , Bingham Dana LLP BINGHAMBOSTON-181-26 (NET-4-21-181-32-1)
+004.021.181.112 - 004.021.181.127 , 000 , Werner Media
+004.021.181.184 - 004.021.181.191 , 000 , Norfolk County Sheriff
+004.021.185.000 - 004.021.185.255 , 000 , Comm of Mass - DET
+004.021.192.000 - 004.021.192.031 , 000 , Dick,Johnson &amp; Jefferson
+004.021.192.104 - 004.021.192.111 , 000 , City of Venice
+004.021.192.160 - 004.021.192.175 , 000 , Synopsys Inc
+004.021.192.192 - 004.021.192.207 , 000 , Manatee County Clerk of Circuit C
+004.021.194.080 - 004.021.194.095 , 000 , Hillsborough County State Attorneys Office
+004.021.194.128 - 004.021.194.191 , 000 , Williams Reed Weinstein Schifino
+004.021.194.192 - 004.021.194.223 , 000 , GTE Video Services
+004.021.194.224 - 004.021.194.231 , 000 , Alley and Ingram
+004.021.194.232 - 004.021.194.239 , 000 , Association of Poincina Village
+004.021.196.128 - 004.021.196.135 , 000 , Hit Promotional Products, Inc
+004.021.196.224 - 004.021.196.239 , 000 , Mercury Interactive Corp
+004.021.197.064 - 004.021.197.127 , 000 , Schroeder Manatee Ranch
+004.021.197.128 - 004.021.197.191 , 000 , GTE Video Services
+004.021.197.192 - 004.021.197.223 , 000 , Tampa Postal District
+004.021.197.224 - 004.021.197.231 , 000 , Polk County - Opportunity Council
+004.021.198.000 - 004.021.198.015 , 000 , Veterans Affair Florida Dept
+004.021.201.000 - 004.021.201.255 , 000 , City of Lake Wales
+004.021.202.192 - 004.021.202.223 , 000 , Anderson McQueen
+004.021.204.096 - 004.021.204.127 , 000 , City of Pinellas Park
+004.021.210.080 - 004.021.210.087 , 000 , Hillsborough County Public Defender
+004.021.211.000 - 004.021.211.007 , 000 , US Dept of Treasury-TIGTA TIGTA13-211-14 (NET-4-21-211-0-1)
+004.021.212.000 - 004.021.212.255 , 000 , NOAA Aircraft Operations Center
+004.021.213.240 - 004.021.213.247 , 000 , Hill,Ward & Henderson,P.A
+004.021.214.000 - 004.021.214.127 , 000 , Tampa Bay Convention Bureau
+004.021.215.064 - 004.021.215.079 , 000 , Polk County Sheriff
+004.021.215.224 - 004.021.215.239 , 000 , City of Venice
+004.022.032.088 - 004.022.032.095 , 000 , US Dept of Treasury-TIGTA TIGTA17-32-14 (NET-4-22-32-88-1)
+004.022.032.224 - 004.022.032.255 , 000 , Cisco Systems, Inc. CISCOPHNX-32-07 (NET-4-22-32-224-1)
+004.022.036.112 - 004.022.036.127 , 000 , Synopsys Inc. SYNOPSYS2-36-08 (NET-4-22-36-112-1)
+004.022.066.000 - 004.022.067.255 , 000 , Nokia IPRG
+004.022.072.000 - 004.022.079.255 , 000 , Nokia IPRG
+004.022.105.000 - 004.022.105.255 , 000 , City of Pomona
+004.022.106.056 - 004.022.106.063 , 000 , West Covina Police Department
+004.022.110.104 - 004.022.110.111 , 000 , Aladdin Companies
+004.022.114.032 - 004.022.114.047 , 000 , City of Covina
+004.022.129.000 - 004.022.129.127 , 000 , Net.Works Corporation
+004.022.134.000 - 004.022.135.255 , 000 , GTE Business Development + Integration
+004.022.136.064 - 004.022.136.095 , 000 , Xerox Business Services
+004.022.136.160 - 004.022.136.167 , 000 , US Dept of Treasury-TIGTA TIGTA23-136-14 (NET-4-22-136-160-1)
+004.022.137.032 - 004.022.137.047 , 000 , Synopsys Inc. SYNOPSYS20-137-08 (NET-4-22-137-32-1)
+004.022.138.128 - 004.022.138.255 , 000 , Courtroom Sciences, Inc
+004.022.139.192 - 004.022.139.255 , 000 , US Dept of Treasury - TIGTA
+004.022.140.136 - 004.022.140.143 , 000 , Drug Enforcement Adm
+004.022.140.160 - 004.022.140.175 , 000 , city of highland village
+004.022.141.024 - 004.022.141.031 , 000 , Xerox Business Services XBSDAL-141-24 (NET-4-22-141-24-1)
+004.022.145.000 - 004.022.145.255 , 000 , Xerox Business Services XBSDAL-145-16 (NET-4-22-145-0-1)
+004.022.149.144 - 004.022.149.159 , 000 , Fuji Photo Film USA, Inc. FPF9-149-22 (NET-4-22-149-144-1)
+004.022.150.000 - 004.022.150.015 , 000 , Drug Enforcement Adm
+004.022.151.000 - 004.022.151.031 , 000 , Vital Media Security VITMEDSEC-151-06 (NET-4-22-151-0-1)
+004.022.151.096 - 004.022.151.127 , 000 , Cisco Systems, Inc. CISCOIRVING-151-07 (NET-4-22-151-96-1)
+004.022.151.192 - 004.022.151.255 , 000 , City of Plano
+004.022.154.128 - 004.022.154.159 , 000 , Cisco Systems, Inc. CISCOTULSA-154-17 (NET-4-22-154-128-1)
+004.022.173.192 - 004.022.173.207 , 000 , GTE Communications Corporation
+004.022.173.224 - 004.022.173.239 , 000 , Lord, Bissell & Brook
+004.022.175.064 - 004.022.175.127 , 000 , U.S. Department of Transportation USDPTTRANS-175-02 (NET-4-22-175-64-1)
+004.022.175.192 - 004.022.175.255 , 000 , Bae Systems BAESYS-175-04 (NET-4-22-175-192-1)
+004.022.195.000 - 004.022.195.255 , 000 , Lionbridge Technologies, Inc
+004.022.237.000 - 004.022.237.255 , 000 , Pechanga Entertainment Center PECHANGA-237-09 (NET-4-22-237-0-1)
+004.022.239.128 - 004.022.239.191 , 000 , City of Hermosa Beach
+004.022.248.064 - 004.022.248.095 , 000 , Hauser-Cie Entertainment, LLC HAUSERCENT-248-17 (NET-4-22-248-64-1)
+004.023.008.000 - 004.023.008.127 , 000 , Raytheon Technical Services
+004.023.009.096 - 004.023.009.111 , 000 , Jerry Bruckheimer Films
+004.023.012.000 - 004.023.012.255 , 000 , BA Studios, LLC
+004.023.014.000 - 004.023.014.031 , 000 , City of Huntington Beach-City Hall
+004.023.015.064 - 004.023.015.095 , 000 , Beaumont Library District BEAUMONTLD-15-19 (NET-4-23-15-64-1)
+004.023.015.096 - 004.023.015.111 , 000 , San Bernardino County Sun SBCS-15-17 (NET-4-23-15-96-1)
+004.023.015.128 - 004.023.015.159 , 000 , G4 Media GFOURMEDIA-15-26 (NET-4-23-15-128-1)
+004.023.017.128 - 004.023.017.255 , 000 , Los Angeles County LACO-17-23 (NET-4-23-17-128-1)
+004.023.020.128 - 004.023.020.255 , 000 , City of Glendora Police Dept
+004.023.023.000 - 004.023.023.255 , 000 , Fulwider Patton Lee Utecht LLP
+004.023.026.208 - 004.023.026.223 , 000 , Phase One Productions
+004.023.027.000 - 004.023.027.127 , 000 , City of Industry
+004.023.059.124 - 004.023.059.124 , 000 , www.interieur.gouv.fr
+004.023.064.000 - 004.023.064.255 , 000 , Intel Corporation - Dupont WA
+004.023.065.024 - 004.023.065.031 , 000 , US Dept of Treasury - TIGTA
+004.023.065.048 - 004.023.065.063 , 000 , City of Arlington
+004.023.079.000 - 004.023.079.255 , 000 , City of Edmonds
+004.023.080.000 - 004.023.080.255 , 000 , NetGames, Inc
+004.023.096.000 - 004.023.099.255 , 000 , Polk County Board County Commissioner
+004.023.101.168 - 004.023.101.175 , 000 , Fuji Photo Film USA, Inc. FPF13-101-05 (NET-4-23-101-168-1)
+004.023.102.064 - 004.023.102.087 , 000 , Fowler,White,Billen,Boggs,Villareal + Banker
+004.023.103.160 - 004.023.103.191 , 000 , Cisco Systems, Inc. CISCOJKSN-103-11 (NET-4-23-103-160-1)
+004.023.104.000 - 004.023.104.031 , 000 , Cisco Systems, Inc. CISCORLNDO-104-11 (NET-4-23-104-0-1)
+004.023.104.128 - 004.023.104.143 , 000 , City of Pinellas Park
+004.023.104.176 - 004.023.104.191 , 000 , Feld Entertainment FELDINC-104-06 (NET-4-23-104-176-1)
+004.023.105.000 - 004.023.105.255 , 000 , Digital Bay Media Inc. DIGITAL-105-19 (NET-4-23-105-0-1)
+004.023.106.048 - 004.023.106.063 , 000 , Trader Publishing TRADERPUB-106-18 (NET-4-23-106-48-1)
+004.023.109.000 - 004.023.109.255 , 000 , Media ONETOONE-109-07 (NET-4-23-109-0-1)
+004.023.110.128 - 004.023.110.255 , 000 , Bush Ross Gardner Warren & Rudy P A
+004.023.122.192 - 004.023.122.255 , 000 , Forced Matrix FORCEDMATRIX-122-06 (NET-4-23-122-192-1)
+004.023.132.064 - 004.023.132.127 , 000 , BTG/US Railroad Retirement Bureau RRB-132-02 (NET-4-23-132-64-1)
+004.023.132.224 - 004.023.132.239 , 000 , Fuji Photo Films FPF4-132-11 (NET-4-23-132-224-1)
+004.023.135.192 - 004.023.135.255 , 000 , Raytheon Training LLC RAYTHEON5-135-13 (NET-4-23-135-192-1)
+004.023.150.000 - 004.023.150.015 , 000 , Synopsys Inc. SYNOPSYS10-150-02 (NET-4-23-150-0-1)
+004.023.160.176 - 004.023.160.191 , 000 , Drug Enforcement Adm
+004.023.160.240 - 004.023.160.255 , 000 , Sanctuary Records Group SANCTUARY2-160-14 (NET-4-23-160-240-1)
+004.023.161.024 - 004.023.161.031 , 000 , BTG/US Dept of Veteran Affairs VISN2-161-19 (NET-4-23-161-24-1)
+004.023.161.048 - 004.023.161.063 , 000 , Fuji Photo Film USA, Inc. FPF10-161-18 (NET-4-23-161-48-1)
+004.023.161.208 - 004.023.161.223 , 000 , US Dept of Treasury-TIGTA TIGTA5-161-02 (NET-4-23-161-208-1)
+004.023.162.192 - 004.023.162.223 , 000 , Roundabout
+004.023.167.240 - 004.023.167.247 , 000 , Fuji Photo Film USA, Inc. FPF33-167-3 (NET-4-23-167-240-1)
+004.023.170.016 - 004.023.170.031 , 000 , New York City Off Track Betting
+004.023.170.128 - 004.023.170.143 , 000 , New York City Off Track Betting NYCOTB3-170-4 (NET-4-23-170-128-1)
+004.023.170.144 - 004.023.170.159 , 000 , Order of Republican National Convention ORNC-170-16 (NET-4-23-170-144-1)
+004.023.170.192 - 004.023.170.207 , 000 , URS Corporation
+004.023.170.208 - 004.023.170.223 , 000 , Order of Republican National Convention ORNC-170-21 (NET-4-23-170-208-1)
+004.023.170.224 - 004.023.170.239 , 000 , Federal Reserve Bank of Boston
+004.023.172.032 - 004.023.172.047 , 000 , US Dept of Treasury-TIGTA TIGTA7-172-17 (NET-4-23-172-32-1)
+004.023.174.128 - 004.023.174.191 , 000 , Cisco Systems, Inc
+004.023.174.224 - 004.023.174.255 , 000 , Cisco Systems, Inc. CISCONY-174-17 (NET-4-23-174-224-1)
+004.023.175.152 - 004.023.175.159 , 000 , Dateline/US Dept of Veteran Affairs VISN-175-08 (NET-4-23-175-152-1)
+004.023.176.128 - 004.023.176.255 , 000 , BBN Corporation ISENY-176-04 (NET-4-23-176-128-1)
+004.023.177.128 - 004.023.177.143 , 000 , Fuji Photo Film USA, Inc. FPF4-177-12 (NET-4-23-177-128-1)
+004.023.177.168 - 004.023.177.175 , 000 , Kuwait Mission
+004.023.179.000 - 004.023.179.063 , 000 , Raytheon Training LLC RAYTHEON2-179-13 (NET-4-23-179-0-1)
+004.023.179.096 - 004.023.179.103 , 000 , Cap Gemini Ernst& Young U.S., LLC
+004.023.179.120 - 004.023.179.127 , 000 , US Dept of Treasury-TIGTA TIGTA36-179-25 (NET-4-23-179-120-1)
+004.023.179.160 - 004.023.179.191 , 000 , Fuji Photo Film USA, Inc
+004.023.183.192 - 004.023.183.255 , 000 , NYS Legislative Bill Drafting NYSLBD-183-12 (NET-4-23-183-192-1)
+004.023.184.032 - 004.023.184.063 , 000 , Cisco Systems, Inc. CISCOALBANY-184-28 (NET-4-23-184-32-1)
+004.023.185.032 - 004.023.185.047 , 000 , Fish & Richardson PC
+004.023.185.064 - 004.023.185.127 , 000 , American Lawyer Media AMERLAWY-185-18 (NET-4-23-185-64-1)
+004.023.185.192 - 004.023.185.223 , 000 , Cisco Systems, Inc. CISCONORWALK-185-06 (NET-4-23-185-192-1)
+004.023.187.000 - 004.023.187.255 , 000 , Kramer Levin
+004.023.188.000 - 004.023.188.255 , 000 , Israel Aircraft Industries, Internationa IAII-188-21 (NET-4-23-188-0-1)
+004.023.190.000 - 004.023.190.032 , 000 , sandleroneill.com
+004.023.194.192 - 004.023.194.255 , 000 , Legal Aid Society of Hawaii
+004.024.048.000 - 004.024.051.255 , 000 , Level 3 Communications
+004.024.056.000 - 004.024.056.255 , 000 , Level 3 Communications
+004.024.058.000 - 004.024.059.255 , 000 , Level 3 Communications
+004.024.062.000 - 004.024.066.255 , 000 , Level 3 Communications
+004.024.068.000 - 004.024.072.255 , 000 , Level 3 Communications
+004.024.074.000 - 004.024.076.255 , 000 , Level 3 Communications
+004.024.080.000 - 004.024.080.255 , 000 , Level 3 Communications
+004.024.085.000 - 004.024.086.255 , 000 , Level 3 Communications
+004.024.090.000 - 004.024.090.255 , 000 , Level 3 Communications
+004.024.092.000 - 004.024.092.255 , 000 , Level 3 Communications
+004.024.094.000 - 004.024.094.255 , 000 , Level 3 Communications
+004.024.096.000 - 004.024.098.255 , 000 , Level 3 Communications
+004.024.104.000 - 004.024.113.255 , 000 , Level 3 Communications
+004.024.132.000 - 004.024.132.255 , 000 , Level 3 Communications
+004.024.137.000 - 004.024.137.255 , 000 , Level 3 Communications
+004.024.142.000 - 004.024.142.255 , 000 , Level 3 Communications
+004.024.152.000 - 004.024.152.255 , 000 , Level 3 Communications
+004.024.154.000 - 004.024.154.255 , 000 , Level 3 Communications
+004.024.157.016 - 004.024.157.031 , 000 , Cisco Albany
+004.024.158.000 - 004.024.158.255 , 000 , Level 3 Communications
+004.024.160.000 - 004.024.160.255 , 000 , Level 3 Communications
+004.024.162.000 - 004.024.162.255 , 000 , Level 3 Communications
+004.024.168.000 - 004.024.168.255 , 000 , Level 3 Communications
+004.024.170.024 - 004.024.170.031 , 000 , Cisco Systems
+004.024.172.000 - 004.024.172.063 , 000 , Hewlett Packard
+004.034.000.000 - 004.034.127.255 , 000 , Level 3 suspect range, Detected AP2P on Level 3
+004.035.201.000 - 004.035.201.255 , 000 , Cyveillance
+004.036.045.000 - 004.036.045.255 , 000 , City of Gardner
+004.036.061.000 - 004.036.061.255 , 000 , Old Colony Library Network OLDCOLONY-61-03 (NET-4-36-61-0-1)
+004.036.098.000 - 004.036.098.255 , 000 , Pasco County Libraries PASCOCL-98-10 (NET-4-36-98-0-1)
+004.036.109.000 - 004.036.109.255 , 000 , Universal Studios Inc
+004.036.129.000 - 004.036.129.063 , 000 , FEMA FEMA-129-07 (NET-4-36-129-0-1)
+004.036.129.128 - 004.036.129.191 , 000 , Upper Trinity Regional Water District UTRWD-129-20 (NET-4-36-129-128-1)
+004.036.130.000 - 004.036.130.063 , 000 , Brook Hollow North
+004.036.131.000 - 004.036.131.063 , 000 , Raytheon Training LLC RAYTHEON8-131-13 (NET-4-36-131-0-1)
+004.036.134.160 - 004.036.134.191 , 000 , City of Plano
+004.036.139.000 - 004.036.139.255 , 000 , City of Coppell
+004.036.144.000 - 004.036.149.255 , 000 , City of Dallas Library
+004.036.150.224 - 004.036.150.255 , 000 , City of Southlake
+004.036.161.128 - 004.036.161.191 , 000 , Raytheon Training LLC RAYTHEON7-161-13 (NET-4-36-161-128-1)
+004.036.198.000 - 004.036.198.127 , 000 , Commonwealth of Massachusetts COMMONWEALTH3-198-08 (NET-4-36-198-0-1)
+004.036.212.064 - 004.036.212.127 , 000 , WHDH TV Channel 7 in Boston WHDH-212-14 (NET-4-36-212-64-1)
+004.036.226.128 - 004.036.226.255 , 000 , Revolution Studios
+004.036.231.000 - 004.036.231.255 , 000 , R&C Productions, Inc RCPROD2-231-16 (NET-4-36-231-0-1)
+004.036.236.128 - 004.036.236.159 , 000 , Van Etten Suzumoto & Beckett, LLP VANETTEN-128-14 (NET-4-36-236-128-1)
+004.036.241.128 - 004.036.241.255 , 000 , The Tennis Channel THETENNISCHANNEL-241-10 (NET-4-36-241-128-1)
+004.036.243.000 - 004.036.243.255 , 000 , Cap Gemini Ernst& Young U.S., LLC
+004.036.244.208 - 004.036.244.223 , 000 , Ontario Airport Hilton ONTARIOAIR-244-07 (NET-4-36-244-208-1)
+004.036.254.000 - 004.036.254.255 , 000 , City of Santa Monica
+004.037.064.136 - 004.037.064.159 , 000 , US Dept of Treasury-TIGTA
+004.037.064.224 - 004.037.064.255 , 000 , Cisco Systems, Inc. CISCOCIN-64-29 (NET-4-37-64-224-1)
+004.037.068.160 - 004.037.068.191 , 000 , Cisco Systems, Inc. CISCOCHMPGN-68-13 (NET-4-37-68-160-1)
+004.037.071.008 - 004.037.071.015 , 000 , ACS Government Systems ACSGOVSYS-71-01 (NET-4-37-71-8-1)
+004.037.071.064 - 004.037.071.095 , 000 , Aspen Systems Corporation ASPS2-71-02 (NET-4-37-71-64-1)
+004.037.071.096 - 004.037.071.127 , 000 , Cisco Systems, Inc. CISCOCARMEL-71-24 (NET-4-37-71-96-1)
+004.037.072.000 - 004.037.072.127 , 000 , ACS Government Systems ACSGOVSYS-72-05 (NET-4-37-72-0-1)
+004.037.077.000 - 004.037.077.255 , 000 , Digimarc
+004.037.084.000 - 004.037.084.255 , 000 , Aspen Systems Corporation ASPS2-84-5 (NET-4-37-84-0-1)
+004.037.096.000 - 004.037.096.031 , 000 , Chicago Mercantile Exchange
+004.037.096.080 - 004.037.096.087 , 000 , US Dept of Treasury-TIGTA TIGTA24-96-14 (NET-4-37-96-80-1)
+004.037.096.104 - 004.037.096.111 , 000 , Cyber Works Media Group CYBERWORKS-96-22 (NET-4-37-96-104-1)
+004.037.096.112 - 004.037.096.119 , 000 , Cap Gemini Ernst& Young U.S., LLC CAPGEY-96-30 (NET-4-37-96-112-1)
+004.037.096.120 - 004.037.096.127 , 000 , Drug Enforcement Adm
+004.037.096.160 - 004.037.096.191 , 000 , Cisco Systems, Inc. CISCOVERLND-96-29 (NET-4-37-96-160-1)
+004.037.096.224 - 004.037.096.255 , 000 , Cisco Systems, Inc. CISCOCHICAGO-96-22 (NET-4-37-96-224-1)
+004.037.097.224 - 004.037.097.239 , 000 , Chicago Mercantile Exchange
+004.037.100.000 - 004.037.100.255 , 000 , Chicago Mercantile Exchange
+004.037.102.000 - 004.037.102.255 , 000 , Cap Gemini Ernst & Young U.S
+004.037.103.000 - 004.037.103.255 , 000 , Cyber Works Media Group CYBERWORKS-103-22 (NET-4-37-103-0-1)
+004.037.109.000 - 004.037.109.255 , 000 , Computer Sciences Corporation
+004.037.113.000 - 004.037.113.031 , 000 , Electronic Imaging Systems of America
+004.037.113.032 - 004.037.113.063 , 000 , Werner Media
+004.037.160.064 - 004.037.160.071 , 000 , Hilton Tuscon East HTE-160-20 (NET-4-37-160-64-1)
+004.037.160.112 - 004.037.160.119 , 000 , Drug Enforcement Adm
+004.037.192.000 - 004.037.211.255 , 000 , Lucent Enhanced Services and Sales
+004.037.248.000 - 004.037.255.255 , 000 , U.S. General Services Administration
+004.038.036.096 - 004.038.036.111 , 000 , Synopsys Inc. SYNOPSYSHINTAI-36-3 (NET-4-38-36-96-1)
+004.038.037.032 - 004.038.037.063 , 000 , City of Lakewood
+004.038.038.000 - 004.038.038.127 , 000 , MovieLink MOVIELINK-38-13 (NET-4-38-38-0-1)
+004.038.038.128 - 004.038.038.255 , 000 , Bernard P. Wolfsdorf BPWOLFSDORF-38-04 (NET-4-38-38-128-1)
+004.038.041.064 - 004.038.041.095 , 000 , City of Whittier
+004.038.041.128 - 004.038.041.255 , 000 , MovieLink MOVIELINK-41-26 (NET-4-38-41-128-1)
+004.038.049.000 - 004.038.049.031 , 000 , City of Santa Fe Springs-PSC
+004.038.049.224 - 004.038.049.255 , 000 , Ontario Airport Hilton ONTARIOAIR-49-19 (NET-4-38-49-224-1)
+004.038.074.000 - 004.038.074.255 , 000 , Bureau of National Affairs
+004.038.079.000 - 004.038.079.127 , 000 , Computer Sciences Corp
+004.038.079.128 - 004.038.079.255 , 000 , Feld Entertainment
+004.038.093.096 - 004.038.093.127 , 000 , Promo Music PROMOMUSIC-93-11 (NET-4-38-93-96-1)
+004.038.094.000 - 004.038.094.063 , 000 , Werner Media
+004.038.094.096 - 004.038.094.103 , 000 , Beaumont Police Department
+004.038.097.064 - 004.038.097.095 , 000 , Javelin Inc
+004.039.032.000 - 004.039.032.127 , 000 , City of Springfield
+004.039.037.000 - 004.039.037.127 , 000 , PA House of Representatives
+004.042.162.128 - 004.042.162.255 , 000 , Hocking County Commisioners HOCKINGCC-162-20 (NET-4-42-162-128-1)
+004.042.176.064 - 004.042.176.095 , 000 , Synopsys Inc. SYNOPSYSOR-176-04 (NET-4-42-176-64-1)
+004.042.176.112 - 004.042.176.127 , 000 , Synopsys Inc. SYNOPSYSWA-176-04 (NET-4-42-176-112-1)
+004.042.176.160 - 004.042.176.175 , 000 , Synopsys Inc. SYNOPSYSVANWA-176-16 (NET-4-42-176-160-1)
+004.042.179.000 - 004.042.179.031 , 000 , Cisco Systems, Inc. CISCOBELLEVUE-179-06 (NET-4-42-179-0-1)
+004.042.179.064 - 004.042.179.095 , 000 , Cisco Systems, Inc. CISCOSEATTLE-179-21 (NET-4-42-179-64-1)
+004.042.184.128 - 004.042.184.255 , 000 , Courttrax, Inc
+004.042.189.080 - 004.042.189.095 , 000 , Hulabee Entertainment Inc HULABEE-189-30 (NET-4-42-189-80-1)
+004.042.192.200 - 004.042.192.207 , 000 , Drug Enforcement Adm
+004.042.192.208 - 004.042.192.223 , 000 , Fish & Richardson PC
+004.042.202.096 - 004.042.202.127 , 000 , Town of Addison
+004.042.204.128 - 004.042.204.159 , 000 , Town of Addison
+004.042.204.192 - 004.042.204.255 , 000 , Ascent Management, Inc. ASCENT-204-13 (NET-4-42-204-192-1)
+004.042.208.016 - 004.042.208.023 , 000 , EMI Music Publishing
+004.042.208.024 - 004.042.208.031 , 000 , US Dept of Treasury - TIGTA
+004.042.208.064 - 004.042.208.095 , 000 , Cisco Systems, Inc
+004.042.209.184 - 004.042.209.191 , 000 , Drug Enforcement Adm
+004.042.209.224 - 004.042.209.231 , 000 , Drug Enforcement Adm
+004.042.210.128 - 004.042.210.159 , 000 , Cisco Systems, Inc. CISCOKLNDPRK-210-13 (NET-4-42-210-128-1)
+004.042.212.024 - 004.042.212.031 , 000 , Fowler,White,Billen,Boggs,Villareal + Banker FWGBVB5-212-11 (NET-4-42-212-24
+004.042.212.048 - 004.042.212.063 , 000 , Fuji Photo Film USA, Inc. FPF35-212-20 (NET-4-42-212-48-1)
+004.042.224.096 - 004.042.224.103 , 000 , Drug Enforcement Adm
+004.042.224.104 - 004.042.224.111 , 000 , Javelin Inc
+004.042.225.032 - 004.042.225.039 , 000 , Teale Data Center TEALE4-225-19 (NET-4-42-225-32-1)
+004.042.227.000 - 004.042.227.063 , 000 , Douglas County DOUGLASCOUNTY-227-22 (NET-4-42-227-0-1)
+004.042.227.224 - 004.042.227.239 , 000 , Cisco Systems, Inc
+004.042.232.064 - 004.042.232.095 , 000 , Bingham McCutchen, LLP BINGHAMSANFRANCISCO-232-17 (NET-4-42-232-64-1)
+004.042.233.224 - 004.042.233.255 , 000 , Cisco Systems, Inc. CISCORENO-233-10 (NET-4-42-233-224-1)
+004.042.235.128 - 004.042.235.143 , 000 , City of Santa Maria
+004.042.237.224 - 004.042.237.255 , 000 , Werner Media
+004.042.238.032 - 004.042.238.063 , 000 , Javelin Inc
+004.042.238.064 - 004.042.238.095 , 000 , Javelin Inc
+004.042.242.000 - 004.042.242.031 , 000 , EDS/EBS
+004.042.244.032 - 004.042.244.063 , 000 , Proskauer Rose
+004.042.244.160 - 004.042.244.175 , 000 , Federal Bureau Investigation
+004.042.244.192 - 004.042.244.223 , 000 , Federal Bureau Investigation
+004.042.244.224 - 004.042.244.239 , 000 , US Dept of Treasury - TIGTA
+004.042.246.144 - 004.042.246.159 , 000 , Synopsys Inc. SYNOPSYSNJ-246-04 (NET-4-42-246-144-1)
+004.042.246.176 - 004.042.246.183 , 000 , New York State Insurance Fund
+004.042.247.208 - 004.042.247.223 , 000 , Overseas Media
+004.043.032.200 - 004.043.032.207 , 000 , Drug Enforcement Adm
+004.043.032.208 - 004.043.032.223 , 000 , Fish & Richardson PC
+004.043.032.224 - 004.043.032.255 , 000 , Cisco Systems, Inc. CISCOSANDIEGO-32-06 (NET-4-43-32-224-1)
+004.043.036.000 - 004.043.036.063 , 000 , Commact Net
+004.043.038.000 - 004.043.038.255 , 000 , Cap Gemini Ernst& Young U.S., LLC CAPGEY4-38-24 (NET-4-43-38-0-1)
+004.043.039.192 - 004.043.039.223 , 000 , Cisco Systems, Inc. CISCOWLLTWNSHP-39-13 (NET-4-43-39-192-1)
+004.043.040.000 - 004.043.040.031 , 000 , Cisco Systems, Inc. CISCOBLOOM-40-07 (NET-4-43-40-0-1)
+004.043.044.088 - 004.043.044.095 , 000 , Javelin Inc
+004.043.047.000 - 004.043.047.255 , 000 , Games Structure GAMESSTRUCTURE-47-09 (NET-4-43-47-0-1)
+004.043.052.128 - 004.043.052.191 , 000 , Siemens Energy & Automation SIEMENSEA-52-06 (NET-4-43-52-128-1)
+004.043.064.128 - 004.043.064.143 , 000 , FMC Corporation FMCCORP-64-07 (NET-4-43-64-128-1)
+004.043.064.144 - 004.043.064.159 , 000 , Fish & Richardson PC
+004.043.064.160 - 004.043.064.167 , 000 , Drug Enforcement Adm
+004.043.064.176 - 004.043.064.191 , 000 , Fuji Photo Film USA, Inc. FPF14-64-18 (NET-4-43-64-176-1)
+004.043.065.000 - 004.043.065.031 , 000 , Cisco Systems, Inc. CISCOMRSTWN-65-13 (NET-4-43-65-0-1)
+004.043.067.000 - 004.043.067.031 , 000 , County of Bucks COBUCK-67-3 (NET-4-43-67-0-1)
+004.043.067.064 - 004.043.067.127 , 000 , NFL Films NFL-67-3 (NET-4-43-67-64-1)
+004.043.068.192 - 004.043.068.255 , 000 , FMC Corporation FMCCORP-68-17 (NET-4-43-68-192-1)
+004.043.080.000 - 004.043.080.063 , 000 , Cisco Systems, Inc
+004.043.081.032 - 004.043.081.047 , 000 , BAE Systems BAESYSTEMS2-81-29 (NET-4-43-81-32-1)
+004.043.081.048 - 004.043.081.055 , 000 , Javelin Inc
+004.043.081.096 - 004.043.081.127 , 000 , Javelin Inc
+004.043.096.000 - 004.043.096.255 , 000 , Media Force
+004.043.097.224 - 004.043.097.255 , 000 , The Association of the Bar of New York
+004.043.101.000 - 004.043.101.127 , 000 , Granite Broadcasting
+004.043.103.128 - 004.043.103.159 , 000 , City of Ithaca
+004.043.103.160 - 004.043.103.191 , 000 , City of New York Parks & Recreation
+004.043.108.016 - 004.043.108.031 , 000 , Fuji Photo Film USA, Inc. FPF7-108-19 (NET-4-43-108-16-1)
+004.043.108.096 - 004.043.108.127 , 000 , Bingham Dana LLP
+004.043.109.000 - 004.043.109.255 , 000 , Publishers Clearing House PUBLISHERS-109-12 (NET-4-43-109-0-1)
+004.043.114.048 - 004.043.114.055 , 000 , Accenture
+004.043.118.128 - 004.043.118.255 , 000 , Wenner Media Inc. WENNERNY-118-10 (NET-4-43-118-128-1)
+004.043.119.224 - 004.043.119.239 , 000 , Bergeren County Utilities BERGENCOUNTY-119-6 (NET-4-43-119-224-1)
+004.043.121.224 - 004.043.121.239 , 000 , Sanctuary Records Group SANCTUARY5-121-10 (NET-4-43-121-224-1)
+004.043.122.000 - 004.043.122.255 , 000 , Toshiba America, Inc. TOSHIBAAMINC-122-9 (NET-4-43-122-0-1)
+004.043.124.192 - 004.043.124.255 , 000 , Media Force
+004.053.120.022 - 004.053.120.022 , 000 , websense-in.car1.sandiego1.level3.net
+004.067.010.000 - 004.067.010.063 , 000 , Allegheny County Airport Authority ACA-10-14 (NET-4-67-10-0-1)
+004.067.010.128 - 004.067.010.255 , 000 , Allegheny County Airport Authority
+004.067.018.000 - 004.067.018.255 , 000 , Screen Actors Guild
+004.067.021.096 - 004.067.021.127 , 000 , City of Seal Beach
+004.067.043.000 - 004.067.043.127 , 000 , PC Richards & Son
+004.067.072.000 - 004.067.072.255 , 000 , Advent Software, Inc
+004.067.080.064 - 004.067.080.127 , 000 , FEMA FEMA3-80-19 (NET-4-67-80-64-1)
+004.067.088.000 - 004.067.089.255 , 000 , City of Springfield
+004.071.104.143 - 004.071.104.148 , 000 , cachelogic
+004.071.105.000 - 004.071.105.063 , 000 , Joost
+004.071.182.000 - 004.071.182.004 , 000 , cachelogic
+004.071.182.016 - 004.071.182.023 , 000 , DEPT-OF-CEN.car2.Chicago1.Level3.net
+004.071.183.064 - 004.071.183.127 , 000 , Itiva Digital Media Corp
+004.078.188.003 - 004.078.188.012 , 000 , cachelogic
+004.078.241.060 - 004.078.241.063 , 000 , Meta Interfaces
+004.079.004.160 - 004.079.004.191 , 000 , COPYRIGHT CLEARANCE CENTER
+004.079.040.167 - 004.079.040.172 , 000 , cachelogic
+004.079.042.027 - 004.079.042.040 , 000 , cachelogic
+004.079.042.247 - 004.079.042.252 , 000 , cachelogic
+004.079.043.139 - 004.079.043.144 , 000 , cachelogic
+004.079.080.015 - 004.079.080.056 , 000 , SONY-ONLINE.car1.Denver1.Level3.net
+004.079.080.059 - 004.079.080.128 , 000 , cachelogic
+004.079.082.023 - 004.079.082.028 , 000 , cachelogic
+004.079.142.055 - 004.079.142.084 , 000 , cachelogic
+004.079.204.000 - 004.079.204.255 , 000 , L3 Govt
+004.079.208.000 - 004.079.208.007 , 000 , Time Warner
+004.079.208.067 - 004.079.208.072 , 000 , cachelogic
+004.079.208.168 - 004.079.208.171 , 000 , Neustar, Inc
+004.079.208.224 - 004.079.208.255 , 000 , comScore, Inc
+004.079.209.224 - 004.079.209.255 , 000 , Comscore
+004.079.217.174 - 004.079.217.188 , 000 , cachelogic
+004.079.228.027 - 004.079.228.036 , 000 , cachelogic
+004.079.230.039 - 004.079.230.044 , 000 , cachelogic
+004.134.133.064 - 004.134.133.127 , 000 , Federal Reserve Bank of San Francisco
+005.009.106.138 - 005.009.106.138 , 000 , Kad activity on Hetzner Online
+005.014.206.077 - 005.014.206.077 , 000 , Detected AP2P on RCS & RDS
+005.022.129.195 - 005.022.129.195 , 000 , Botnet on Triple C
+005.022.155.000 - 005.022.155.255 , 000 , OOO PARAMAUNT
+005.022.224.000 - 005.022.224.255 , 000 , LoveFilm
+005.022.229.000 - 005.022.229.255 , 000 , SEGA
+005.022.230.000 - 005.022.230.127 , 000 , Getty Images
+005.035.034.011 - 005.035.034.011 , 000 , Kad activity on Multiscan
+005.035.061.101 - 005.035.061.101 , 000 , Detected AP2P on Multiscan RU
+005.035.192.000 - 005.035.199.255 , 000 , Belgium Satellite Services s.a
+005.039.026.093 - 005.039.026.093 , 000 , Kad activity on ALTINSOFT
+005.039.030.032 - 005.039.030.032 , 000 , Detected AP2P on OVH MyDedis
+005.039.056.182 - 005.039.056.182 , 000 , Kad activity on OnetSolutions
+005.039.077.069 - 005.039.077.069 , 000 , Kad activity on OVH Dedicated Servers
+005.039.077.171 - 005.039.077.171 , 000 , Kad activity on OVH Dedicated Servers
+005.039.078.223 - 005.039.078.223 , 000 , Kad activity on OVH Dedicated Servers
+005.039.079.028 - 005.039.079.028 , 000 , Botnet on OVH Dedicated Servers
+005.039.079.112 - 005.039.079.112 , 000 , Kad activity on OVH Dedicated Servers
+005.039.081.056 - 005.039.081.056 , 000 , Kad activity on OVH Dedicated Servers
+005.039.082.092 - 005.039.082.092 , 000 , Kad activity on OVH Dedicated Servers
+005.039.083.121 - 005.039.083.121 , 000 , Kad activity on OVH SAS Dedicated Servers
+005.039.084.037 - 005.039.084.037 , 000 , Kad activity on OVH SAS Dedicated Servers
+005.039.084.194 - 005.039.084.194 , 000 , Kad activity on OVH Dedicated Servers
+005.039.084.230 - 005.039.084.230 , 000 , Kad activity on OVH Dedicated Servers
+005.039.088.083 - 005.039.088.083 , 000 , Detected AP2P on OVH Dedicated Servers
+005.039.089.132 - 005.039.089.132 , 000 , Kad activity on OVH Dedicated Servers
+005.039.089.189 - 005.039.089.189 , 000 , Kad activity on unishell.org
+005.039.095.066 - 005.039.095.066 , 000 , Kad activity on OVH Dedicated Servers
+005.039.208.000 - 005.039.215.255 , 000 , Diputacion de Castellon
+005.042.160.000 - 005.042.191.255 , 000 , Blizzard Entertainment Inc
+005.044.020.198 - 005.044.020.222 , 000 , Brandprotection
+005.044.039.153 - 005.044.039.153 , 000 , botnet on Bakcell
+005.044.039.186 - 005.044.039.186 , 000 , botnet on Bakcell
+005.044.039.252 - 005.044.039.252 , 000 , botnet on Bakcell
+005.044.064.000 - 005.044.071.255 , 000 , TV2 Norway
+005.044.128.000 - 005.044.135.255 , 000 , Ministry of Justice of Georgia
+005.044.208.000 - 005.044.215.255 , 000 , Stadtwerke Kapfenberg GmbH
+005.044.248.000 - 005.044.255.255 , 000 , Bogon
+005.045.102.156 - 005.045.102.156 , 000 , Detected AP2P on netcup GmbH
+005.045.144.000 - 005.045.151.255 , 000 , GPW + Co Ltd
+005.057.160.000 - 005.057.175.255 , 000 , e-IMG Internet Multimedia Group
+005.063.146.144 - 005.063.146.151 , 000 , Detected AP2P on 100TB Hosting Services Inc
+005.063.150.072 - 005.063.150.079 , 000 , Detected AP2P on 100TB/Hosting Services Inc
+005.079.003.107 - 005.079.003.129 , 000 , Detected AP2P on Rackspace Cloud Servers
+005.079.004.089 - 005.079.004.127 , 000 , Detected AP2P on Rackspace Cloud Servers
+005.079.004.150 - 005.079.004.150 , 000 , Detected AP2P on Rackspace Cloud Servers
+005.079.004.200 - 005.079.004.209 , 000 , Detected AP2P on Rackspace Cloud Servers
+005.079.065.016 - 005.079.065.016 , 000 , Kad activity on LeaseWeb
+005.079.065.178 - 005.079.065.178 , 000 , Kad activity on LeaseWeb
+005.079.065.209 - 005.079.065.209 , 000 , Detected AP2P on LeaseWeb
+005.079.074.199 - 005.079.074.199 , 000 , Detected AP2P on LeaseWeb
+005.079.074.227 - 005.079.074.227 , 000 , Detected AP2P on LeaseWeb
+005.079.075.177 - 005.079.075.177 , 000 , Detected AP2P on LeaseWeb
+005.079.081.165 - 005.079.081.165 , 000 , Detected kad activity on LeaseWeb
+005.079.085.019 - 005.079.085.022 , 000 , incoming DHT multiple hosts on same IP
+005.079.085.178 - 005.079.085.181 , 000 , incoming DHT multiple hosts on same IP
+005.129.238.196 - 005.129.238.196 , 000 , SMSHoax FakeAV Fraud Trojan
+005.134.116.082 - 005.134.116.082 , 000 , Detected AP2P on Comvive Servidores - GINERNET
+005.135.022.139 - 005.135.022.139 , 000 , Kad activity on  OVH
+005.135.035.224 - 005.135.035.224 , 000 , Detected kad activity on ALTINSOFT
+005.135.043.168 - 005.135.043.168 , 000 , Detected kad activity on Apercu
+005.135.067.128 - 005.135.067.255 , 000 , MMuskatov OVH Malware
+005.135.088.192 - 005.135.088.207 , 000 , ADNSCOM CORP
+005.135.101.224 - 005.135.101.224 , 000 , Kad activity on OVH
+005.135.143.084 - 005.135.143.084 , 000 , Kad activity on OVH SAS Dedicated Servers
+005.135.152.149 - 005.135.152.149 , 000 , Kad activity on OVH Dedicated Servers
+005.135.152.208 - 005.135.152.208 , 000 , Kad activity on OVH Dedicated Servers
+005.135.153.046 - 005.135.153.046 , 000 , Kad activity on OVH Dedicated Servers
+005.135.154.008 - 005.135.154.008 , 000 , SMSHoax FakeAV Fraud Trojan
+005.135.154.021 - 005.135.154.021 , 000 , Detected kad activity on MJ Webhosting
+005.135.156.065 - 005.135.156.065 , 000 , Kad activity on OVH Dedicated Servers
+005.135.156.150 - 005.135.156.150 , 000 , Kad activity on OVH Dedicated Servers
+005.135.156.164 - 005.135.156.164 , 000 , Kad activity on OVH Dedicated Servers
+005.135.157.031 - 005.135.157.031 , 000 , Kad activity on OVH Dedicated Servers
+005.135.157.036 - 005.135.157.036 , 000 , Kad activity on OVH Dedicated Servers
+005.135.157.179 - 005.135.157.179 , 000 , Detected AP2P on OVH SAS Dedicated Servers
+005.135.158.178 - 005.135.158.178 , 000 , Kad activity on OVH Dedicated Servers
+005.135.159.080 - 005.135.159.080 , 000 , Kad activity on OVH Dedicated Servers
+005.135.159.159 - 005.135.159.159 , 000 , Kad activity on OVH Dedicated Servers
+005.135.159.190 - 005.135.159.190 , 000 , Detected kad activity on OVH SAS
+005.135.163.097 - 005.135.163.097 , 000 , Kad activity on OVH SAS Dedicated Servers
+005.135.163.119 - 005.135.163.119 , 000 , Kad activity on OVH SAS Dedicated Servers
+005.135.164.133 - 005.135.164.133 , 000 , Kad activity on OVH Dedicated Servers
+005.135.167.028 - 005.135.167.028 , 000 , Detected kad activity on OVH SAS
+005.135.167.095 - 005.135.167.095 , 000 , Kad activity on OVH Dedicated Servers
+005.135.177.014 - 005.135.177.014 , 000 , a.t1r.net
+005.135.177.084 - 005.135.177.084 , 000 , Kad activity on OVH Dedicated Servers
+005.135.177.169 - 005.135.177.169 , 000 , AP2P on OVH Dedicated Servers
+005.135.179.117 - 005.135.179.117 , 000 , Kad activity on OVH Dedicated Servers
+005.135.181.098 - 005.135.181.098 , 000 , Kad activity on OVH Dedicated Servers
+005.135.181.155 - 005.135.181.155 , 000 , Kad activity on OVH SAS Dedicated Servers
+005.135.183.028 - 005.135.183.028 , 000 , Detected AP2P on OVH SAS Dedicated Servers
+005.135.184.210 - 005.135.184.210 , 000 , SMSHoax FakeAV Fraud Trojan
+005.135.186.231 - 005.135.186.231 , 000 , Kad activity on OVH SAS Dedicated Servers
+005.135.188.101 - 005.135.188.101 , 000 , Kad activity on OVH Dedicated Servers
+005.135.190.219 - 005.135.190.219 , 000 , Kad activity on OVH Dedicated Servers
+005.135.191.007 - 005.135.191.007 , 000 , Kad activity on OVH Dedicated Servers
+005.135.191.235 - 005.135.191.235 , 000 , Kad activity on OVH Dedicated Servers
+005.135.199.012 - 005.135.199.012 , 000 , Kad activity on OVH
+005.135.239.131 - 005.135.239.131 , 000 , Kad activity on SakuraServer
+005.135.239.151 - 005.135.239.151 , 000 , Kad activity on SakuraServer
+005.135.239.172 - 005.135.239.172 , 000 , Kad activity on OVH
+005.149.106.082 - 005.149.106.082 , 000 , Detected AP2P on PureLine proxy
+005.151.000.127 - 005.151.000.127 , 000 , Botnet on CableCom Networking
+005.151.001.040 - 005.151.001.040 , 000 , Botnet on CableCom Networking
+005.152.196.058 - 005.152.196.058 , 000 , Detected AP2P on Redstation proxy
+005.153.178.000 - 005.153.178.022 , 000 , Gameover Zeus
+005.154.126.129 - 005.154.126.129 , 000 , AP2P on MIWIFI
+005.157.038.002 - 005.157.038.002 , 000 , Kad activity on Webexxpurts
+005.157.038.042 - 005.157.038.042 , 000 , Detected AP2P on Webexxpurts - Fiber Grid
+005.165.254.036 - 005.165.254.036 , 000 , SMSHoax FakeAV Fraud Trojan
+005.178.064.112 - 005.178.064.112 , 000 , Detected AP2P on Serverius Holding
+005.190.067.129 - 005.190.067.129 , 000 , SMSHoax FakeAV Fraud Trojan
+005.199.174.064 - 005.199.174.095 , 000 , digital-forex.net
+005.199.174.104 - 005.199.174.111 , 000 , digital-forex.net
+005.202.005.159 - 005.202.005.159 , 000 , Detected AP2P on PTE proxy
+005.202.178.018 - 005.202.178.018 , 000 , SMSHoax FakeAV Fraud Trojan
+005.231.021.247 - 005.231.021.247 , 000 , GHOSTnet fake eDonkey server
+005.254.097.171 - 005.254.097.171 , 000 , SMSHoax FakeAV Fraud Trojan
+005.254.143.018 - 005.254.143.018 , 000 , Spam and AP2P on vpnsvc
+005.254.144.249 - 005.254.144.249 , 000 , Detected AP2P on OpenVPN
+006.000.000.000 - 006.255.255.255 , 000 , USAISC
+007.000.000.000 - 007.255.255.255 , 000 , DoD Network Information Center
+008.002.032.000 - 008.002.035.255 , 000 , Linden Lab
+008.002.064.000 - 008.002.065.255 , 000 , Computer Sciences corp Meriden VDC
+008.002.096.000 - 008.002.096.255 , 000 , Co-Location.com Inc
+008.003.014.000 - 008.003.014.255 , 000 , Troxen Corporation, Inc
+008.003.017.000 - 008.003.017.255 , 000 , Legal Zoom
+008.003.027.192 - 008.003.027.223 , 000 , Itiva Digital Media Corp
+008.003.210.000 - 008.003.210.255 , 000 , Net Sentry Corp
+008.003.214.000 - 008.003.215.255 , 000 , Hulu, LLC
+008.003.219.000 - 008.003.219.255 , 000 , Live Nation Worldwide, Inc
+008.003.233.000 - 008.003.233.255 , 000 , Live Universe, Inc
+008.004.034.000 - 008.004.035.255 , 000 , Skyrider, Inc
+008.005.002.064 - 008.005.002.127 , 000 , Itiva Digital Media Corp
+008.005.192.000 - 008.005.195.255 , 000 , Sony Computer Entertainment America, Inc
+008.005.196.000 - 008.005.196.255 , 000 , SCEA-FC-AS1 - Sony Computer Entertainment America, Inc
+008.005.200.000 - 008.005.203.255 , 000 , Sony Computer Entertainment
+008.006.000.000 - 008.006.000.255 , 000 , CWIE, LLC
+008.006.012.000 - 008.006.012.255 , 000 , Pandora Media, Inc
+008.007.096.169 - 008.007.096.169 , 000 , uscib.org
+008.007.218.007 - 008.007.218.007 , 000 , take2.lyris.net
+008.008.128.000 - 008.008.135.255 , 000 , Navisite, Inc
+008.009.200.000 - 008.009.201.255 , 000 , Southern Light, LLC
+008.009.204.000 - 008.009.207.255 , 000 , Southern Light, LLC
+008.010.144.000 - 008.010.151.255 , 000 , Linden Lab
+008.010.168.000 - 008.010.175.255 , 000 , IBM - Applications on Demand
+008.011.003.000 - 008.011.003.255 , 000 , NHL Enterprises
+008.012.152.000 - 008.012.152.255 , 000 , IBM Corporation
+008.014.032.130 - 008.014.032.130 , 000 , blogs.gettyimages.com
+008.014.165.000 - 008.014.165.255 , 000 , Day & Zimmerman
+008.014.208.000 - 008.014.208.255 , 000 , CWIE, LLC
+008.015.002.000 - 008.015.002.255 , 000 , SES Americom Maintainer
+008.015.005.000 - 008.015.005.255 , 000 , SES Americom
+008.015.128.000 - 008.015.143.255 , 000 , General Services Administration
+008.015.228.000 - 008.015.228.255 , 000 , Paxfire
+008.015.230.192 - 008.015.230.255 , 000 , Itiva Digital Media Corp
+008.019.245.223 - 008.019.245.223 , 000 , SMSHoax FakeAV Fraud Trojan
+008.021.004.000 - 008.021.004.255 , 000 , Bluecoat Systems
+008.028.216.000 - 008.028.216.255 , 000 , National Cyber Forensics and Training Alliance
+008.030.172.000 - 008.030.172.255 , 000 , Trend Micro
+009.000.000.000 - 009.255.255.255 , 000 , IBM Corporation
+011.000.000.000 - 011.255.255.255 , 000 , DoD Intel Information Systems
+012.000.016.064 - 012.000.016.127 , 000 , Practising Law Institute
+012.000.016.144 - 012.000.016.159 , 000 , CURTCO MEDIA LABS
+012.000.017.000 - 012.000.017.255 , 000 , NATURE PUBLISHING
+012.000.018.000 - 012.000.018.255 , 000 , WEIL, GOTSHAL MANGES LLP
+012.000.025.128 - 012.000.025.159 , 000 , CALLIDUS SOFTWARE, INC
+012.000.025.160 - 012.000.025.175 , 000 , NEW YORK STATE DEPT. OF PUBLIC SVC
+012.000.025.192 - 012.000.025.223 , 000 , HILTON HOTEL CORPORATION
+012.000.027.000 - 012.000.027.255 , 000 , MERCURY INTERACTIVE
+012.000.032.232 - 012.000.032.239 , 000 , MIDDLETON AEROSPACE CORPORATION
+012.000.039.136 - 012.000.039.143 , 000 , SECURITAS SECURITY SERVICES
+012.000.039.152 - 012.000.039.159 , 000 , IRON MOUNTAIN RECORDS MANAGEMENT
+012.000.039.232 - 012.000.039.239 , 000 , POND NORTH LLP
+012.000.044.224 - 012.000.044.255 , 000 , CAMPBELL, CAMPBELL AND EDWARDS
+012.000.045.208 - 012.000.045.215 , 000 , INTERVOICE-BRITE
+012.000.101.128 - 012.000.101.255 , 000 , FUJI PHOTO FILM
+012.000.129.000 - 012.000.129.007 , 000 , GSA ACCTS PAYABLE BR7BCP 299X
+012.000.129.008 - 012.000.129.015 , 000 , AFFILIATED COMPUTER SERVICES
+012.000.129.016 - 012.000.129.023 , 000 , AVAYA
+012.000.129.064 - 012.000.129.127 , 000 , NYS HOUSING FINANCING AGENCY
+012.000.152.096 - 012.000.152.111 , 000 , FUJI PHOTO FILM
+012.000.152.224 - 012.000.152.239 , 000 , DOLBY LABORATORIES, INC
+012.000.153.000 - 012.000.153.255 , 000 , KETCHUM
+012.000.160.032 - 012.000.160.063 , 000 , SHAPIRO MITCHELL FORMAN ALLEN AN
+012.000.160.064 - 012.000.160.079 , 000 , Northrup Grumman
+012.000.160.152 - 012.000.160.159 , 000 , FOX STATIONS SALES
+012.000.192.032 - 012.000.192.063 , 000 , WYLE LABS
+012.000.192.176 - 012.000.192.183 , 000 , FUJI PHOTO FILM
+012.000.238.128 - 012.000.238.159 , 000 , NIA CAPE MAY
+012.000.238.168 - 012.000.238.175 , 000 , ACS-IR
+012.000.239.000 - 012.000.239.255 , 000 , SIEMENS BUSINESS SERVICES
+012.001.041.224 - 012.001.041.255 , 000 , KILPATRICK STOCKTON LLP
+012.001.048.000 - 012.001.050.255 , 000 , PORT AUTHORITY OF NY NJ
+012.001.051.000 - 012.001.051.255 , 000 , OMXUS INC
+012.001.052.064 - 012.001.052.071 , 000 , MATSUSHITA ELECTRIC CORP
+012.001.053.000 - 012.001.053.255 , 000 , EDS-UAG
+012.001.055.000 - 012.001.055.007 , 000 , AVAYA
+012.001.055.152 - 012.001.055.159 , 000 , SIEMENS MEDICAL SOLUTIONS USA, I
+012.001.145.192 - 012.001.145.255 , 000 , Peper Martin et al
+012.001.175.096 - 012.001.175.111 , 000 , Warner Manufacturing Co
+012.001.209.000 - 012.001.209.255 , 000 , OBERTHUR CARD SYSTEMS
+012.001.211.000 - 012.001.211.255 , 000 , CHICAGO MERCANTILE EXCHANGE
+012.001.217.000 - 012.001.217.127 , 000 , ACCENTURE
+012.001.222.224 - 012.001.222.255 , 000 , HILTON HOTEL CORPORATION
+012.001.223.048 - 012.001.223.055 , 000 , CARGILL CROSSTOWN CENTER
+012.001.223.056 - 012.001.223.063 , 000 , AVAYA
+012.001.223.096 - 012.001.223.111 , 000 , ACME DELIVERY SERVICE INC
+012.001.224.000 - 012.001.224.015 , 000 , National White Collar Crime Center
+012.001.224.032 - 012.001.224.047 , 000 , National White Collar Crime Center
+012.001.224.048 - 012.001.224.055 , 000 , MINE SAFETY APPLIANCE CO
+012.001.224.096 - 012.001.224.111 , 000 , National White Collar Center
+012.001.226.064 - 012.001.226.079 , 000 , ALLIANCE TECHNOLOGIES
+012.001.226.080 - 012.001.226.087 , 000 , KIRKPATRICK AND LOCKHART
+012.001.228.128 - 012.001.228.191 , 000 , ATT LABS RTP-LAB
+012.001.228.208 - 012.001.228.223 , 000 , IBM-RYDER
+012.001.228.224 - 012.001.228.255 , 000 , ATT LABS RTP-LAB
+012.001.229.160 - 012.001.229.175 , 000 , RADIO ONE
+012.001.232.064 - 012.001.232.095 , 000 , HILTON HOTEL CORPORATION
+012.001.232.112 - 012.001.232.127 , 000 , NIITEK INC. ACC BUSINESS CUSTOM
+012.001.232.128 - 012.001.232.135 , 000 , GOVERNMENT MICRO RESOURCES
+012.001.232.160 - 012.001.232.191 , 000 , CONCURRENT TECHNOLOGIES CORP
+012.001.233.000 - 012.001.233.255 , 000 , ROBBINS GIOIA INC
+012.001.237.128 - 012.001.237.159 , 000 , Von Holtzbrinck Publishing Services
+012.001.237.208 - 012.001.237.223 , 000 , NAVY FED. CREDIT UNION
+012.001.239.000 - 012.001.239.255 , 000 , DFAS-PEFPD DITCO BRANCH
+012.001.240.000 - 012.001.240.255 , 000 , Lodgenet Entertainment Corporation
+012.001.243.056 - 012.001.243.063 , 000 , IBM-RYDER
+012.001.251.000 - 012.001.251.255 , 000 , Technicolor
+012.002.019.000 - 012.002.019.127 , 000 , AMERICAN MEDIA INC
+012.002.019.128 - 012.002.019.159 , 000 , WOLTERS KLUWER US CORP
+012.002.019.240 - 012.002.019.247 , 000 , COURTROOM TELEVISION NETWORK LLC
+012.002.020.000 - 012.002.020.255 , 000 , Baker & McKenzie
+012.002.023.128 - 012.002.023.143 , 000 , GANNETT CO
+012.002.023.144 - 012.002.023.151 , 000 , APPLE COMPUTER
+012.002.023.160 - 012.002.023.175 , 000 , WEST GROUP THOMSON LEGAL
+012.002.026.056 - 012.002.026.063 , 000 , WOLTERS KLUWER US CORP
+012.002.026.128 - 012.002.026.255 , 000 , Pattishall, McAuliffe, Newbury, Hillard, Geraldson
+012.002.027.000 - 012.002.027.127 , 000 , Task Force Tips
+012.002.027.160 - 012.002.027.191 , 000 , ELECTRONIC ARTS
+012.002.027.208 - 012.002.027.223 , 000 , LEWIS OVERBECK FURMAN LLP
+012.002.030.128 - 012.002.030.143 , 000 , WEST GROUP THOMSON LEGAL
+012.002.030.192 - 012.002.030.207 , 000 , HUNTER PUBLISHING
+012.002.030.208 - 012.002.030.223 , 000 , WOLTERS KLUWER US CORP
+012.002.030.232 - 012.002.030.255 , 000 , SIDLEY AUSTIN DBA
+012.002.032.200 - 012.002.032.207 , 000 , SIEMENS BUSINESS SERVICES
+012.002.032.224 - 012.002.032.255 , 000 , HILTON HOTEL CORPORATION
+012.002.040.080 - 012.002.040.095 , 000 , BOEING COMPANY
+012.002.045.000 - 012.002.045.015 , 000 , PRICE WATERHOUSE COOPERS
+012.002.045.096 - 012.002.045.127 , 000 , BLUEFISH WIRELESS INC
+012.002.046.000 - 012.002.046.255 , 000 , ACS-BUSINESS PROCESS SOLUTIONS
+012.002.047.000 - 012.002.047.255 , 000 , CITY OF SCOTTSBURG
+012.002.059.016 - 012.002.059.023 , 000 , Zuger, Kirmis &amp; Smith Atty
+012.002.059.096 - 012.002.059.103 , 000 , State Bar Association
+012.002.080.000 - 012.002.080.255 , 000 , Wiseman Publishing
+012.002.081.032 - 012.002.081.103 , 000 , HILTON HOTEL CORPORATION
+012.002.082.064 - 012.002.082.079 , 000 , SPX Corporation
+012.002.082.080 - 012.002.082.087 , 000 , ACS-BUSINESS PROCESS SOLUTIONS
+012.002.082.096 - 012.002.082.111 , 000 , Eerdmans Publishing Co
+012.002.084.016 - 012.002.084.031 , 000 , PLUNKETT COONEY LAW OFFICES
+012.002.086.000 - 012.002.086.255 , 000 , KNORR INTERACTIVE
+012.002.087.000 - 012.002.087.031 , 000 , SPX Corporation
+012.002.121.000 - 012.002.121.127 , 000 , INFORMATION SECURITY CORP
+012.002.137.192 - 012.002.137.207 , 000 , THOMSON CORPORATION - W
+012.002.138.080 - 012.002.138.095 , 000 , US COMMISION ON CIVIL RIGHTS
+012.002.138.096 - 012.002.138.103 , 000 , IPSOS-NPD
+012.002.138.104 - 012.002.138.127 , 000 , APPLE COMPUTER
+012.002.138.128 - 012.002.138.255 , 000 , HILTON HOTEL CORPORATION
+012.002.140.000 - 012.002.140.255 , 000 , HILTON HOTEL CORPORATION
+012.002.143.000 - 012.002.143.127 , 000 , HILTON HOTEL CORPORATION
+012.002.143.192 - 012.002.143.199 , 000 , EDS-DETROIT DIESEL
+012.002.143.224 - 012.002.143.255 , 000 , WEST GROUP THOMSON LEGAL
+012.002.153.224 - 012.002.153.255 , 000 , Orion Group Software Engineers
+012.002.163.096 - 012.002.163.111 , 000 , News Media Corporation
+012.002.166.000 - 012.002.166.255 , 000 , Samsung Equipment
+012.002.168.000 - 012.002.168.015 , 000 , City Of Davenport
+221.128.069.000 - 221.128.069.063 , 000 , MCI (Agere Systems Inc)
+221.128.072.240 - 221.128.072.255 , 000 , SAP Thailand Co. Ltd
+221.128.074.048 - 221.128.074.063 , 000 , Virgin Bec-Tero Radio (Thailand) Ltd
+221.128.135.000 - 221.128.135.255 , 000 , Ganpath Bhaban,4 th Floor,Room No-17
+221.128.144.000 - 221.128.145.255 , 000 , Globcast.com,Pradhan Ukheda Bldg
+221.128.212.000 - 221.128.212.255 , 000 , UNIVERSAL-ENT-INET-PPPOE-POOL
+221.132.037.055 - 221.132.037.055 , 000 , AP2P on Ho Chi Minh City Post & Telecom proxy
+221.132.065.088 - 221.132.065.095 , 000 , Korean Publishers Association
+221.132.068.128 - 221.132.068.255 , 000 , Swedish Trade Council
+221.132.086.192 - 221.132.086.223 , 000 , SoftwareCulture
+221.133.064.000 - 221.133.127.255 , 000 , KANAZAWA CABLE TELEVISION NET CO.,LTD
+221.133.147.000 - 221.133.147.063 , 000 , RAINBOW(GR)
+221.133.150.000 - 221.133.150.063 , 000 , INETPOLICE(BUN)
+221.133.196.056 - 221.133.196.063 , 000 , UUNET Non-Portable Customer Assignment
+221.133.198.224 - 221.133.198.255 , 000 , ATTACHMATE-AU
+221.133.199.160 - 221.133.199.167 , 000 , UUNET Non-Portable Customer Assignment
+221.133.199.168 - 221.133.199.175 , 000 , UUNET Australia Non-Portable Customer range
+221.133.199.176 - 221.133.199.191 , 000 , Hornsby City Council
+221.133.212.000 - 221.133.212.063 , 000 , UUNET Non-Portable Customer Assignment
+221.133.212.136 - 221.133.212.143 , 000 , UUNET Non-Portable Customer Assignment
+221.133.227.250 - 221.133.227.250 , 000 , AP2P on True-Star
+221.134.015.224 - 221.134.015.234 , 000 , BUREAU VERITAS INDIA PVT LTD
+221.134.016.128 - 221.134.016.131 , 000 , BUREAU VERITAS
+221.134.016.144 - 221.134.016.151 , 000 , EDS - ELECTRONIC DATA SYSTEMS (INDIA) PVT LTD - BANGALORE
+221.134.018.000 - 221.134.018.254 , 000 , ORACLE
+221.134.034.000 - 221.134.035.254 , 000 , GECIS HYDERABAD
+221.134.067.004 - 221.134.067.007 , 000 , GE CAPITAL SERVICES INDIA LIMITED
+221.134.067.016 - 221.134.067.031 , 000 , GE CAPITAL SERVICES INDIA LIMITED
+221.134.067.032 - 221.134.067.043 , 000 , GROUP 4 FALCK INDIA P LTD
+221.134.069.148 - 221.134.069.151 , 000 , GROUP 4 FALCK INDIA P LTD
+221.134.069.176 - 221.134.069.183 , 000 , TATA INFOTECH LIMITED
+221.134.069.212 - 221.134.069.215 , 000 , GROUP 4 FALCK INDIA P LTD
+221.134.069.224 - 221.134.069.231 , 000 , TATA INFOTECH LIMITED
+221.134.070.016 - 221.134.070.019 , 000 , COMPUTER SCIENCES CORPORATION INDIA PVT LTD
+221.134.071.000 - 221.134.071.007 , 000 , Tata Infotech
+221.134.071.020 - 221.134.071.023 , 000 , EMBASSY OF ITALY
+221.134.071.064 - 221.134.071.071 , 000 , EMBASSY OF ITALY
+221.134.071.204 - 221.134.071.223 , 000 , HIGH COURT
+221.134.074.000 - 221.134.074.007 , 000 , BUREAU VERITAS INDIA PVT LTD
+221.134.075.056 - 221.134.075.067 , 000 , GROUP 4 FALCK INDIA P LTD
+221.134.075.100 - 221.134.075.103 , 000 , GROUP 4 FALCK INDIA P LTD
+221.134.075.168 - 221.134.075.179 , 000 , GROUP 4 FALCK INDIA P LTD
+221.134.076.152 - 221.134.076.159 , 000 , GE CAPITAL INTERNATIONAL SERVICES
+221.134.080.004 - 221.134.080.015 , 000 , WIPRO INFOTECH-CSD
+221.134.081.060 - 221.134.081.071 , 000 , TATA INFOTECH LTD
+221.134.089.156 - 221.134.089.167 , 000 , BUREAU VERITAS INDIA PVT LTD
+221.134.089.208 - 221.134.089.219 , 000 , ESCO AUDIO VISUAL (I) PVT. LTD
+221.134.095.016 - 221.134.095.031 , 000 , GE CAPITAL INTERNATIONAL SERVICES
+221.134.099.168 - 221.134.099.191 , 000 , GROUP 4 FALCK INDIA
+221.134.102.000 - 221.134.102.011 , 000 , NOKIA INDIA PVT LTD
+221.134.105.128 - 221.134.105.133 , 000 , GROUP 4 FALCK INDIA
+221.134.110.028 - 221.134.110.035 , 000 , GE CAPITAL INDIA LTD
+221.134.110.064 - 221.134.110.111 , 000 , GROUP 4 FALCK INDIA LTD
+221.134.110.112 - 221.134.110.123 , 000 , GE CAPITAL SERVICES INDIA LTD
+221.134.111.064 - 221.134.111.075 , 000 , EDS PVT LTD
+221.134.111.228 - 221.134.111.242 , 000 , GROUP 4 FALCK
+221.134.123.136 - 221.134.123.143 , 000 , GROUP 4 FALCK
+221.134.123.160 - 221.134.123.163 , 000 , GROUP 4 FALCK
+221.134.135.068 - 221.134.135.079 , 000 , GE Capital Services India Limited
+221.134.142.068 - 221.134.142.071 , 000 , WIPRO SPECTRAMIND SERVICES PVT LTD
+221.134.144.000 - 221.134.144.035 , 000 , WIPRO SPECTRAMIND SERVICES PVT LTD
+221.134.144.036 - 221.134.144.047 , 000 , ZEE TELEFILMS LIMITED
+221.135.025.096 - 221.135.025.107 , 000 , NOKIA INDIA PVT LTD
+221.135.025.120 - 221.135.025.123 , 000 , BALLY SYSTEMS LTD
+221.135.059.000 - 221.135.059.011 , 000 , CALAKOL SOFTWARE DEVELOPMENT PVT LTD
+221.135.185.216 - 221.135.185.223 , 000 , ACNEILSON
+221.155.078.180 - 221.155.078.180 , 000 , hangugIBM(ju)
+221.155.078.189 - 221.155.078.190 , 000 , hangugIBM(ju)
+221.156.090.119 - 221.156.090.119 , 000 , fake emule servers
+221.157.021.192 - 221.157.021.255 , 000 , BBC1
+221.171.084.031 - 221.171.084.031 , 000 , DDoS/ap2p
+221.172.140.124 - 221.172.140.124 , 000 , SMSHoax FakeAV Fraud Trojan
+221.172.140.175 - 221.172.140.175 , 000 , SMSHoax FakeAV Fraud Trojan
+221.172.142.072 - 221.172.142.072 , 000 , SMSHoax FakeAV Fraud Trojan
+221.172.227.213 - 221.172.227.213 , 000 , SMSHoax FakeAV Fraud Trojan
+221.185.253.023 - 221.185.253.023 , 000 , DDoS/ap2p
+221.186.012.080 - 221.186.012.087 , 000 , NHK (Japan Broadcasting Corporation)
+221.186.014.184 - 221.186.014.191 , 000 , Westone Bit Entertainment
+221.186.016.080 - 221.186.016.087 , 000 , Embassy of Israel
+221.186.020.048 - 221.186.020.055 , 000 , GEMSTAR MULTIMEDIA Limited
+221.186.020.064 - 221.186.020.079 , 000 , NEC Corporation
+221.186.020.160 - 221.186.020.167 , 000 , Toshiba Setsubi Kogyo
+221.186.021.248 - 221.186.021.255 , 000 , TOSHIBA SOLUTIONS CORPORATION
+221.186.022.096 - 221.186.022.111 , 000 , TOSHIBA CORPORATION
+221.186.023.240 - 221.186.024.039 , 000 , NHK (Japan Broadcasting Corporation)
+221.186.024.080 - 221.186.024.103 , 000 , NHK (Japan Broadcasting Corporation)
+221.186.027.048 - 221.186.027.055 , 000 , Hewlett-Packard Japan,Ltd
+221.186.027.208 - 221.186.027.223 , 000 , Hewlett-Packard Japan,Ltd
+221.186.028.200 - 221.186.028.207 , 000 , INFORMATION SERVICES INTERNATIONAL-DENTSU,LTD
+221.186.028.208 - 221.186.028.215 , 000 , Nokia Japan Co.,Ltd
+221.186.034.152 - 221.186.034.159 , 000 , NEC Corporation
+221.186.053.224 - 221.186.053.239 , 000 , HUDSON SOFT COMPANY,LIMITED
+221.186.053.240 - 221.186.053.255 , 000 , HUDSON SOFT COMPANY,LIMITED
+221.186.064.040 - 221.186.064.047 , 000 , DENTSU TEC INC
+221.186.065.216 - 221.186.065.223 , 000 , Panasonic System Solutions Engineering Co.,Ltd
+221.186.065.240 - 221.186.065.247 , 000 , Macrovision Japan and Asia K.K
+221.186.067.216 - 221.186.067.223 , 000 , NEXON JAPAN Co.,Ltd
+221.186.068.024 - 221.186.068.031 , 000 , MITSUBISHI MATERIALS CORPORATION
+221.186.068.032 - 221.186.068.039 , 000 , Mitsubishi Materials Corporation
+221.186.068.120 - 221.186.068.127 , 000 , Sky Media Co.,Ltd
+221.186.068.168 - 221.186.068.175 , 000 , Japan Rights Clearance,Inc
+221.186.068.232 - 221.186.068.239 , 000 , SEGA CORPORATION
+221.186.069.224 - 221.186.069.231 , 000 , Dai Nippon Printing Co.,LTD
+221.186.070.024 - 221.186.070.031 , 000 , NHK (Japan Broadcasting Corporation)
+221.186.071.112 - 221.186.071.127 , 000 , Juniper Networks,K.K
+221.186.071.136 - 221.186.071.143 , 000 , Ministry of Internal Affairs and Communications, Telecommunications Bureau,T
+221.186.071.144 - 221.186.071.151 , 000 , Panasonic SS marketing Co.,Ltd
+221.186.072.120 - 221.186.072.127 , 000 , ARK Information Systems Inc
+221.186.072.192 - 221.186.072.207 , 000 , Intellisync K.K
+221.186.073.000 - 221.186.073.015 , 000 , Sony PCL Inc
+221.186.073.032 - 221.186.073.047 , 000 , Mitsubishi UFJ Asset Management Co.,Ltd
+221.186.073.184 - 221.186.073.191 , 000 , McAfee Co.,Ltd
+221.186.073.208 - 221.186.073.215 , 000 , DREAM WORKS inc
+221.186.073.224 - 221.186.073.231 , 000 , TOKYO FM BROADCASTING CO.,LTD
+221.186.075.064 - 221.186.075.079 , 000 , LANDesk Software K.K
+221.186.076.000 - 221.186.076.007 , 000 , TRI-MEDIA INC
+221.186.076.032 - 221.186.076.039 , 000 , BANDAI Co.,Ltd
+221.186.077.088 - 221.186.077.095 , 000 , Sony Digital Network Applications Inc
+221.186.077.248 - 221.186.077.255 , 000 , Konami Online ,Inc
+221.186.078.024 - 221.186.078.031 , 000 , UBE-MITSUBISHI CEMENT CORPORATION
+221.186.078.080 - 221.186.078.087 , 000 , KADOKAWA INTERACTIVE MEDIA CORPORATION
+221.186.078.088 - 221.186.078.095 , 000 , BANPRESTO CO.,LTD
+221.186.078.176 - 221.186.078.183 , 000 , Bank of Tokyo-Mitsubishi
+221.186.079.192 - 221.186.079.199 , 000 , NEC Corporation Ltd,
+221.186.079.200 - 221.186.079.207 , 000 , TOSHIBA CORPORATION
+221.186.079.224 - 221.186.079.231 , 000 , Cyclone Entertainment
+221.186.080.232 - 221.186.080.239 , 000 , Information Services International-Dentsu,Ltd
+221.186.081.032 - 221.186.081.039 , 000 , Ipsos JSR Co., Ltd
+221.186.081.064 - 221.186.081.071 , 000 , Paramount Home Entertainment (Japan) Limited
+221.186.081.184 - 221.186.081.191 , 000 , Japan-U.S. Business Council (Nishi,Fumiaki)
+221.186.082.056 - 221.186.082.063 , 000 , NEC Corporation
+221.186.082.224 - 221.186.082.231 , 000 , NAMCO LIMITED
+221.186.083.000 - 221.186.083.007 , 000 , NHK (Japan Broadcasting Corporation)
+221.186.084.160 - 221.186.084.175 , 000 , Council of Local Authorities for International Relations
+221.186.087.136 - 221.186.087.143 , 000 , Asahi Information Company
+221.186.088.192 - 221.186.088.199 , 000 , MITSUBISHI ELECTRIC INFORMATION SYSTEMS CORPORATION
+221.186.089.016 - 221.186.089.031 , 000 , Matsudo Chamber of Commerce and Industry
+221.186.089.192 - 221.186.089.207 , 000 , NEC Corporation
+221.186.090.096 - 221.186.090.103 , 000 , KANAGAWAMITSUBISHIFUSO Motor Sales Co.,Ltd
+221.186.090.160 - 221.186.090.167 , 000 , FujiXerox,Co.,Ltd
+221.186.092.120 - 221.186.092.127 , 000 , NEC Corporation
+221.186.092.144 - 221.186.092.151 , 000 , MITSUBISHI ELECTRIC ENGINEERING COMPANY LIMITED
+221.186.092.176 - 221.186.092.191 , 000 , FUJITSU FIP CORPORATION
+221.186.095.064 - 221.186.095.079 , 000 , fujitsu limited
+221.186.095.152 - 221.186.095.159 , 000 , The Ota Chamber of Commerce and Industry
+221.186.095.208 - 221.186.095.215 , 000 , System Development Corporation Limited
+221.186.097.016 - 221.186.097.031 , 000 , SECOM JOSHINETSU CO.,LTD
+221.186.100.168 - 221.186.100.175 , 000 , Toei Corp
+221.186.101.224 - 221.186.101.231 , 000 , KSS CORPORATION
+221.186.102.136 - 221.186.102.143 , 000 , Fuji Xerox Co.,Ltd
+221.186.103.104 - 221.186.103.111 , 000 , OPUS Corporation
+221.186.104.128 - 221.186.104.135 , 000 , Ministry of Land,Infrastructure and Transport
+221.186.105.224 - 221.186.105.231 , 000 , Tondabayashi societs of Commerce and industry
+221.186.106.080 - 221.186.106.087 , 000 , Internet Security Systems K.K
+221.186.106.160 - 221.186.106.167 , 000 , Hitachi Government and Public Corporation System Engineering,Ltd
+221.186.108.136 - 221.186.108.143 , 000 , Hot Line Music Corporation
+221.186.109.160 - 221.186.109.167 , 000 , JICHIRO OSAKA Regional Headquarters(Yamada, Yasuo)
+221.186.112.096 - 221.186.112.111 , 000 , Japan Weather Association(Tokai Branch)
+221.186.115.056 - 221.186.115.063 , 000 , TECHNICAL RESEARCH AND DEVELOPMENT INSTITUTE JAPAN DEFENSE AGENCY
+221.186.115.144 - 221.186.115.159 , 000 , VALOR Corporation
+221.186.115.192 - 221.186.115.199 , 000 , Mitsubishi Hitachi Home Elevator Corporation
+221.186.116.088 - 221.186.116.095 , 000 , Gotou SUBARU Corporation
+221.186.117.000 - 221.186.117.007 , 000 , Shizuoka Prefectual Goverment (Disaster Prevention Bureau)
+221.186.122.208 - 221.186.122.215 , 000 , Ministry of Land,Infrastructure and Transport Kagawa construction work
+221.186.123.032 - 221.186.123.039 , 000 , Ministry of Land,Infrastructure and Transport,Kochi office of River and Nati
+221.186.126.160 - 221.186.126.175 , 000 , Level5 Inc
+221.186.129.056 - 221.186.129.063 , 000 , Mitsubishi Corporation
+221.186.129.240 - 221.186.129.255 , 000 , Japan Ground Self Defence Force
+221.186.130.064 - 221.186.130.071 , 000 , Government Office
+221.186.130.160 - 221.186.130.167 , 000 , Yomiuri News Service Co.,Ltd
+221.186.130.176 - 221.186.130.191 , 000 , NEC Corporation
+221.186.131.176 - 221.186.131.183 , 000 , The United Nations World Food Programme Office in Japan
+221.186.131.232 - 221.186.131.239 , 000 , Quintet Co.,Ltd
+221.186.132.040 - 221.186.132.047 , 000 , DEFENSE MINISTRY(GIKEN 2ND RESEARCH CENTER)
+221.186.132.152 - 221.186.132.159 , 000 , TV Asahi Mediaplex Corporation
+221.186.132.240 - 221.186.132.247 , 000 , TOKYO RADIO SYSTEM Co.,Ltd
+221.186.134.168 - 221.186.134.175 , 000 , Fuji Xerox Co.,Ltd
+221.186.135.016 - 221.186.135.031 , 000 , Accenture
+221.186.135.048 - 221.186.135.055 , 000 , Sojitz Systems Corporation
+221.186.135.096 - 221.186.135.103 , 000 , TV Asahi Data Vision Corporation
+221.186.135.128 - 221.186.135.135 , 000 , Getty Images Japan Inc
+221.186.136.000 - 221.186.136.007 , 000 , Japan Ground Self Defense Force
+221.186.136.096 - 221.186.136.103 , 000 , NIPPON TELEVISION ART CORP
+221.186.136.176 - 221.186.136.183 , 000 , JAPAN BROADCASTING CORPORATION
+221.186.138.056 - 221.186.138.063 , 000 , MITSUBISHI ELECTRIC INFORMATION SYSTEMS CORPORATION
+221.186.139.096 - 221.186.139.103 , 000 , JAPAN PATENT INFORMATION ORGANIZATION
+221.186.139.120 - 221.186.139.127 , 000 , AZUMA SYOKAI CO.,LTD
+221.186.140.032 - 221.186.140.039 , 000 , NIPPON TELEVISION ART CORPORATION
+221.186.140.144 - 221.186.140.159 , 000 , Secure Computing Japan,k.k
+221.186.141.072 - 221.186.141.079 , 000 , Sony PCL Inc
+221.186.141.232 - 221.186.141.239 , 000 , Walt Disney Company (Japan) Ltd
+221.186.143.184 - 221.186.143.191 , 000 , Castlerock Consulting Inc
+221.186.144.088 - 221.186.144.095 , 000 , Sun Microsystems K.K
+221.186.144.232 - 221.186.144.239 , 000 , NOKIA-JAPAN CO.,LTD
+221.186.145.168 - 221.186.145.175 , 000 , Embassy of the Fedeval Republic of Germany
+221.186.146.080 - 221.186.146.095 , 000 , NAMCO BANDAI Games Inc
+221.186.146.096 - 221.186.146.111 , 000 , Teito Rapid Trunsit Authority
+221.186.146.168 - 221.186.146.175 , 000 , BANDAI Co.,Ltd
+221.186.148.184 - 221.186.148.191 , 000 , The British Council
+221.186.148.224 - 221.186.148.231 , 000 , Shogakukan Production Co.,Ltd
+221.186.152.000 - 221.186.152.007 , 000 , MITSUBISHI ELECTRIC ENGINEERING
+221.186.152.168 - 221.186.152.175 , 000 , MITSUBISHI ELECTRIC INFORMATION SYSTEMS CORPORATION
+221.186.154.048 - 221.186.154.063 , 000 , INTI CREATES LIMITED
+221.186.155.088 - 221.186.155.095 , 000 , Integrated Business Software Corp
+221.186.155.120 - 221.186.155.127 , 000 , NEC Corporation
+221.186.155.224 - 221.186.155.231 , 000 , Mitsubishi Electric Corporation
+221.186.156.072 - 221.186.156.079 , 000 , NAMCO LIMITED
+221.186.156.096 - 221.186.156.103 , 000 , Panasonic SS Engineering Co.,Ltd
+221.186.157.008 - 221.186.157.015 , 000 , Thomson Corporation K.K
+221.186.157.040 - 221.186.157.047 , 000 , MINISTRY OF ECONOMY
+221.186.164.224 - 221.186.164.231 , 000 , JISHIN-SAP
+221.186.166.080 - 221.186.166.095 , 000 , YUKE\\
+221.186.166.240 - 221.186.166.247 , 000 , TOEI CORPORATION
+221.186.169.040 - 221.186.169.047 , 000 , Digital Vision Solution Co.,Ltd
+221.186.169.128 - 221.186.169.135 , 000 , Sunrise Corporation
+221.186.172.048 - 221.186.172.055 , 000 , TOSE CO.,LTD
+221.186.172.224 - 221.186.172.231 , 000 , MITSUBISHI ELECTRIC Co.,Ltd
+221.186.172.248 - 221.186.172.255 , 000 , Mitsubishi Electric Corporation
+221.186.173.001 - 221.186.173.001 , 000 , Detected AP2P on Fuziya Corporation proxy
+221.186.173.112 - 221.186.173.119 , 000 , THE TSURUGA CHAMBER OF COMMERCE&INDUSTRY
+221.186.175.032 - 221.186.175.039 , 000 , The Kasugai Chamber of Commerce & Industry
+221.186.175.160 - 221.186.175.167 , 000 , Hilton Nagoya
+221.186.176.168 - 221.186.176.175 , 000 , TOSHIBA CORPORATION
+221.186.176.208 - 221.186.176.215 , 000 , Mitsubishi Chemical Corporation
+221.186.177.048 - 221.186.177.063 , 000 , Japan Weather Association(Tokai Branch)
+221.186.178.000 - 221.186.178.007 , 000 , Ludens Co.,LTD
+221.186.178.160 - 221.186.178.167 , 000 , Shizuoka Prefectural Government
+221.186.178.216 - 221.186.178.223 , 000 , Sizuoka river Work Office Ministry of Land,Infrastructure and Transport
+221.186.179.112 - 221.186.179.119 , 000 , NTT SYSCOM CORPORATION
+221.186.181.008 - 221.186.181.015 , 000 , People Software Corporation
+221.186.183.152 - 221.186.183.159 , 000 , NTT Marketing Act Chugoku Corporation
+221.186.184.008 - 221.186.184.015 , 000 , MATSUE CHAMBER OF COMMERCE AND INDUSTRY
+221.186.185.032 - 221.186.185.039 , 000 , Shikoku Broadcasting Co.,LTD
+221.186.187.240 - 221.186.187.247 , 000 , kitakyushu Junior chamber,inc
+221.186.187.248 - 221.186.187.255 , 000 , NHK (Japan Broadcasting Corporation)
+221.186.188.064 - 221.186.188.071 , 000 , Sony Semiconductor Kyushu Corporation
+221.186.205.000 - 221.186.205.007 , 000 , Accenture Japan Ltd
+221.186.205.176 - 221.186.205.183 , 000 , EMBASSY OF SWEDEN
+221.186.205.200 - 221.186.205.207 , 000 , Sojitz Systems Corporation
+221.186.206.240 - 221.186.206.247 , 000 , sony marketing
+221.186.206.248 - 221.186.206.255 , 000 , Mitsubishi Electric Business System Co.,Ltd
+221.186.207.024 - 221.186.207.031 , 000 , Ebihara,Motohiko
+221.186.208.040 - 221.186.208.047 , 000 , Tokyo Metropolitan Television Broadcasting Corp
+221.186.208.096 - 221.186.208.111 , 000 , Fuji Xerox Co.,Ltd
+221.186.208.120 - 221.186.208.127 , 000 , Kadokawa Entertainment,Inc
+221.186.208.224 - 221.186.208.231 , 000 , WAM!NET Japan K.K
+221.186.209.072 - 221.186.209.079 , 000 , Embassy of Romania
+221.186.209.096 - 221.186.209.103 , 000 , Sony Corporation
+221.186.209.160 - 221.186.209.167 , 000 , VICTOR COMPANY OF JAPAN,LIMITED
+221.186.210.048 - 221.186.210.055 , 000 , TIBCO Software Japan Inc
+221.186.210.216 - 221.186.210.223 , 000 , Dentsu Public Relations Inc
+221.186.211.032 - 221.186.211.047 , 000 , The Bank of Tokyo-Mitsubishi UFJ
+221.186.211.144 - 221.186.211.151 , 000 , Towa Record Service Co
+221.186.211.224 - 221.186.211.231 , 000 , Accenture
+221.186.212.128 - 221.186.212.135 , 000 , LUCENTSQUARE CO.,LTD
+221.186.213.040 - 221.186.213.047 , 000 , COMPASSTV CO.,LTD
+221.186.213.168 - 221.186.213.175 , 000 , Maxis Corporation
+221.186.213.192 - 221.186.213.199 , 000 , Vivendi Universal Games Asia Pacific PTE Limited
+221.186.214.144 - 221.186.214.151 , 000 , EMC Co.,Ltd
+221.186.215.008 - 221.186.215.015 , 000 , Mcarthur,P Anthony
+221.186.215.096 - 221.186.215.103 , 000 , TOSHIBA MITSUBISHI-ELECTRIC INDUSTRIAL SYSTEMS CORPORATION
+221.186.215.168 - 221.186.215.175 , 000 , Hitachi Government and Public Corporation System Engineering,Ltd
+221.186.215.216 - 221.186.215.223 , 000 , The Walt Disney Animation Japan
+221.186.216.016 - 221.186.216.023 , 000 , NAMCO LIMITED
+221.186.216.152 - 221.186.216.159 , 000 , CBS Paramount
+221.186.216.160 - 221.186.216.167 , 000 , WITTY THOMAS GREGOR
+221.186.248.032 - 221.186.248.063 , 000 , Fuji Xerox Co.,Ltd
+221.186.250.064 - 221.186.250.095 , 000 , NEC Corporation
+221.186.252.192 - 221.186.252.223 , 000 , NTT SYSCOM Co.,Ltd
+221.187.150.086 - 221.187.150.086 , 000 , DDoS/ap2p
+221.187.223.234 - 221.187.223.234 , 000 , DDoS/ap2p
+221.190.238.129 - 221.190.238.129 , 000 , DDoS/ap2p
+221.199.014.120 - 221.199.014.120 , 000 , Detected AP2P on NX-YC-North-nation-college
+221.206.088.198 - 221.206.088.198 , 000 , CNC Group CHINA169 Heilongjiang
+221.206.225.179 - 221.206.225.179 , 000 , AP2P on China Unicom Heilongjiang proxy
+221.208.241.112 - 221.208.241.119 , 000 , Heilongjiang people procuratorate forest branch
+221.208.241.192 - 221.208.241.199 , 000 , Heilongjiang province government prevent fire command department
+221.208.243.000 - 221.208.243.255 , 000 , Harbin hulan public security dadre school
+221.208.247.000 - 221.208.247.063 , 000 , Harbin public security school
+221.208.247.096 - 221.208.247.103 , 000 , Heilongjiang foreign Economic and Trade Department
+221.209.124.128 - 221.209.124.191 , 000 , Mudanjiang aimin public security bureau
+221.209.124.192 - 221.209.124.207 , 000 , Mudanjiang statistic bureau
+221.209.124.216 - 221.209.124.223 , 000 , Mudanjiang tongyuan account lawyer office
+221.211.103.128 - 221.211.103.255 , 000 , Yichun police school
+221.211.125.176 - 221.211.125.191 , 000 , Yichun jinshantun public security bureau
+221.212.089.088 - 221.212.089.103 , 000 , Harbin industrial university software company
+221.212.095.160 - 221.212.095.167 , 000 , Heilongjiang Province politics and law cadre manages institute
+221.212.109.120 - 221.212.109.127 , 000 , Heilongjiang Province people\'s government foreign business public office
+221.212.111.112 - 221.212.111.119 , 000 , Harbin armed police
+221.212.114.000 - 221.212.114.127 , 000 , Heilongjiang Province public security department
+221.212.114.136 - 221.212.114.143 , 000 , Heilongjiang Haihe software development limited company
+221.212.114.172 - 221.212.114.175 , 000 , Heilongjiang armed police of fire prevention unit institution
+221.212.116.025 - 221.212.116.025 , 000 , AP2P on Harbin Engineering Univ
+221.212.116.036 - 221.212.116.036 , 000 , AP2P on Harbin Engineering Univ
+221.212.120.240 - 221.212.120.247 , 000 , Harbin works technology park development limited company
+221.212.194.128 - 221.212.194.135 , 000 , Harbin monitor center of broadcasting movie television
+221.212.195.016 - 221.212.195.023 , 000 , Heilongjiang Province People\'s Procuratorate office
+221.212.195.056 - 221.212.195.063 , 000 , Harbin wan da movie city limited company
+221.212.235.000 - 221.212.235.063 , 000 , Heilongjiang province police station
+221.212.235.208 - 221.212.235.215 , 000 , Heilongjiang provincial party committee policy laboratory
+221.213.040.072 - 221.213.040.079 , 000 , yunnan kunming Boeing Company,kunming,yunnan
+221.213.041.024 - 221.213.041.031 , 000 , yunnan kunming Public Security Bureau wuhua brunch,kunming,yunnan
+221.213.041.080 - 221.213.041.087 , 000 , yunnan kunming superior people court,kunming,yunnan
+221.213.043.112 - 221.213.043.147 , 000 , yunnan kunming QinLing Trade Committee,kunming,yunnan
+221.213.044.192 - 221.213.044.223 , 000 , yunnan kunming PanLong Trade Committee,kunming,yunnan
+221.213.046.064 - 221.213.046.095 , 000 , yunnan kunming City Trade Committee,kunming,yunnan
+221.213.047.144 - 221.213.047.159 , 000 , Yunnan University Laboratory, Kunming
+221.213.047.208 - 221.213.047.223 , 000 , YN-YT-law-office,kunming,yunnan
+221.213.050.115 - 221.213.050.115 , 000 , Detected AP2P on KM Wirelss Corp
+221.213.063.048 - 221.213.063.063 , 000 , KM-public-security-trainig-school ,kunming,yunnan
+221.213.135.208 - 221.213.135.223 , 000 , yunnan dehong LX police department,dehong,yunnan
+221.213.136.080 - 221.213.136.095 , 000 , yunnan dehong RL police department,dehong,yunnan
+221.213.136.208 - 221.213.136.223 , 000 , yunnan dehong LX police department,dehong,yunnan
+221.213.184.064 - 221.213.184.095 , 000 , yunnan lijiang City ,lijiang Trade Committee,yunnan
+221.213.216.064 - 221.213.216.095 , 000 , yunnan zhaotong City Trade Committee,zhaotong,yunnan
+221.213.217.064 - 221.213.217.095 , 000 , yunnan zhaotong YiLiang Trade Committee,zhaotong,yunnan
+221.213.224.104 - 221.213.224.135 , 000 , yunnan baoshan statistic bureau,baoshan,yunnan
+221.213.232.064 - 221.213.232.095 , 000 , yunnan qujing QiLing Trade Committee,qujing,yunnan
+221.213.233.064 - 221.213.233.095 , 000 , yunnan qujing QiLing Trade Committee,qujing,yunnan
+221.213.244.080 - 221.213.244.095 , 000 , yunnan chuxiong RL police department,chuxiong,yunnan
+221.213.244.208 - 221.213.244.223 , 000 , yunnan chuxiong LX police department,chuxiong,yunnan
+221.214.000.200 - 221.214.000.207 , 000 , CNC Group CHINA169 Shandong Province Network
+221.214.001.080 - 221.214.001.095 , 000 , Chinese Communist Party Shandong provincial party committee propaganda depar
+221.214.001.224 - 221.214.001.239 , 000 , Shandong provincial party committee confidential bureau
+221.214.001.248 - 221.214.001.255 , 000 , Jinan military region NUM2
+221.214.002.044 - 221.214.002.047 , 000 , jinan changqing peoples court
+221.214.003.000 - 221.214.003.007 , 000 , JINAN INTEL corporation
+221.214.004.224 - 221.214.004.231 , 000 , Shandong admininster of sports
+221.214.006.000 - 221.214.006.015 , 000 , Culture Bureau of jinan
+221.214.007.020 - 221.214.007.023 , 000 , Jinan military region NUM 2
+221.214.007.130 - 221.214.007.130 , 000 , Detected AP2P on China Unicom Shandong proxy
+221.214.011.056 - 221.214.011.059 , 000 , Changqing police gov.system specialize
+221.214.012.160 - 221.214.012.175 , 000 , Computer Center of Shandong statistics
+221.214.013.056 - 221.214.013.063 , 000 , Jinan Local Taxation bureau of gaoxin technology industry development area b
+221.214.013.232 - 221.214.013.239 , 000 , shandong education TVstation
+221.214.014.112 - 221.214.014.119 , 000 , Jinan military region Political department guesthouse
+221.214.015.088 - 221.214.015.091 , 000 , shandong education Tvstation
+221.214.015.100 - 221.214.015.103 , 000 , Jinan military region Political department guesthouse
+221.214.015.176 - 221.214.015.179 , 000 , shandong Tvstation
+221.214.021.216 - 221.214.021.231 , 000 , jinan changqing peoples court
+221.214.021.232 - 221.214.021.243 , 000 , jinan changqing    peoples court
+221.214.032.000 - 221.214.032.003 , 000 , Jinan municipal public security bureau public security production  brigade
+221.214.033.080 - 221.214.033.091 , 000 , Changqing traffic police team
+221.214.033.100 - 221.214.033.103 , 000 , Changqing court
+221.214.033.104 - 221.214.033.107 , 000 , Changqing traffic police team flack department
+221.214.181.064 - 221.214.181.095 , 000 , Yantai Wanggezhuang Government
+221.214.181.096 - 221.214.181.127 , 000 , Yantai Yulindian government
+221.214.216.000 - 221.214.216.031 , 000 , Yantai Project and Statistic Commission
+221.214.218.144 - 221.214.218.159 , 000 , Yantai San Shan Dao
+221.214.219.128 - 221.214.219.191 , 000 , Yantai municipal bureau of commerce
+221.214.221.148 - 221.214.221.148 , 000 , AP2P on China Unicom Shandong proxy
+221.214.240.000 - 221.214.240.031 , 000 , Yantai Laiyang government
+221.215.000.096 - 221.215.000.103 , 000 , Qingdao Bureau of Statistics of China-B-QINGDAO
+221.215.028.020 - 221.215.028.023 , 000 , Shandong Tianheren Law Office-QINGDAO
+221.215.067.000 - 221.215.067.255 , 000 , Qingdao Foreign trade Building
+221.215.085.048 - 221.215.085.063 , 000 , COUNTRY GOVERNMENT, CHANGJIANG STREET OFFICE-QINGDAO
+221.215.085.064 - 221.215.085.079 , 000 , COUNTRY GOVERNMENT, XINAN STREET OFFICE-QINGDAO
+221.215.085.080 - 221.215.085.095 , 000 , COUNTRY GOVERNMENT, LIUHUABO STREET OFFICE-QINGDAO
+221.215.127.040 - 221.215.127.043 , 000 , Chengyang Police Bureau-QINGDAO
+221.215.155.038 - 221.215.155.038 , 000 , Detected AP2P on China Unicom Shandong proxy
+221.215.162.154 - 221.215.162.154 , 000 , Detected AP2P on China Unicom Shandong proxy
+221.215.173.078 - 221.215.173.078 , 000 , SMSHoax FakeAV Fraud Trojan
+221.215.203.064 - 221.215.203.067 , 000 , Shandong Mingfeng Law Office-QINGDAO
+221.215.203.084 - 221.215.203.087 , 000 , Shandong Haizhinuo Law Office-QINGDAO
+221.215.209.032 - 221.215.209.047 , 000 , QINGDAO MUNICIPAL STATISTICAL BUREAU-QINGDAO
+221.215.210.136 - 221.215.210.143 , 000 , QINGDAO RADIO & TV UNIVERSITY-QINGDAO
+221.215.219.000 - 221.215.219.007 , 000 , CHENGYANG POLICE COMMAND CENTRE-QINGDAO
+221.224.003.064 - 221.224.003.079 , 000 , SUZHOU-TC-EXPERIMENT-SCHOOL[hack-attempts]
+221.224.007.000 - 221.224.007.007 , 000 , HARISON TOSHIBA LIGHTING (Kunshan) Co., Ltd
+221.224.009.144 - 221.224.009.151 , 000 , The information of technical supervision of Suzhou
+221.224.009.192 - 221.224.009.207 , 000 , Suzhou Bureau Of Communications
+221.224.009.224 - 221.224.009.231 , 000 , Suzhou Point Constable Detachment Dongshen Car Manage Place
+221.224.011.136 - 221.224.011.143 , 000 , Sanjing Electronical Film Co,ltd
+221.224.014.000 - 221.224.014.015 , 000 , Siemens Electrical Apparatus Ltd.,Suzhou
+221.224.016.216 - 221.224.016.223 , 000 , Zhang Jia Gang Law Bureau
+221.224.016.224 - 221.224.016.231 , 000 , Zhangjigang Yangshe Town Goverment
+221.224.017.112 - 221.224.017.119 , 000 , justice office wujiang city
+221.224.018.120 - 221.224.018.127 , 000 , Wujiang Economy & Trade Committee
+221.224.018.176 - 221.224.018.183 , 000 , WUJIANG FOREIGN TRADE@ECONOMIC COOPERATION BUREAU
+221.224.026.056 - 221.224.026.063 , 000 , Suzhou Industrial Park Kuatang Town People Goverment
+221.224.027.176 - 221.224.027.183 , 000 , Wujiang Tongli People Govermment
+221.224.029.192 - 221.224.029.199 , 000 , KunShan Economic&Trade Committee
+221.224.031.132 - 221.224.031.135 , 000 , Bainian Dongwu Lawyen Office Co.,Ltd
+221.224.031.220 - 221.224.031.223 , 000 , Jiangsu Suzhou Chenquanxing lawyer
+221.224.034.162 - 221.224.034.162 , 000 , Detected kad activity on Second Affiliated Hospital
+221.224.034.240 - 221.224.034.247 , 000 , Xiamen.Sustentation.Fund.Ministry.Co,Ttd
+221.224.044.000 - 221.224.044.007 , 000 , KUNSHAN SANFENZHIYI NETBAR
+221.224.048.060 - 221.224.048.063 , 000 , ChangShu traffic Police Station
+221.224.057.232 - 221.224.057.239 , 000 , Zhangjiagang Bureau Of Foreign Trade and Economic Cooperation
+221.224.060.016 - 221.224.060.023 , 000 , Changshu Telecom City Center Branch
+221.224.060.216 - 221.224.060.223 , 000 , SuZhou ShaoPing Law Office
+221.224.061.080 - 221.224.061.087 , 000 , Changshu GOVERMENT
+221.224.061.192 - 221.224.061.199 , 000 , CHANGSHU GENERAL ELECTRICAL FACTORY CO.LTD
+221.224.063.220 - 221.224.063.223 , 000 , Suzhou EDS International Inc. Co.,ltd
+221.224.082.200 - 221.224.082.207 , 000 , Suzhou Beijing Jindu Law Office Co.,ltd
+221.224.085.104 - 221.224.085.107 , 000 , Ximenzi china Suzhou Co.,ltd
+221.224.086.112 - 221.224.086.119 , 000 , Jiangsu Suzhou Litai Law Office Co.,ltd
+221.224.093.232 - 221.224.093.235 , 000 , Suzhou Jiulunhuanci Corp
+221.224.094.040 - 221.224.094.043 , 000 , Zhongtieyiju Suzhou Item Ministry
+221.224.094.116 - 221.224.094.119 , 000 , Suzhou Shounuogaogong Buomuo Co.,ltd
+221.224.120.104 - 221.224.120.111 , 000 , HUAMINGLIANHEHUIJISHISHIWUSUO
+221.224.127.040 - 221.224.127.043 , 000 , Party Committee of ZhangQiao Town
+221.224.132.138 - 221.224.132.138 , 000 , AP2P on Suzhou Jiaoyu Investment
+221.224.136.000 - 221.224.136.031 , 000 , Wujiang Jiguan Shiwu Bureau
+221.224.137.080 - 221.224.137.095 , 000 , SUZHOU-WJ-POLICE-BUREAU
+221.224.161.168 - 221.224.161.175 , 000 , Su Zhou broadcast&television STATION
+221.225.186.037 - 221.225.186.037 , 000 , AP2P on ChinaNet Jiangsu
+221.226.161.145 - 221.226.161.145 , 000 , AP2P on ChinaNet Jiangsu
+221.226.190.110 - 221.226.190.110 , 000 , SMSHoax FakeAV Fraud Trojan
+221.228.228.140 - 221.228.228.140 , 000 , SMSHoax FakeAV Fraud Trojan
+221.229.115.024 - 221.229.115.031 , 000 , weiyangquzhengfawei
+221.229.118.056 - 221.229.118.063 , 000 , weiyangpolice
+221.229.119.200 - 221.229.119.207 , 000 , hanjiangqugonganju
+221.229.121.176 - 221.229.121.191 , 000 , weiyangqu inspect court
+221.229.122.048 - 221.229.122.063 , 000 , weiyang police
+221.229.123.016 - 221.229.123.019 , 000 , gonganjuzhiandadui
+221.229.125.128 - 221.229.125.143 , 000 , yangzhou goverment first hotel
+221.229.126.000 - 221.229.126.007 , 000 , law-and-order department of public security bureau
+221.229.127.224 - 221.229.127.239 , 000 , YIHUA GONGANJV
+221.229.127.240 - 221.229.127.255 , 000 , xupu yihua gongan
+221.229.241.008 - 221.229.241.015 , 000 , XuZhou XY GOV
+221.229.241.024 - 221.229.241.031 , 000 , XuZhou XY caizheng BUREAU
+221.229.241.032 - 221.229.241.039 , 000 , XuZhou XY laodong BUREAU
+221.229.241.132 - 221.229.241.135 , 000 , XuZhou XY laodong BUREAU
+221.229.241.140 - 221.229.241.143 , 000 , XuZhou XY liangshi BUREAU
+221.229.241.152 - 221.229.241.155 , 000 , XuZhou XY YanCao BREAU
+221.229.241.160 - 221.229.241.163 , 000 , Xuzhou XY Minzheng Bureau
+221.229.241.164 - 221.229.241.167 , 000 , Xuzhou XY Zhijian Bureau
+221.229.241.172 - 221.229.241.175 , 000 , XuZhou XY guangdian BUREAU
+221.229.242.136 - 221.229.242.143 , 000 , XuZhou Propaganda Department
+221.229.242.152 - 221.229.242.159 , 000 , XuZhou Public Security Bureau
+221.229.243.040 - 221.229.243.047 , 000 , XuZhou SN guangbodianshi Bureau
+221.229.245.024 - 221.229.245.027 , 000 , XuZhou GuLou People COURT
+221.229.248.160 - 221.229.248.167 , 000 , pizhou television university
+221.229.248.240 - 221.229.248.247 , 000 , XUZHOU PZ POLICE BUREAU
+221.229.249.020 - 221.229.249.023 , 000 , XuZhou XY huanbao BUREAU
+221.229.249.048 - 221.229.249.051 , 000 , XuZhou XY dishui BUREAU
+221.229.249.056 - 221.229.249.059 , 000 , XuZhou XY xingzhengzhongxin GOV
+221.229.249.060 - 221.229.249.063 , 000 , XuZhou XY guotu BUREAU
+221.229.249.064 - 221.229.249.067 , 000 , Xuzhou XY renkou BUR
+221.229.249.068 - 221.229.249.071 , 000 , XuZhou XY liangshi BUREAU
+221.229.249.096 - 221.229.249.099 , 000 , XuZhou XY ZhiJian GOV
+221.229.249.104 - 221.229.249.111 , 000 , XuZhou XY jiaotongyunshuguanlu GOV
+221.229.249.112 - 221.229.249.119 , 000 , XuZhou XY youzheng BUREAU
+221.229.249.128 - 221.229.249.131 , 000 , Xuzhou XY Weisheng Bureau
+221.229.249.180 - 221.229.249.183 , 000 , XuZhou XY xinwen GOV
+221.229.250.040 - 221.229.250.047 , 000 , XUZHOU TONGSHAN POLICE OFFICE
+221.229.251.176 - 221.229.251.179 , 000 , XuZhou TS People Procuratorate
+221.229.252.208 - 221.229.252.215 , 000 , XuZhou Public Security Bureau
+221.229.253.048 - 221.229.253.051 , 000 , Xuzhou Point Constable Crew
+221.229.255.024 - 221.229.255.031 , 000 , XuZhou Middle People COURT
+221.229.255.184 - 221.229.255.191 , 000 , XuZhou Middle People COURT
+221.230.000.193 - 221.230.000.193 , 000 , AP2P on Zhenjiang Xunirensheng Netbar proxy
+221.230.014.008 - 221.230.014.015 , 000 , ZHENJIANG-DY-POLICE
+221.230.030.144 - 221.230.030.159 , 000 , ZHENJIANG POLICE
+221.230.031.040 - 221.230.031.047 , 000 , ZHENJIANG DANTU POLICE BUREAU
+221.230.128.060 - 221.230.128.063 , 000 , Tai Xing Statistics Bureau
+221.230.128.068 - 221.230.128.079 , 000 , Taixing Peoepls procuratorate
+221.230.131.040 - 221.230.131.047 , 000 , Taizhou demobilized military office
+221.230.131.200 - 221.230.131.219 , 000 , Taizhou police Megaeyes
+221.230.131.232 - 221.230.131.239 , 000 , Hailing Police Bureau
+221.230.132.152 - 221.230.132.159 , 000 , Jingjiang Justice Bureau
+221.230.133.064 - 221.230.133.079 , 000 , Taizhou public security Bureau
+221.230.133.104 - 221.230.133.111 , 000 , TaiZhou Statistics bureau
+221.230.136.032 - 221.230.136.039 , 000 , Jingjiang People Armed Forces Department
+221.230.136.236 - 221.230.136.239 , 000 , Jingjiang People Air Defense Office
+221.230.138.224 - 221.230.138.231 , 000 , Public Security Bureau
+221.231.109.064 - 221.231.109.127 , 000 , yancheng police bureau
+221.231.115.204 - 221.231.115.207 , 000 , dongtai people court
+221.231.117.160 - 221.231.117.191 , 000 , yancheng police bureau
+221.238.025.000 - 221.238.025.255 , 000 , Xunlei Offline
+221.238.133.144 - 221.238.133.155 , 000 , SIEMENS-LTD
+221.238.141.150 - 221.238.141.150 , 000 , AP2P on TIANDIYUANZHIYE
+221.238.193.032 - 221.238.193.063 , 000 , WAGNSUKEJI-NETBAR
+221.238.198.022 - 221.238.198.022 , 000 , Spammer
+221.239.091.240 - 221.239.091.247 , 000 , MOTOROLA-LTD
+221.240.080.192 - 221.240.080.199 , 000 , sonoda kobayashitokkyozimusyo
+221.240.124.184 - 221.240.124.191 , 000 , DOREMI
+221.242.058.032 - 221.242.058.047 , 000 , KONAMI CORPORATION
+221.242.112.208 - 221.242.112.215 , 000 , JONES.DAY
+221.242.115.040 - 221.242.115.047 , 000 , TOYOTSU SYSCOM Co.,Ltd
+221.242.132.056 - 221.242.132.063 , 000 , ZYX
+221.242.136.088 - 221.242.136.095 , 000 , Marvelous Entertainment Inc
+221.242.139.008 - 221.242.139.015 , 000 , Shibaura Sound Studio
+221.242.139.064 - 221.242.139.079 , 000 , Zeal Corporation
+221.242.143.096 - 221.242.143.103 , 000 , ONDA TECHNO Intl,Patent Attys
+221.242.144.064 - 221.242.144.071 , 000 , NAMCO BANDAI Games Inc
+221.242.201.120 - 221.242.201.127 , 000 , Japan Federation Of Shiho-Shoshi Lawyer\\
+221.242.203.104 - 221.242.203.111 , 000 , MUSIC WAVE
+221.242.207.160 - 221.242.207.167 , 000 , YESVIDEO JAPAN CO.,LTD
+221.242.207.184 - 221.242.207.191 , 000 , Lionbridge Japan K.K
+221.242.237.000 - 221.242.237.015 , 000 , Info Vision Inc.,
+221.242.250.000 - 221.242.250.015 , 000 , Nihon Unisys Excelutions,Ltd
+221.242.250.064 - 221.242.250.127 , 000 , TOYOTSU SYSCOM Co.,Ltd
+221.242.255.080 - 221.242.255.095 , 000 , NC JAPAN K.K
+221.243.027.096 - 221.243.027.103 , 000 , red entertainment corporation
+221.243.028.080 - 221.243.028.087 , 000 , dentsu Meitetsu Communications .inc
+221.243.036.248 - 221.243.036.255 , 000 , Dolby Laboratories International Services Inc
+221.243.051.192 - 221.243.051.255 , 000 , HUDSON SOFT COMPANY,LIMITED
+221.243.062.064 - 221.243.062.079 , 000 , shin nihon system technology co.,ltd
+221.243.080.176 - 221.243.080.183 , 000 , BANDAI NETWORKS CO.,LTD
+221.243.119.016 - 221.243.119.031 , 000 , Promobile inc
+221.243.119.216 - 221.243.119.223 , 000 , JFE-SEKKEI,LED
+221.243.121.128 - 221.243.121.135 , 000 , WARNER ENTERTAINMENT JAPAN INC
+221.243.132.104 - 221.243.132.111 , 000 , LEGO Japan Ltd
+221.243.161.000 - 221.243.161.007 , 000 , GungHo Online Entertainment,Inc
+221.243.161.080 - 221.243.161.087 , 000 , THE DAI-ICHI TOKYO BAR ASSOCIATION
+221.243.161.096 - 221.243.161.103 , 000 , SUNRISE
+221.243.169.008 - 221.243.169.015 , 000 , Sendai Television Broadcasting Corpration
+221.243.218.112 - 221.243.218.127 , 000 , ShowTime Inc
+221.243.251.224 - 221.243.251.231 , 000 , SUNRISE
+221.244.020.064 - 221.244.020.079 , 000 , WINKY SOFT CO.,LTD
+221.244.056.240 - 221.244.056.255 , 000 , SAS Institute Japan Ltd
+221.244.059.192 - 221.244.059.199 , 000 , R-PROMETRIC
+221.244.066.064 - 221.244.066.079 , 000 , CAPCOM Co.,Ltd
+221.244.085.120 - 221.244.085.127 , 000 , Sunrise
+221.244.095.032 - 221.244.095.047 , 000 , Hanshin Water Supply Authority
+221.245.038.216 - 221.245.038.223 , 000 , DELLGAMADAS
+221.245.039.096 - 221.245.039.111 , 000 , Panasonic Communications Co.,Ltd
+221.245.166.112 - 221.245.166.119 , 000 , Educational Foundation YOYOGIANIMATION GAKUIN
+221.245.209.144 - 221.245.209.151 , 000 , TOSE CO.,LTD
+221.245.215.024 - 221.245.215.031 , 000 , dentsu Meitetsu Communications .inc
+221.245.226.072 - 221.245.226.079 , 000 , CISCO SYSTEMS
+221.245.235.064 - 221.245.235.071 , 000 , kadokawashotenhokkaidou
+221.246.032.176 - 221.246.032.183 , 000 , VIDEO STATION Q
+221.246.033.080 - 221.246.033.095 , 000 , SRA Nishi-Nihon,Inc
+221.246.062.160 - 221.246.062.175 , 000 , Infinity Japan Co.,Ltd
+221.246.147.248 - 221.246.147.255 , 000 , TOKAI SOFT CO.,Ltd
+221.246.152.168 - 221.246.152.175 , 000 , PTC JAPAN Co.,Ltd
+221.246.157.024 - 221.246.157.031 , 000 , Mitsubishi UFJ Capital Co.,Ltd
+221.246.158.064 - 221.246.158.071 , 000 , TOSE CO.,Ltd
+221.246.158.096 - 221.246.158.103 , 000 , Peoplesoft Japan K.K
+221.246.159.016 - 221.246.159.023 , 000 , MITSUBISHI ELECTRIC BUSINESS SYSYTEM Co.,Ltd
+221.246.178.080 - 221.246.178.087 , 000 , DASSAULT SYSTEMES
+221.246.236.203 - 221.246.236.203 , 000 , www.kingrecords.co.jp
+221.246.252.088 - 221.246.252.095 , 000 , JAPAN ALLROUND MUSIC
+221.246.252.104 - 221.246.252.119 , 000 , DANCE MUSIC RECORD CO.,Ltd
+221.247.015.184 - 221.247.015.191 , 000 , Apple
+221.247.038.080 - 221.247.038.087 , 000 , ZOO
+221.247.185.032 - 221.247.185.039 , 000 , TOKYO BAR ASSOCIATION
+221.247.195.160 - 221.247.195.191 , 000 , GungHo Online Entertainment, Inc
+221.247.206.112 - 221.247.206.119 , 000 , SUNRISE
+221.248.087.054 - 221.248.087.054 , 000 , DDoS/ap2p
+221.249.005.048 - 221.249.005.055 , 000 , SECOM
+221.249.008.112 - 221.249.008.119 , 000 , PIERROT CO.,LTD
+221.249.055.072 - 221.249.055.087 , 000 , avex network inc
+221.249.055.088 - 221.249.055.095 , 000 , Dreamusic Inc
+221.249.055.104 - 221.249.055.111 , 000 , MOVIE TELEVISION INC
+221.249.078.128 - 221.249.078.143 , 000 , Media Kite Co.,LTD
+221.249.078.192 - 221.249.078.207 , 000 , MEDIAMIX,LTD
+221.249.096.016 - 221.249.096.023 , 000 , LG PHILIPS LCD JAPAN
+221.249.096.152 - 221.249.096.159 , 000 , YAMAGUCHI Intellectual Propety
+221.249.096.160 - 221.249.096.175 , 000 , Salesforce.com Japan
+221.249.098.192 - 221.249.098.199 , 000 , Pole towin Co., Ltd
+221.249.104.144 - 221.249.104.151 , 000 , INFINITY Co.,Ltd
+221.249.114.096 - 221.249.114.103 , 000 , FUJITSU SUPPORT AND SERVICE INC
+221.249.121.232 - 221.249.121.239 , 000 , ARIKA CO.,LTD
+221.249.121.240 - 221.249.121.247 , 000 , MEDIAMIX,LTD
+221.249.154.144 - 221.249.154.159 , 000 , Sammy NetWorks Co.,Ltd
+221.249.155.032 - 221.249.155.039 , 000 , MERCURY SYSCOM
+221.249.159.048 - 221.249.159.063 , 000 , PRICEWATERHOUSECOOPERS.IAC.GK
+221.249.193.048 - 221.249.193.063 , 000 , sevendatasystems
+221.249.198.080 - 221.249.198.087 , 000 , NATSUME-SOLUTION Co.,Ltd
+221.249.199.144 - 221.249.199.159 , 000 , NEXTMUSIC Inc
+221.249.208.032 - 221.249.208.063 , 000 , MITSUBISHI ELECTRIC BUSINESS SYSTEM Co.,Ltd
+221.249.209.048 - 221.249.209.063 , 000 , TV TOKYO BROADBAND
+221.249.218.184 - 221.249.218.191 , 000 , anima.Tnc
+221.249.226.112 - 221.249.226.119 , 000 , cavia
+221.249.226.120 - 221.249.226.127 , 000 , GRACENOTE CO.,LTD
+221.249.247.096 - 221.249.247.111 , 000 , Panasonic Digital Network Serve Inc
+221.249.253.184 - 221.249.253.207 , 000 , sinnzyuku sift TOKYO video zigyoubu
+221.250.011.056 - 221.250.011.063 , 000 , PANASONIC INFORMATION SYSTEM
+221.250.060.080 - 221.250.060.087 , 000 , MITSUBISHI CORPORATION TECHNOS
+221.250.065.000 - 221.250.065.007 , 000 , FUJITSU SUPPORT AND SERVICE INC
+221.250.068.160 - 221.250.068.167 , 000 , LG PHILIPS LCD JAPAN
+221.250.068.176 - 221.250.068.183 , 000 , DANCE MUSIC RECORD Co.,Ltd
+221.250.099.120 - 221.250.099.127 , 000 , SUNRISE
+221.250.139.208 - 221.250.139.215 , 000 , DIGITAL HOLLYWOOD Corp
+221.250.209.227 - 221.250.209.227 , 000 , DDoS/ap2p
+221.251.004.104 - 221.251.004.111 , 000 , TV ASAHI CREATE
+221.251.012.000 - 221.251.012.007 , 000 , piero
+221.251.021.208 - 221.251.021.215 , 000 , mitsubishi toushin
+221.251.038.192 - 221.251.038.207 , 000 , Media Works Co.,Ltd
+221.251.133.064 - 221.251.133.079 , 000 , avex network inc
+221.251.136.040 - 221.251.136.047 , 000 , TBS television Co., Ltd
+221.251.136.152 - 221.251.136.159 , 000 , GAME ARTS Co.,Ltd
+221.251.177.112 - 221.251.177.127 , 000 , GONZO ROSSO Online,K.K
+221.251.182.096 - 221.251.182.103 , 000 , DELLGAMADAS.Co.,Ltd
+221.251.191.048 - 221.251.191.055 , 000 , PROKION Inc
+221.251.192.096 - 221.251.192.111 , 000 , SAS Institute Japan Ltd
+221.251.203.016 - 221.251.203.023 , 000 , POLYGON MAGIC
+221.251.205.016 - 221.251.205.031 , 000 , NCJapan K.K
+221.251.221.048 - 221.251.221.063 , 000 , AKASAKA VIDEO&PC
+221.251.221.072 - 221.251.221.079 , 000 , NIKKEI RADIO BROADCASTING CORPORATION
+221.251.237.080 - 221.251.237.095 , 000 , TOSHIBA I.S. CORPORATION
+221.251.239.248 - 221.251.239.255 , 000 , Japan Broadcasting Corporation
+221.251.255.160 - 221.251.255.175 , 000 , Shobunsha Publications,Inc
+221.252.028.000 - 221.252.028.007 , 000 , namco
+221.252.028.016 - 221.252.028.031 , 000 , YUKE\\
+221.252.054.160 - 221.252.054.167 , 000 , R-PROMETRIC KK
+221.252.064.176 - 221.252.064.183 , 000 , Glam Entertainment
+221.252.154.216 - 221.252.154.223 , 000 , AGFA-GEVAERT JAPAN,LTD
+221.252.159.080 - 221.252.159.087 , 000 , Rainbow Co
+221.252.201.144 - 221.252.201.159 , 000 , FUJITSU ADOVANCED SOLUTIONS
+221.253.008.088 - 221.253.008.095 , 000 , CLIMBENTERTAINMENT
+221.253.008.096 - 221.253.008.103 , 000 , takara mobile entertainment Co.,Ltd
+221.253.028.208 - 221.253.028.223 , 000 , UNIGRAPHIC CO.,LTD
+221.253.087.136 - 221.253.087.143 , 000 , Sendai Television Broadcasting Corpration
+221.253.101.144 - 221.253.101.151 , 000 , Intellectual Property Bank Corp
+221.253.156.008 - 221.253.156.015 , 000 , PONY JAPAN INC
+221.253.225.240 - 221.253.225.255 , 000 , HEWLETT-PACKARD JAPAN,LTD. CUSTOMER CENTER
+221.253.226.024 - 221.253.226.031 , 000 , tv asahi corporation
+221.253.252.040 - 221.253.252.047 , 000 , Tokyo Sound Production.Inc
+221.253.254.024 - 221.253.254.031 , 000 , D3PUBLISHER Inc
+221.253.254.048 - 221.253.254.063 , 000 , GAMES ARENA Co.,Ltd
+221.254.067.016 - 221.254.067.031 , 000 , Nihon Unisys. Ltd
+221.254.067.032 - 221.254.067.039 , 000 , GAMES ARENA Co.,Ltd
+221.254.067.040 - 221.254.067.047 , 000 , NAMCO LTD.,
+221.254.070.144 - 221.254.070.151 , 000 , CYBERFRONT CORPORATION
+221.254.103.140 - 221.254.103.140 , 000 , DDoS/ap2p
+221.254.118.048 - 221.254.118.055 , 000 , MediaNet
+221.254.121.024 - 221.254.121.031 , 000 , U\
+221.254.128.160 - 221.254.128.175 , 000 , Theta Music,Inc
+221.254.135.080 - 221.254.135.095 , 000 , Valor Computexized Systems Japan K K
+221.254.164.160 - 221.254.164.167 , 000 , namco
+221.254.166.032 - 221.254.166.047 , 000 , HEWLETT-PACKARD JAPAN,LTD. CUSTOMER CENTER
+221.254.176.240 - 221.254.176.247 , 000 , Sony Corporation
+221.254.196.136 - 221.254.196.143 , 000 , NIPPON TELEVISION ART CORP
+221.254.211.144 - 221.254.211.159 , 000 , Forum office
+221.254.214.032 - 221.254.214.039 , 000 , Randomhouse
+221.254.214.232 - 221.254.214.239 , 000 , DASSAULT SYSTEMES
+221.254.215.120 - 221.254.215.127 , 000 , R-PROMETRIC KK
+221.254.225.184 - 221.254.225.191 , 000 , TAKUMI
+221.254.228.040 - 221.254.228.047 , 000 , TEAM Entertainment Inc
+221.254.228.128 - 221.254.228.135 , 000 , Dimps Corporation
+221.255.117.032 - 221.255.117.047 , 000 , Software Research Associates,Inc
+221.255.123.160 - 221.255.123.167 , 000 , TOSHIBA KN SYSTEM Co.,Ltd
+222.004.062.085 - 222.004.062.085 , 000 , DDoS/ap2p
+222.005.101.146 - 222.005.101.146 , 000 , DDoS/ap2p
+222.008.039.064 - 222.008.039.064 , 000 , DDoS/ap2p
+222.008.041.050 - 222.008.041.050 , 000 , DDoS/ap2p
+222.013.101.199 - 222.013.101.199 , 000 , DDoS/ap2p
+222.013.140.011 - 222.013.140.011 , 000 , DDoS/ap2p
+222.015.122.095 - 222.015.122.095 , 000 , DDoS/ap2p
+222.018.127.057 - 222.018.127.057 , 000 , Detected AP2P on Chengdu University
+222.018.127.062 - 222.018.127.062 , 000 , AP2P on Chengdu Univ
+222.018.130.117 - 222.018.130.117 , 000 , SMSHoax FakeAV Fraud Trojan
+222.019.032.000 - 222.019.039.255 , 000 , Sichuan Police College
+222.020.109.065 - 222.020.109.065 , 000 , Detected AP2P on Huazhong Univ
+222.020.112.169 - 222.020.112.169 , 000 , AP2P on Huazhong Univ
+222.024.086.060 - 222.024.086.060 , 000 , AP2P on Shaanxi University
+222.024.130.000 - 222.024.130.255 , 000 , Armed Police Engineering College
+222.025.200.000 - 222.025.203.255 , 000 , Urumqi Command School of CAPF
+222.027.096.174 - 222.027.096.174 , 000 , Detected AP2P on Northeast Normal University
+222.074.058.094 - 222.074.058.094 , 000 , SMSHoax FakeAV Fraud Trojan
+222.074.098.234 - 222.074.098.234 , 000 , SMSHoax FakeAV Fraud Trojan
+222.074.200.098 - 222.074.200.098 , 000 , SMSHoax FakeAV Fraud Trojan
+222.076.149.048 - 222.076.149.055 , 000 , Water and electricity 8 detachment
+222.076.150.000 - 222.076.150.063 , 000 , With the information centre of governmen
+222.076.242.000 - 222.076.243.255 , 000 , XiaMen Electron Government Affairs
+222.077.179.240 - 222.077.179.255 , 000 , CHINANET|Anti-p2p
+222.082.233.025 - 222.082.233.027 , 000 , WLMQ-NETENFORCE
+222.104.192.006 - 222.104.192.006 , 000 , datingnearby.com
+222.106.031.199 - 222.106.031.199 , 000 , datingnearby.com
+222.106.218.000 - 222.106.218.255 , 000 , SOFTON Entertainment
+222.108.075.113 - 222.108.075.113 , 000 , Bittorrent fakes
+222.109.036.137 - 222.109.036.137 , 000 , daeumMedia
+222.110.125.008 - 222.110.125.008 , 000 , monsantokoria(ju)
+222.111.168.000 - 222.111.171.255 , 000 , Government Computer Center (GCC)
+222.111.176.000 - 222.111.176.255 , 000 , Joymax
+222.111.248.000 - 222.111.255.255 , 000 , Government Computer Center (GCC)
+222.117.001.078 - 222.117.001.078 , 000 , taeyangACS
+222.117.001.091 - 222.117.001.091 , 000 , taeyangACS
+222.119.106.000 - 222.119.106.127 , 000 , segaPCbang
+222.122.064.000 - 222.122.079.255 , 000 , KOREA TELECOM-ed2k/ap2p
+222.122.137.000 - 222.122.137.255 , 000 , SOFTON Entertainment
+222.122.163.000 - 222.122.163.255 , 000 , nofree.co.kr
+222.124.015.123 - 222.124.015.123 , 000 , SMSHoax FakeAV Fraud Trojan
+222.124.015.126 - 222.124.015.126 , 000 , SMSHoax FakeAV Fraud Trojan
+222.124.022.174 - 222.124.022.174 , 000 , SMSHoax FakeAV Fraud Trojan
+222.124.035.112 - 222.124.035.119 , 000 , HILTON BALI
+222.124.060.103 - 222.124.060.103 , 000 , Bittorrent fakes
+222.124.115.168 - 222.124.115.168 , 000 , SMSHoax FakeAV Fraud Trojan
+222.124.143.009 - 222.124.143.009 , 000 , SMSHoax FakeAV Fraud Trojan
+222.124.153.236 - 222.124.153.236 , 000 , SMSHoax FakeAV Fraud Trojan
+222.124.159.020 - 222.124.159.020 , 000 , SMSHoax FakeAV Fraud Trojan
+222.124.166.106 - 222.124.166.106 , 000 , SMSHoax FakeAV Fraud Trojan
+222.124.178.098 - 222.124.178.098 , 000 , SMSHoax FakeAV Fraud Trojan
+222.124.202.211 - 222.124.202.211 , 000 , SMSHoax FakeAV Fraud Trojan
+222.124.218.164 - 222.124.218.164 , 000 , SMSHoax FakeAV Fraud Trojan
+222.126.003.104 - 222.126.003.111 , 000 , GF NBC Tent 26th Bgy South Side MAKATI
+222.126.003.160 - 222.126.003.167 , 000 , Embassy Of France
+222.126.006.000 - 222.126.006.007 , 000 , Maravilla Ona Law and Acctng Office
+222.126.006.016 - 222.126.006.023 , 000 , Digital Music Creatives Inc
+222.126.006.072 - 222.126.006.079 , 000 , Alexander  Lopez
+222.126.007.072 - 222.126.007.079 , 000 , Toshiba Information Equipment Phil Inc
+222.126.009.056 - 222.126.009.063 , 000 , Office of The Press Secretary
+222.126.009.128 - 222.126.009.135 , 000 , National Agricultural and Fishery
+222.126.009.168 - 222.126.009.175 , 000 , Philippine National Police
+222.126.009.192 - 222.126.009.199 , 000 , Balikatan Exercises
+222.126.010.000 - 222.126.010.015 , 000 , Armed Forces Police Savings and Loans
+222.126.010.112 - 222.126.010.119 , 000 , Marine Corps Community Services OKINAWA
+222.126.011.104 - 222.126.011.111 , 000 , KSS Phils Inc
+222.126.011.120 - 222.126.011.127 , 000 , National Agricultural And Fishery
+222.126.012.168 - 222.126.012.175 , 000 , Leocadio SC JR Santiago
+222.126.012.216 - 222.126.012.223 , 000 , Trend Micro Devices Inc
+222.126.014.016 - 222.126.014.023 , 000 , Office of The City Accountant
+222.126.018.000 - 222.126.018.007 , 000 , John Francis Ibanez
+222.126.018.008 - 222.126.018.015 , 000 , Legal Information Network Corporation
+222.126.018.128 - 222.126.018.135 , 000 , Johnny Rodrigo Gulla
+222.126.018.216 - 222.126.018.223 , 000 , Legal Information Network Corp
+222.126.019.208 - 222.126.019.215 , 000 , NCEISC-Phil Navy
+222.126.020.008 - 222.126.020.015 , 000 , Douglas Lopez
+222.126.020.112 - 222.126.020.119 , 000 , W Network Inc Formerly LBC International
+222.126.021.016 - 222.126.021.023 , 000 , Embassy of the Islamic Republic of Iran
+222.126.023.200 - 222.126.023.207 , 000 , Embassy Of Peoples Republic Of China
+222.126.025.056 - 222.126.025.063 , 000 , House of Representatives
+222.126.025.120 - 222.126.025.127 , 000 , Universal Records
+222.126.026.048 - 222.126.026.055 , 000 , Hontiveros And Associates Lawfirm
+222.126.027.040 - 222.126.027.047 , 000 , Office of the Special Envoy on
+222.126.027.120 - 222.126.027.127 , 000 , Dane Publishing House Inc
+222.126.028.000 - 222.126.028.007 , 000 , Department of Trade and Industry
+222.126.028.072 - 222.126.028.079 , 000 , Bayawan City of Information Technology
+222.126.028.120 - 222.126.028.127 , 000 , Department of Trade and Industry -
+222.126.028.248 - 222.126.028.255 , 000 , Department of Tourism
+222.126.031.144 - 222.126.031.151 , 000 , Level Up Inc
+222.126.032.240 - 222.126.032.247 , 000 , Embassy Of Brazil
+222.126.033.056 - 222.126.033.063 , 000 , Monsanto Philippines
+222.126.033.144 - 222.126.033.151 , 000 , Philippine National Police
+222.126.033.240 - 222.126.033.247 , 000 , Embassy Royal Thai
+222.126.034.048 - 222.126.034.055 , 000 , Embassy of the State of Qatar
+222.126.035.024 - 222.126.035.031 , 000 , Solar Entertainment Corporation
+222.126.035.176 - 222.126.035.183 , 000 , Anti Money Laundering Council
+222.126.036.112 - 222.126.036.119 , 000 , Fujitsu Philippines Incorporated
+222.126.036.192 - 222.126.036.199 , 000 , Fujitsu Philippines Incorporated
+222.126.036.208 - 222.126.036.215 , 000 , Solutions Era Software Development
+222.126.040.000 - 222.126.040.007 , 000 , Department of Trade and Industry -
+222.126.041.120 - 222.126.041.135 , 000 , Philippine Fuji Xerox Copier
+222.126.041.176 - 222.126.041.183 , 000 , IBM Philippines
+222.126.042.152 - 222.126.042.159 , 000 , The Music Source Inc MTV PHILIPPINES
+222.126.044.208 - 222.126.044.215 , 000 , Fujitsu Die Tech of the Phils
+222.126.044.216 - 222.126.044.223 , 000 , Digital Music Creatives
+222.126.045.208 - 222.126.045.215 , 000 , Law Firm Of V E Del Rosario  Partners
+222.126.045.216 - 222.126.045.223 , 000 , Drop Point Barracks Internet Cafe
+222.126.045.224 - 222.126.045.231 , 000 , Philippine Fuji Xerox Copier
+222.126.047.000 - 222.126.047.007 , 000 , Hewlett Packard
+222.126.047.056 - 222.126.047.063 , 000 , Phil Navy Savings and Loan Association
+222.126.047.112 - 222.126.047.119 , 000 , Cavite Police Provincial Office PPO
+222.126.080.120 - 222.126.080.127 , 000 , Solutions ERA Software Development
+222.126.088.200 - 222.126.088.207 , 000 , Ivyhouse Productions
+222.126.090.136 - 222.126.090.143 , 000 , Department of Trade and Industry Davao
+222.126.092.096 - 222.126.092.103 , 000 , National Police Commission
+222.126.092.240 - 222.126.092.247 , 000 , Film Experts Inc
+222.126.093.224 - 222.126.093.231 , 000 , GFK Asia PTE LTD
+222.126.095.232 - 222.126.095.239 , 000 , Villanueva Gabionza and De Santos Law
+222.126.095.248 - 222.126.095.255 , 000 , National Statistics Office
+222.126.112.104 - 222.126.112.111 , 000 , Fujitsu Ten Corporation Of The
+222.126.112.192 - 222.126.112.199 , 000 , Bureau of Quarantine n International
+222.126.113.096 - 222.126.113.111 , 000 , Philippine Ports Authority
+222.126.115.024 - 222.126.115.031 , 000 , Municipilaty Of Las Pinas
+222.126.115.104 - 222.126.115.111 , 000 , ABS CBN Broadcasting Corporation
+222.126.115.160 - 222.126.115.167 , 000 , Broadlines Animation Inc
+222.126.116.000 - 222.126.116.007 , 000 , Bates Licensing  Entertainment  Inc
+222.126.116.096 - 222.126.116.103 , 000 , Foregin Service Institute
+222.126.116.144 - 222.126.116.151 , 000 , Philips Semiconductor Philippines
+222.126.118.160 - 222.126.118.183 , 000 , GF NBC Tent 26th Bgy South Side MAKATI
+222.126.119.096 - 222.126.119.103 , 000 , Eduardo Maghupoy
+222.126.119.248 - 222.126.119.255 , 000 , Monsanto Philippines Inc
+222.126.120.024 - 222.126.120.031 , 000 , City Government of Zamboanga
+222.126.124.048 - 222.126.124.055 , 000 , Mandaluyong City Hall
+222.126.125.048 - 222.126.125.055 , 000 , Corewatchmen Security and  Detective Corp
+222.126.125.104 - 222.126.125.111 , 000 , A G Roa Video Rentals and Sales Inc
+222.126.127.160 - 222.126.127.167 , 000 , Trend Micro Devices Inc
+222.127.000.200 - 222.127.000.207 , 000 , Makati City
+222.127.004.040 - 222.127.004.047 , 000 , NETSUITE GLOBE
+222.127.005.000 - 222.127.005.255 , 000 , Makati City
+222.127.007.032 - 222.127.007.039 , 000 , SIEMENS GLOBE
+222.127.007.128 - 222.127.007.255 , 000 , INTEL GLOBE
+222.127.011.072 - 222.127.011.079 , 000 , SAP GLOBE
+222.127.012.064 - 222.127.012.071 , 000 , IBM GLOBE
+222.127.013.016 - 222.127.013.031 , 000 , DYNCORP GLOBE
+222.127.025.040 - 222.127.025.047 , 000 , Makati City
+222.127.025.064 - 222.127.025.071 , 000 , Makati City
+222.127.025.192 - 222.127.025.199 , 000 , SUPREME_COURT
+222.128.133.051 - 222.128.133.051 , 000 , SMSHoax FakeAV Fraud Trojan
+222.128.173.085 - 222.128.173.085 , 000 , SMSHoax FakeAV Fraud Trojan
+222.128.207.206 - 222.128.207.206 , 000 , Detected AP2P on OC-CO
+222.145.148.019 - 222.145.148.019 , 000 , DDoS/ap2p
+222.146.193.241 - 222.146.193.241 , 000 , DDoS/ap2p
+222.149.235.106 - 222.149.235.106 , 000 , Detected AP2P on OCN
+222.150.134.238 - 222.150.134.238 , 000 , DDoS/ap2p
+222.150.192.180 - 222.150.192.180 , 000 , DDoS/ap2p
+222.150.194.188 - 222.150.194.188 , 000 , DDoS/ap2p
+222.151.192.016 - 222.151.192.023 , 000 , Interactive Brains Co.,LTD
+222.151.192.128 - 222.151.192.135 , 000 , Panasonic Communications Co.,Ltd
+222.151.193.024 - 222.151.193.031 , 000 , Videojet K.K
+222.151.194.144 - 222.151.194.151 , 000 , Digital Art Creators,inc
+222.151.195.168 - 222.151.195.175 , 000 , Fujitsu Corporation
+222.151.195.224 - 222.151.195.231 , 000 , Panasonic Telecom
+222.151.195.232 - 222.151.195.239 , 000 , NAMCO LIMITED
+222.151.196.040 - 222.151.196.047 , 000 , Information Services International-Dentsu,Ltd
+222.151.196.232 - 222.151.196.239 , 000 , Mitsubishi Electric Information Technology
+222.151.196.248 - 222.151.196.255 , 000 , ASAHI SHIMBUN HAMBAI SERVICE Co.,Ltd
+222.151.197.120 - 222.151.197.127 , 000 , DEFENSE MINISTRY(GIKEN 2ND RESEARCH CENTER)
+222.151.197.128 - 222.151.197.135 , 000 , NEC Communication Service,Ltd
+222.151.197.176 - 222.151.197.191 , 000 , RECORDING INDUSTRY ASSOCIATION OF JAPAN
+222.151.198.120 - 222.151.198.127 , 000 , TBWA/JAPAN
+222.151.198.136 - 222.151.198.143 , 000 , ChuoAoyama Sustainability Certification Co.,Ltd
+222.151.198.240 - 222.151.198.247 , 000 , EMBASSY OF LITHUANIA IN JAPAN
+222.151.198.248 - 222.151.198.255 , 000 , filmstock,inc
+222.151.199.144 - 222.151.199.151 , 000 , NEC Corporation
+222.151.200.008 - 222.151.200.015 , 000 , namco limited
+222.151.200.152 - 222.151.200.159 , 000 , NHN Japan Corporation
+222.151.200.176 - 222.151.200.191 , 000 , Idea Factory Co.,Ltd
+222.151.200.200 - 222.151.200.207 , 000 , Japan Defense Agency
+222.151.200.224 - 222.151.200.239 , 000 , BANPRESTO CO.,LTD
+222.151.201.000 - 222.151.201.007 , 000 , Accenture
+222.151.201.160 - 222.151.201.175 , 000 , THE CARLYLE GROUP
+222.151.201.200 - 222.151.201.207 , 000 , Mitsubishi Electric Information Systems Corporation
+222.151.202.088 - 222.151.202.095 , 000 , TOMO MUSIC,INC
+222.151.204.080 - 222.151.204.087 , 000 , TOKYO BROADCASTING SYSTEM,INC
+222.151.204.136 - 222.151.204.143 , 000 , Mitsubishi UFJ Asset Management Co.,Ltd
+222.151.205.016 - 222.151.205.023 , 000 , Cisco Systems K.K
+222.151.205.032 - 222.151.205.047 , 000 , RICH PICTURES,INC
+222.151.205.064 - 222.151.205.071 , 000 , Association of Copyright for Computer Software
+222.151.207.088 - 222.151.207.095 , 000 , WALT DISNEY Company (Japan) Ltd
+222.151.207.176 - 222.151.207.183 , 000 , To-on music publishing co.,Ltd
+222.151.207.216 - 222.151.207.223 , 000 , Mitsubishi Estate Building Management Co.,Ltd
+222.151.208.024 - 222.151.208.031 , 000 , INFORMATION SERVICES INTERNATIONAL-DENTSU,LTD
+222.151.209.008 - 222.151.209.015 , 000 , NIPPON DENTSU CO.,LTD
+222.151.209.064 - 222.151.209.079 , 000 , FUJITSU SUPPORT AND SERVICE INC
+222.151.210.112 - 222.151.210.119 , 000 , Sony PCL Inc
+222.151.210.128 - 222.151.210.135 , 000 , Sony PCL Inc
+222.151.210.208 - 222.151.210.223 , 000 , McAfee co.,Ltd
+222.151.210.240 - 222.151.210.247 , 000 , NEC Corporation
+222.151.211.160 - 222.151.211.167 , 000 , Ministry of Education,Culture,Sports,Science and Technology
+222.151.211.176 - 222.151.211.183 , 000 , Defense Agency
+222.151.213.208 - 222.151.213.215 , 000 , Cantata Japan Inc
+222.151.218.008 - 222.151.218.015 , 000 , MITSUBISHI ELECTRIC CORPORATION
+222.151.218.208 - 222.151.218.215 , 000 , NTT Software Corporation
+222.151.218.240 - 222.151.218.247 , 000 , Lionbridge K.K
+222.151.219.032 - 222.151.219.039 , 000 , Texas Instruments Japan Limited
+222.151.222.120 - 222.151.222.127 , 000 , OSRAM MELCO TOSHIBA LIGHTING CO.,LTD
+222.151.223.024 - 222.151.223.031 , 000 , Kanagawa Prefectural Police Headquarters
+222.151.223.064 - 222.151.223.079 , 000 , Mitsubishi Electric Lighting Corporation
+222.151.227.056 - 222.151.227.063 , 000 , IDC Corporation
+222.151.228.136 - 222.151.228.143 , 000 , IWATE MITSUBISHI FUSO CAR SALES Co.,Ltd
+222.151.229.080 - 222.151.229.087 , 000 , Rich Pictures,Inc
+222.151.230.008 - 222.151.230.015 , 000 , toho company limited
+222.151.230.096 - 222.151.230.103 , 000 , ECHO BUSINESS SOFTWARE CO.,LTD
+222.151.230.120 - 222.151.230.127 , 000 , Osaka Mitsubishi Fuso Auto Sales Company
+222.151.231.224 - 222.151.231.231 , 000 , THE YOMIURISHIMBUN
+222.151.232.032 - 222.151.232.047 , 000 , G-1 Co.,ltd
+222.151.233.096 - 222.151.233.103 , 000 , Dentsu,inc
+222.151.233.144 - 222.151.233.151 , 000 , Osaka Mitsubishi Fuso Motor Sales Co.,Ltd
+222.151.234.016 - 222.151.234.031 , 000 , Wakayama Prefectural Federation of Societies of Commerce and Industry
+222.151.236.032 - 222.151.236.039 , 000 , Nippon Dentsu CO.,LTD
+222.151.241.192 - 222.151.241.199 , 000 , Dai Nippon Printing Co.,Ltd
+222.151.241.224 - 222.151.241.231 , 000 , Nagoya Research and Engineering Office for Port and Airport,Chubu Regional B
+222.151.245.056 - 222.151.245.063 , 000 , AICHI TELEVISION BROADCASTING CO.,LTD
+222.151.252.048 - 222.151.252.055 , 000 , Nagasaki Prefectural Police
+222.151.254.080 - 222.151.254.087 , 000 , MULTIMEDIA WORK CO.,LTD
+222.151.255.224 - 222.151.255.239 , 000 , Corporation InfoMedia
+222.154.225.080 - 222.154.225.083 , 000 , Recording Industry Association of New Zealand
+222.154.230.047 - 222.154.230.047 , 000 , e-crime.govt.nz
+222.159.196.159 - 222.159.196.159 , 000 , Bittorrent fakes
+222.159.198.179 - 222.159.198.179 , 000 , Bittorrent fakes
+222.165.135.024 - 222.165.135.031 , 000 , Ministry of Education
+222.165.135.224 - 222.165.135.231 , 000 , Ceylinco Cisco Security Corporation (Pvt.) Ltd
+222.165.135.248 - 222.165.135.255 , 000 , Reuters Ltd
+222.165.137.000 - 222.165.137.007 , 000 , Ministry of Post Telecommunication & Udarata Dev
+222.165.137.096 - 222.165.137.103 , 000 , UN Office for the Cordination of Human Affairs
+222.165.137.200 - 222.165.137.215 , 000 , Ministry of Health
+222.165.138.008 - 222.165.138.015 , 000 , United Nations High Commissioner for Refugees
+222.165.138.096 - 222.165.138.103 , 000 , Department of Attorney Generals
+222.165.140.104 - 222.165.140.111 , 000 , ICELAND EMBASSY
+222.165.153.072 - 222.165.153.079 , 000 , United Nations Development Programme
+222.165.153.080 - 222.165.153.087 , 000 , Ministry Of Agriculture Mktg Deve-IT Park
+222.165.153.160 - 222.165.153.167 , 000 , United Nations Development Program
+222.165.194.250 - 222.165.194.250 , 000 , SMSHoax FakeAV Fraud Trojan
+222.168.004.012 - 222.168.004.015 , 000 , CHANGCHUN-WUJINGSENLINZONGDUI-ARMY
+222.168.008.016 - 222.168.008.023 , 000 , CHANGCHUN-JL-LINYEKANCHASHEJI-GOV
+222.168.075.056 - 222.168.075.059 , 000 , CHANGCHUN-SONY-CORP
+222.168.089.192 - 222.168.089.207 , 000 , CHANGCHUN-JL-JIAOTONGZHENGFEUGUANLI-GOV
+222.168.091.008 - 222.168.091.011 , 000 , CHANGCHUN-HUAGANG-LAWYER-INSTITUTE
+222.168.145.208 - 222.168.145.211 , 000 , JILIN-POLICES-OFFICE
+222.169.011.034 - 222.169.011.034 , 000 , Detected AP2P on ChinaNet Jilin proxy
+222.169.088.007 - 222.169.088.020 , 000 , LIAOYUAN-THE-PEOPLE-PROCURATORATE
+222.169.116.108 - 222.169.116.119 , 000 , BAICHENG-TYWUZHUANGBU-GOVERMENT
+222.169.116.124 - 222.169.116.135 , 000 , BAICHENG-TYGONGSHANGJU-GOVERMENT
+222.169.193.034 - 222.169.193.034 , 000 , SMSHoax FakeAV Fraud Trojan
+222.169.215.091 - 222.169.215.091 , 000 , Detected AP2P on YuanYuan Telbar
+222.172.223.000 - 222.172.223.031 , 000 , Customer-Net in CHINANET YunNan province
+222.172.223.216 - 222.172.223.223 , 000 , Yunnan-National-Security-Office
+222.173.050.144 - 222.173.050.144 , 000 , SMSHoax FakeAV Fraud Trojan
+222.174.155.019 - 222.174.155.019 , 000 , SMSHoax FakeAV Fraud Trojan
+222.175.049.020 - 222.175.049.023 , 000 , Zaozhuang-Zaozhuangrecordoffice,Zaozhuangcity,Shandongprovince
+222.175.116.131 - 222.175.116.131 , 000 , AP2P on Jinan Jinseshikong Bar
+222.196.048.000 - 222.196.063.255 , 000 , Sichuan Conservatory of Music
+222.196.107.017 - 222.196.107.017 , 000 , Detected AP2P on West China Univ
+222.198.246.000 - 222.198.246.255 , 000 , GuiZhou Police Officer Vocational College
+222.199.100.000 - 222.199.100.255 , 000 , Inner Mongolia Police Professional College
+222.200.186.018 - 222.200.186.018 , 000 , SMSHoax FakeAV Fraud Trojan
+222.205.019.029 - 222.205.019.029 , 000 , Detected kad activity on Zhejiang University (DShield)
+222.205.101.000 - 222.205.101.255 , 000 , Botnet on Zhejiang Univ
+222.205.127.011 - 222.205.127.011 , 000 , Botnet on Zhejiang Univ
+222.205.127.027 - 222.205.127.027 , 000 , AP2P on Zhejiang Univ
+222.208.125.100 - 222.208.125.103 , 000 , SC-ZG-POLICE-HOTEL
+222.208.125.192 - 222.208.125.195 , 000 , SC-ZG-POLICE
+222.208.126.140 - 222.208.126.143 , 000 , SC-ZG-LAW-OFFICE
+222.208.126.160 - 222.208.126.167 , 000 , SC-ZG-YT-LAW-OFFICE
+222.211.064.157 - 222.211.064.157 , 000 , sclottery.gov.cn
+222.216.222.242 - 222.216.222.242 , 000 , gx173.net online games
+222.218.152.036 - 222.218.152.036 , 000 , SMSHoax FakeAV Fraud Trojan
+222.218.157.023 - 222.218.157.023 , 000 , SMSHoax FakeAV Fraud Trojan
+222.218.157.121 - 222.218.157.121 , 000 , SMSHoax FakeAV Fraud Trojan
+222.221.250.192 - 222.221.250.255 , 000 , Information-industry-office-Of-Kunming-government
+222.222.251.098 - 222.222.251.098 , 000 , SMSHoax FakeAV Fraud Trojan
+222.222.251.129 - 222.222.251.129 , 000 , SMSHoax FakeAV Fraud Trojan
+222.222.251.133 - 222.222.251.133 , 000 , SMSHoax FakeAV Fraud Trojan
+222.223.002.000 - 222.223.002.007 , 000 , BROADCAST&TV UNIVERSITY OF QIANAN
+222.223.187.000 - 222.223.187.063 , 000 , City Government of Shijiazhuang
+222.223.213.172 - 222.223.213.172 , 000 , Detected kad activity on Shihu Technology
+222.227.164.073 - 222.227.164.073 , 000 , DDoS/ap2p
+222.228.161.106 - 222.228.161.106 , 000 , DDoS/ap2p
+222.228.226.192 - 222.228.226.255 , 000 , Movie Full,inc
+222.228.227.077 - 222.228.227.077 , 000 , www.shopro.co.jp
+222.230.191.160 - 222.230.191.191 , 000 , Symantec Japan, Inc
+222.231.010.000 - 222.231.011.255 , 000 , NCsoft
+222.231.045.000 - 222.231.045.255 , 000 , Nintendo
+222.233.164.000 - 222.233.179.255 , 000 , Anyang Cityhall
+222.239.076.142 - 222.239.076.142 , 000 , www.riak.or.kr
+222.239.076.168 - 222.239.076.168 , 000 , www.miak.or.kr
+222.240.068.202 - 222.240.068.202 , 000 , AP2P on ChinaNet Hunan
+222.244.108.251 - 222.244.108.251 , 000 , AP2P on ChinaNet Hunan
+222.244.110.009 - 222.244.110.009 , 000 , AP2P on ChinaNet Hunan
+222.244.110.144 - 222.244.110.144 , 000 , AP2P on ChinaNet Hunan
+222.244.111.242 - 222.244.111.242 , 000 , AP2P on ChinaNet Hunan
+222.244.204.163 - 222.244.204.163 , 000 , AP2P on ChinaNet Hunan
+222.244.205.032 - 222.244.205.032 , 000 , AP2P on ChinaNet Hunan
+222.249.144.000 - 222.249.144.127 , 000 , Beijing Education Information Network - bjedu.gov.cn
+222.255.077.064 - 222.255.077.079 , 000 , Cong ty Sony Vietnam
+223.004.241.244 - 223.004.241.244 , 000 , Detected AP2P on HiChina proxy
+223.025.242.062 - 223.025.242.062 , 000 , SMSHoax FakeAV Fraud Trojan
+223.027.035.187 - 223.027.035.187 , 000 , Detected AP2P on Pumo
+223.027.170.090 - 223.027.170.090 , 000 , Detected kad activity on Voxel dot Net
+223.027.170.112 - 223.027.170.112 , 000 , Detected kad activity on Voxel dot Net
+223.027.171.091 - 223.027.171.091 , 000 , Detected AP2P on Voxel dot Net proxy
+223.030.021.206 - 223.030.021.206 , 000 , SMSHoax FakeAV Fraud Trojan
+223.030.029.210 - 223.030.029.210 , 000 , SMSHoax FakeAV Fraud Trojan
+223.030.031.158 - 223.030.031.158 , 000 , SMSHoax FakeAV Fraud Trojan
+223.030.055.010 - 223.030.055.010 , 000 , SMSHoax FakeAV Fraud Trojan
+223.030.060.018 - 223.030.060.018 , 000 , SMSHoax FakeAV Fraud Trojan
+223.164.250.118 - 223.164.250.118 , 000 , SMSHoax FakeAV Fraud Trojan
+223.200.000.000 - 223.200.255.255 , 000 , GSN-NET
+223.223.174.002 - 223.223.174.002 , 000 , SMSHoax FakeAV Fraud Trojan
+223.240.129.004 - 223.240.129.004 , 000 , Spam and Botnet on ChinaNet Anhui
+223.255.134.130 - 223.255.134.130 , 000 , Detected AP2P on Wharf T&T Limited
+223.255.146.166 - 223.255.146.166 , 000 , Detected kad activity on Wharf T&T
+223.255.149.010 - 223.255.149.010 , 000 , Detected kad activity on Wharf T&T
+223.255.155.090 - 223.255.155.090 , 000 , Detected kad activity on Wharf T&T
+223.255.158.118 - 223.255.158.118 , 000 , Detected kad activity on Wharf T&T
+223.255.158.238 - 223.255.158.238 , 000 , Detected kad activity on Wharf T&T Limited
+223.255.159.108 - 223.255.159.108 , 000 , Kad activity on Wharf T&T
+223.255.160.106 - 223.255.160.106 , 000 , Detected kad activity on Wharf T&T
+223.255.169.250 - 223.255.169.250 , 000 , Kad activity on Wharf T&T
+223.255.177.196 - 223.255.177.196 , 000 , Kad activity on Wharf T&T
+223.255.241.132 - 223.255.241.132 , 000 , AP2P on METRONET-HK
+224.000.000.000 - 224.255.255.255 , 000 , Bogon
+225.000.000.000 - 225.255.255.255 , 000 , Bogon
+226.000.000.000 - 226.255.255.255 , 000 , Bogon
+227.000.000.000 - 227.255.255.255 , 000 , Bogon
+228.000.000.000 - 228.255.255.255 , 000 , Bogon
+229.000.000.000 - 229.255.255.255 , 000 , Bogon
+230.000.000.000 - 230.255.255.255 , 000 , Bogon
+231.000.000.000 - 231.255.255.255 , 000 , Bogon
+232.000.000.000 - 232.255.255.255 , 000 , Bogon
+233.000.000.000 - 233.255.255.255 , 000 , Bogon
+234.000.000.000 - 234.255.255.255 , 000 , Bogon
+235.000.000.000 - 235.255.255.255 , 000 , Bogon
+236.000.000.000 - 236.255.255.255 , 000 , Bogon
+237.000.000.000 - 237.255.255.255 , 000 , Bogon
+238.000.000.000 - 238.255.255.255 , 000 , Bogon
+239.000.000.000 - 239.255.255.255 , 000 , Bogon
+240.000.000.000 - 240.255.255.255 , 000 , Bogon
+241.000.000.000 - 241.255.255.255 , 000 , Bogon
+242.000.000.000 - 242.255.255.255 , 000 , Bogon
+243.000.000.000 - 243.255.255.255 , 000 , Bogon
+244.000.000.000 - 244.255.255.255 , 000 , Bogon
+245.000.000.000 - 245.255.255.255 , 000 , Bogon
+246.000.000.000 - 246.255.255.255 , 000 , Bogon
+247.000.000.000 - 247.255.255.255 , 000 , Bogon
+248.000.000.000 - 248.255.255.255 , 000 , Bogon
+249.000.000.000 - 249.255.255.255 , 000 , Bogon
+250.000.000.000 - 250.255.255.255 , 000 , Bogon
+251.000.000.000 - 251.255.255.255 , 000 , Bogon
+252.000.000.000 - 252.255.255.255 , 000 , Bogon
+253.000.000.000 - 253.255.255.255 , 000 , Bogon
+254.000.000.000 - 254.255.255.255 , 000 , Bogon
+255.000.000.000 - 255.255.255.255 , 000 , Bogon

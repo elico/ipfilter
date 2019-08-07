@@ -1,0 +1,2000 @@
+#>> Ipfilter v143 (19,04-2010) by R3Qu13M
+#>> [based on Meuh6879's ipfilter format]
+#
+#>> Updated all lists (18,04-2010)
+#
+#>> Download no,bluetacklists: 
+#> 060 , http://www.cidr-report.org/bogons/freespace-quads.txt
+#> 070 , http://www.cidr-report.org/as2.0/bogus-as-advertisements.html
+#> 080 , http://www.cidr-report.org/as2.0/indext.html#Bogons
+#> 095 , http://www.mediafire.com/file/wnvmrwkryyg/FK.txt
+#
+#
+#>> Parsed lines/entries:270037  Found IP ranges:270037  Duplicate:0  Merged:0
+#
+# FILTERED LEVEL               DESCRIPTION				DENY IP COUNT
+#>     060		Unallocated (Free) Space on IPv4	675.278.136  (out of 4.294.967.296 IP's or 15,72254%)
+#>     070		Bogus AS Advertisements		1.085.712  (out of 4.294.967.296 IP's or 00,02528%)
+#>     080		Possible Bogus Routes		34.673.152  (out of 4.294.967.296IP's or 00,8073%)
+#>     090		Level1				775.492.191  (out of 4.294.967.296 IP's or 18,05583%)
+#>     095		Fake Server			1.958.612  (out of 4.294.967.296 IP's or 00,0456%)
+#>     097		Microsoft				1.101.427  (out of 4.294.967.296 IP's or 00,02564%)
+#>     107		Tor, Proxy list			1.980  (out of 4.294.967.296 IP's or 00,00005%)
+#>     109		Level2				319.951.353  (out of 4.294.967.296 IP's or 07,44945%)
+#>     111		Spyware				270.984  (out of 4.294.967.296 IP's or 00,00631%)
+#>     113		Ad Trackers			475.644  (out of 4.294.967.296 IP's or 0,01107%)
+#>     115		Spider				1.066.506  (out of 4.294.967.296 IP's or 00,02483%)
+#>     119		TempList				153.269  (out of 4.294.967.296 IP's or 00,00357%)
+#>     160		Lan range				302.055.193  (out of 4.294.967.296 IP's or 07,03277%)
+#
+# Total IP Count = 2.056.174.918  (out of 4.294.967.296 IP's or 47,87405%)
+#
+#
+#>> Builded to be used with eMule & a private ISP. Fight the Future.
+#
+#
+0.0.0.1         , 0.255.255.255   , 160 , [LN]Invalid ips
+1.0.1.0         , 1.1.0.255       ,  60 , [BG]freespace-quads
+1.1.2.0         , 1.2.2.255       ,  60 , [BG]freespace-quads
+1.2.4.0         , 1.49.255.255    ,  60 , [BG]freespace-quads
+1.50.4.0        , 1.254.255.255   ,  60 , [BG]freespace-quads
+2.0.0.0         , 2.111.255.255   ,  60 , [BG]freespace-quads
+2.128.0.0       , 2.255.255.255   ,  60 , [BG]freespace-quads
+3.0.0.0         , 3.255.255.255   ,  90 , [L1]General Electric Company
+4.0.25.146      , 4.0.25.148      ,  90 , [L1]ciscoseattle.bbnplanet.net
+4.0.26.14       , 4.0.29.24       ,  90 , [L1]cisco.bbnplanet.net
+4.0.38.0        , 4.0.38.255      ,  90 , [L1]Level 3 Communications
+4.0.159.0       , 4.0.159.255     ,  90 , [L1]Level 3 Communications
+4.0.181.0       , 4.0.182.255     ,  90 , [L1]Level 3 Communications
+4.1.75.0        , 4.1.75.255      ,  90 , [L1]Level 3 Communications, mediasentry.bbnplanet.net
+4.1.129.0       , 4.1.140.255     ,  90 , [L1]Level 3 Communications
+4.1.143.0       , 4.1.144.255     ,  90 , [L1]Level 3 Communications
+4.2.144.32      , 4.2.144.47      , 109 , [L2]ternational Generating Co. (Intergen)
+4.2.144.64      , 4.2.144.95      ,  90 , [L1]Cisco Systems, Inc
+4.2.144.224     , 4.2.144.231     ,  90 , [L1]Drug Enforcement Adm
+4.2.144.248     , 4.2.144.255     ,  90 , [L1]US Dept of Treasury - TIGTA
+4.2.145.0       , 4.2.145.63      , 109 , [L2]HTS Engineering, LTD
+4.2.145.96      , 4.2.145.127     , 109 , [L2]ITS Caleb Brett
+4.2.145.192     , 4.2.145.199     , 109 , [L2]Neuberger Berman
+4.2.145.208     , 4.2.145.223     , 109 , [L2]San Jacinto Methodist Hospital
+4.2.145.224     , 4.2.145.239     ,  90 , [L1]City of League City
+4.2.153.0       , 4.2.153.7       ,  90 , [L1]Verizon_Intel-San Jose
+4.2.153.32      , 4.2.153.63      ,  90 , [L1]Cisco Systems, Inc
+4.2.153.64      , 4.2.153.127     , 109 , [L2]Paramit Corporation
+4.2.160.64      , 4.2.160.79      ,  90 , [L1]Werner Media
+4.2.160.160     , 4.2.160.191     , 109 , [L2]Creditors Interchange Inc
+4.2.161.0       , 4.2.161.7       ,  90 , [L1]Pike County Auditor
+4.2.161.40      , 4.2.161.63      , 109 , [L2]Orthodonics Centers of America/Sturgis
+4.2.161.64      , 4.2.161.71      ,  90 , [L1]Delaware MRDD
+4.2.161.80      , 4.2.161.95      , 109 , [L2]Eldec Corporation
+4.2.161.128     , 4.2.161.255     , 109 , [L2]Avery Dennison Corporation
+4.2.162.128     , 4.2.162.135     ,  90 , [L1]Brown County Commissioners_Georgetown
+4.2.162.144     , 4.2.162.151     ,  90 , [L1]Portsmouth Municipal Court
+4.2.162.160     , 4.2.162.191     ,  90 , [L1]City of Circleville
+4.2.163.0       , 4.2.163.79      , 109 , [L2]Winn Management Corporation
+4.2.163.96      , 4.2.163.127     ,  90 , [L1]Cisco Systems, Inc
+4.2.168.0       , 4.2.168.255     , 109 , [L2]Marinar Technology Co., LLC
+4.2.169.0       , 4.2.169.95      ,  90 , [L1]Cisco Systems, Inc
+4.2.169.112     , 4.2.169.119     ,  90 , [L1]Fluent, Inc
+4.2.169.128     , 4.2.169.255     ,  90 , [L1]Fluent, Inc
+4.2.170.32      , 4.2.170.63      ,  90 , [L1]Cisco Systems, Inc
+4.2.170.128     , 4.2.170.135     , 109 , [L2]Relational Funding Corporation
+4.2.170.144     , 4.2.170.151     ,  90 , [L1]Drug Enforcement Adm
+4.2.170.192     , 4.2.171.255     , 109 , [L2]Ohio Farmers Insurance Company
+4.2.172.0       , 4.2.172.255     ,  90 , [L1]Sogeti USA
+4.2.173.8       , 4.2.173.15      , 109 , [L2]Orthodonics Centers of America/Sturgis
+4.2.173.32      , 4.2.173.63      ,  90 , [L1]Pickaway County
+4.2.173.80      , 4.2.173.87      , 109 , [L2]Schultz Design
+4.2.176.0       , 4.2.176.15      , 109 , [L2]Walker Systems Support
+4.2.176.32      , 4.2.176.71      ,  90 , [L1]Cisco Systems, Inc
+4.2.176.72      , 4.2.176.87      , 109 , [L2]BankNorth Insurance Group
+4.2.176.88      , 4.2.176.127     ,  90 , [L1]Springfield Police Department
+4.2.176.224     , 4.2.176.239     , 109 , [L2]Progress Software Corp
+4.2.177.0       , 4.2.177.255     , 109 , [L2]Envision Technology Advisors, LLC
+4.2.179.32      , 4.2.179.47      ,  90 , [L1]State of Rhode Island Attorney
+4.2.179.56      , 4.2.179.63      , 109 , [L2]Fleet Bank/ Springfield
+4.2.179.192     , 4.2.179.223     ,  90 , [L1]Bingham Dana LLP
+4.2.179.232     , 4.2.179.239     ,  90 , [L1]Alliance Core Technologies
+4.2.179.240     , 4.2.179.255     , 109 , [L2]Chordiant Software, Inc
+4.2.184.0       , 4.2.186.255     ,  90 , [L1]Alliance Core Technologies
+4.2.187.128     , 4.2.187.255     , 109 , [L2]Chordiant Software, Inc
+4.2.188.72      , 4.2.188.79      , 109 , [L2]Rzb Finance Llc
+4.2.188.96      , 4.2.188.103     ,  90 , [L1]Tyco Engineered Products and Services
+4.2.188.128     , 4.2.189.255     ,  90 , [L1]Alliance Core Technologies
+4.2.192.0       , 4.2.192.15      ,  90 , [L1]Synopsys Inc
+4.2.192.64      , 4.2.192.79      ,  90 , [L1]US Dept of Treasury - TIGTA
+4.2.192.96      , 4.2.192.127     ,  90 , [L1]Cisco Systems, Inc
+4.2.192.192     , 4.2.192.223     ,  90 , [L1]Cisco Systems, Inc
+4.2.193.0       , 4.2.193.127     ,  90 , [L1]Synopsys Inc
+4.2.224.0       , 4.2.224.7       ,  90 , [L1]City of Georgetown
+4.2.224.32      , 4.2.224.127     ,  90 , [L1]Cisco Systems, Inc
+4.2.225.80      , 4.2.225.87      ,  90 , [L1]Bensussen Deutsch & Associates, Inc
+4.2.225.96      , 4.2.225.103     , 109 , [L2]Teradyne, Inc
+4.2.225.248     , 4.2.225.255     ,  90 , [L1]Drug Enforcement Adm
+4.2.226.128     , 4.2.226.135     , 109 , [L2]Tri-State Bank of Memphis
+4.2.226.152     , 4.2.226.159     ,  90 , [L1]City of Georgetown
+4.2.227.0       , 4.2.227.63      ,  90 , [L1]Horry County
+4.2.227.72      , 4.2.227.87      ,  90 , [L1]US Dept of Treasury-TIGTA
+4.2.227.128     , 4.2.227.135     ,  90 , [L1]US Dept of Treasury-TIGTA
+4.2.227.144     , 4.2.227.151     , 109 , [L2]Neuberger Berman NBATLANTA-227-26 (NET-4-2-227-144-1)
+4.17.1.64       , 4.17.1.95       ,  90 , [L1]County of Georgetown
+4.17.1.128      , 4.17.1.191      , 109 , [L2]Scottish Insurance Agency
+4.17.2.0        , 4.17.2.127      ,  90 , [L1]City of Dothan
+4.17.2.240      , 4.17.2.255      ,  90 , [L1]Horry County
+4.17.3.48       , 4.17.3.95       , 109 , [L2]McCamish Group
+4.17.3.128      , 4.17.3.191      ,  90 , [L1]Georgetown County Sheriff
+4.17.16.0       , 4.17.16.255     , 109 , [L2]McCamish Group
+4.17.24.0       , 4.17.28.255     ,  90 , [L1]Houston County Healthcare
+4.17.69.32      , 4.17.69.47      , 109 , [L2]GTE National Credit Management Center
+4.17.71.200     , 4.17.71.207     ,  90 , [L1]US Dept of Treasury - TIGTA
+4.17.97.0       , 4.17.97.63      , 109 , [L2]Envision Technology Advisors, LLC
+4.17.98.40      , 4.17.98.47      , 109 , [L2]Rhode Island Medical Imaging
+4.17.128.0      , 4.17.128.255    , 109 , [L2]Winchester Hospital
+4.17.129.64     , 4.17.129.79     , 109 , [L2]Mitsubishi Electric Research Labs, Inc
+4.17.129.192    , 4.17.129.199    , 109 , [L2]Fresenius Medical Care FMCNA2-129-12 (NET-4-17-129-192-1)
+4.17.130.0      , 4.17.130.31     , 109 , [L2]Northstar Technology
+4.17.130.32     , 4.17.130.63     ,  90 , [L1]Keane, Inc
+4.17.130.88     , 4.17.130.95     ,  90 , [L1]US Dept of Treasury - TIGTA
+4.17.135.8      , 4.17.135.31     , 109 , [L2]Eastern Research Group Inc
+4.17.135.96     , 4.17.135.127    , 109 , [L2]Genuity Solutions
+4.17.137.168    , 4.17.137.175    , 109 , [L2]Candela Corporation
+4.17.137.224    , 4.17.137.255    ,  90 , [L1]Cisco Systems, Inc
+4.17.140.32     , 4.17.140.47     , 109 , [L2]By All Accounts.com, Inc
+4.17.140.48     , 4.17.140.63     ,  90 , [L1]Commonwealth of Massachusetts
+4.17.141.0      , 4.17.141.31     , 109 , [L2]Hallmark Health
+4.17.142.128    , 4.17.142.191    , 109 , [L2]Christian Book Distributors
+4.17.142.224    , 4.17.142.239    , 109 , [L2]Starwood Hotels and Resorts Worldwide, Inc
+4.17.142.248    , 4.17.142.255    , 109 , [L2]USPowerSolutions Corporation
+4.17.149.224    , 4.17.149.255    , 109 , [L2]Century Bank
+4.17.150.96     , 4.17.150.111    , 109 , [L2]Fresenius Medical Care
+4.17.150.112    , 4.17.150.127    ,  90 , [L1]City of Boston - BPL
+4.17.157.0      , 4.17.157.255    ,  90 , [L1]International Data Corporation
+4.17.159.32     , 4.17.159.47     , 109 , [L2]Century Bank
+4.17.159.64     , 4.17.159.127    ,  90 , [L1]City of Worcester
+4.17.160.96     , 4.17.160.159    , 109 , [L2]Collego Corporation
+4.17.160.160    , 4.17.160.175    ,  90 , [L1]Town of Wrentham
+4.17.160.240    , 4.17.160.247    ,  90 , [L1]Dept. of Veterans Affairs
+4.17.168.128    , 4.17.168.159    , 109 , [L2]Massachusetts Medical Society
+4.17.168.192    , 4.17.168.255    ,  90 , [L1]Caradas, Inc
+4.17.172.0      , 4.17.172.31     , 109 , [L2]Cambridge Savings Bank
+4.17.172.64     , 4.17.172.95     ,  90 , [L1]EMC Corporation EMC-172-31
+4.17.175.32     , 4.17.175.63     ,  90 , [L1]Cisco Systems, Inc. CISCOBXBRGH-175-20 (NET-4-17-175-32-1)
+4.17.178.0      , 4.17.178.255    , 109 , [L2]Terabase Corporation
+4.17.180.0      , 4.17.181.255    ,  90 , [L1]Cambridge City Hall
+4.17.183.112    , 4.17.183.119    , 109 , [L2]Ardent Software, Inc
+4.17.183.128    , 4.17.183.255    ,  90 , [L1]Mitsubishi Electric ITA
+4.17.192.0      , 4.17.192.31     ,  90 , [L1]Tracy Cross & Associates, Inc
+4.17.192.64     , 4.17.192.79     ,  90 , [L1]Fuji Photo Films
+4.17.192.80     , 4.17.192.87     , 109 , [L2]Resource Bank RESOURCEBANK-192-10
+4.17.192.128    , 4.17.192.255    ,  90 , [L1]Cass County Government
+4.17.193.96     , 4.17.193.103    , 109 , [L2]La Porte Hospital
+4.17.193.112    , 4.17.193.255    ,  90 , [L1]Lord, Bissell & Brook
+4.17.197.128    , 4.17.197.191    , 109 , [L2]FIMAT FACILITIES MANAGEMENT, INC. FIMAT-197-18 (NET-4-17-197-128-1)
+4.17.202.0      , 4.17.202.255    , 109 , [L2]Ministry Home Care
+4.17.206.0      , 4.17.207.255    , 109 , [L2]FIMAT FACILITIES MANAGEMENT, INC
+4.17.222.40     , 4.17.222.47     , 109 , [L2]Kirby Risk Corporation
+4.17.222.96     , 4.17.222.127    ,  90 , [L1]Nexstar Broadcasting
+4.17.223.0      , 4.17.223.255    , 109 , [L2]USG Corporation, Inc
+4.17.224.56     , 4.17.224.63     , 109 , [L2]Private HealthCare Systems
+4.17.226.0      , 4.17.227.255    , 109 , [L2]Paragon Industries, Inc. PARAGONIND-0-12
+4.17.229.0      , 4.17.229.31     ,  90 , [L1]Fort Wayne Air Service
+4.17.229.240    , 4.17.229.247    , 109 , [L2]FCN Bank FCNBANK-229-05
+4.17.230.16     , 4.17.230.31     , 109 , [L2]Professional Federal Credit Union
+4.17.232.0      , 4.17.232.255    ,  90 , [L1]City of Bloomington
+4.17.234.0      , 4.17.234.255    , 109 , [L2]USG Corporation, Inc
+4.17.245.96     , 4.17.245.127    ,  90 , [L1]Burt, Blee, Dixon and Sutton
+4.17.245.128    , 4.17.245.255    , 109 , [L2]Mitsubishi MMA
+4.17.247.0      , 4.17.249.255    , 109 , [L2]Dean Witter
+4.18.0.0        , 4.18.0.255      ,  90 , [L1]Info Cision Management Corporation
+4.18.1.0        , 4.18.1.63       , 109 , [L2]Investment Partners, LTD
+4.18.4.64       , 4.18.4.79       , 109 , [L2]Berger Health Systems
+4.18.4.128      , 4.18.4.191      , 109 , [L2]Fisher titus Medical Center
+4.18.5.128      , 4.18.5.191      ,  90 , [L1]Department of Defense
+4.18.6.32       , 4.18.6.63       ,  90 , [L1]Times Reporter
+4.18.26.0       , 4.18.26.135     ,  90 , [L1]Micro Electronics Inc
+4.18.26.160     , 4.18.26.191     , 109 , [L2]Consumer's National Bank
+4.18.30.0       , 4.18.30.255     , 109 , [L2]Fairview Hospital
+4.18.32.16      , 4.18.32.31      ,  90 , [L1]California Capital
+4.18.32.32      , 4.18.32.63      , 109 , [L2]Wellpoint Health Networks, Inc
+4.18.32.80      , 4.18.32.159     ,  90 , [L1]City of Oxnard
+4.18.32.184     , 4.18.32.191     , 109 , [L2]Contex Scanning Technology
+4.18.32.208     , 4.18.32.215     ,  90 , [L1]Riordan & McKinzie RIORDAN2-32-25 (NET-4-18-32-208-1)
+4.18.32.224     , 4.18.32.239     ,  90 , [L1]City of Azusa Light & Water Department
+4.18.34.0       , 4.18.34.31      ,  90 , [L1]Live Planet
+4.18.34.64      , 4.18.34.79      , 109 , [L2]Gentek Media Inc. GENTEKMEDIA-34-7 (NET-4-18-34-64-1)
+4.18.34.136     , 4.18.34.143     ,  90 , [L1]Long Beach USD
+4.18.34.224     , 4.18.34.231     ,  90 , [L1]Games Structure
+4.18.35.16      , 4.18.35.23      ,  90 , [L1]Quincy Jones Production
+4.18.35.48      , 4.18.35.63      ,  90 , [L1]City of Barstow
+4.18.35.192     , 4.18.35.199     , 109 , [L2]Advanced Medical Management ADVMED-35-30 (NET-4-18-35-192-1)
+4.18.35.200     , 4.18.35.207     ,  90 , [L1]Tigerhill Entertainment
+4.18.35.224     , 4.18.36.63      ,  90 , [L1]TreeHouse Interactive Design
+4.18.37.0       , 4.18.37.7       , 109 , [L2]Empire Financial
+4.18.37.16      , 4.18.37.31      ,  90 , [L1]Promo Music
+4.18.37.96      , 4.18.37.127     , 109 , [L2]International Medical Corps
+4.18.37.128     , 4.18.38.255     ,  90 , [L1]Werner Media
+4.18.40.64      , 4.18.40.79      ,  90 , [L1]County of San Bernardino Office of Emergency
+4.18.40.96      , 4.18.40.127     , 109 , [L2]Point Mugu Federal Credit Union-VOL END
+4.18.40.136     , 4.18.40.143     , 109 , [L2]Cancer International Research Group, Inc CIRG-40-23 (NET-4-18-40-136-1)
+4.18.40.144     , 4.18.40.159     ,  90 , [L1]Synopsys Inc. SYNOPSYSTOCA-40-22 (NET-4-18-40-144-1)
+4.18.40.160     , 4.18.40.167     , 109 , [L2]Epson America
+4.18.41.32      , 4.18.41.47      , 109 , [L2]Blood Bank of San Bernardino and Riversi BLOBANK-41-16
+4.18.41.64      , 4.18.41.127     , 109 , [L2]AltaOne Federal Credit Union ALTA-41-09
+4.18.42.8       , 4.18.42.15      ,  90 , [L1]Drug Enforcement Adm
+4.18.42.24      , 4.18.42.31      ,  90 , [L1]City of Huntington Beach
+4.18.42.72      , 4.18.42.79      , 109 , [L2]Mission Oaks National Bank MISSIONOAKSNATIONALB-42-9
+4.18.42.128     , 4.18.42.135     ,  90 , [L1]Moore, Winter, Skebba & McLennan, LLP
+4.18.44.0       , 4.18.44.63      , 109 , [L2]Medtronics MiniMed
+4.18.44.80      , 4.18.44.95      ,  90 , [L1]County of San Bernardino Office of Emergency
+4.18.44.104     , 4.18.44.127     , 109 , [L2]Sanwa Bank California SANWABANK-44-06
+4.18.44.136     , 4.18.44.143     ,  90 , [L1]City of Long Beach Public Library
+4.18.45.0       , 4.18.45.31      , 109 , [L2]Barrington Associates
+4.18.45.112     , 4.18.45.119     , 109 , [L2]Genuity IM
+4.18.45.176     , 4.18.45.183     ,  90 , [L1]Javelin Inc
+4.18.45.240     , 4.18.45.255     , 109 , [L2]Muni Financial, a Willdan Company
+4.18.46.136     , 4.18.46.143     ,  90 , [L1]Silver Pictures
+4.18.48.24      , 4.18.48.31      , 109 , [L2]Bank of America
+4.18.48.128     , 4.18.48.167     ,  90 , [L1]Cisco Systems, Inc
+4.18.48.168     , 4.18.48.175     , 109 , [L2]Guidant Corp
+4.18.49.0       , 4.18.49.15      ,  90 , [L1]Fuji Photo Film USA, Inc
+4.18.49.64      , 4.18.49.127     ,  90 , [L1]Palm Springs Hilton
+4.18.49.224     , 4.18.49.239     ,  90 , [L1]Sanctuary Records Group
+4.18.50.128     , 4.18.50.159     ,  90 , [L1]City of Redondo Beach
+4.18.50.160     , 4.18.50.191     , 109 , [L2]United Methodist Federal Credit Union - VOL End Cu
+4.18.51.0       , 4.18.51.255     ,  90 , [L1]City of Chino Hills
+4.18.52.128     , 4.18.52.159     , 109 , [L2]Financial Data Solutions
+4.18.52.176     , 4.18.52.191     ,  90 , [L1]US Dept of Treasury-TIGTA TIGTA8-52-17 (NET-4-18-52-176-1)
+4.18.55.40      , 4.18.55.47      , 109 , [L2]Canon Research and Development Center Am
+4.18.55.128     , 4.18.55.135     ,  90 , [L1]Riordan & McKinzie
+4.18.55.136     , 4.18.55.143     , 109 , [L2]Santa Clara Valley Bank
+4.18.55.144     , 4.18.55.159     ,  90 , [L1]EMI Music Publishing
+4.18.57.64      , 4.18.57.95      ,  90 , [L1]NBS Government Finance Group
+4.18.58.0       , 4.18.58.23      , 109 , [L2]Harriman Jones Medical Group
+4.18.60.112     , 4.18.60.159     ,  90 , [L1]Synopsys Inc
+4.18.61.0       , 4.18.61.31      ,  90 , [L1]City of Laguna Beach
+4.18.61.128     , 4.18.61.191     ,  90 , [L1]Raytheon Training LLC
+4.18.62.0       , 4.18.62.63      , 109 , [L2]Desert Community Bank
+4.18.63.0       , 4.18.63.63      ,  90 , [L1]Sarnoff Legal Technologies
+4.18.65.192     , 4.18.65.255     ,  90 , [L1]City of Dallas Library
+4.18.78.16      , 4.18.78.31      , 109 , [L2]Blue Cross Blue Shield TX
+4.18.79.0       , 4.18.79.255     , 109 , [L2]Shannon Medical Center
+4.18.80.0       , 4.18.80.127     ,  90 , [L1]Lacerte Technology
+4.18.85.0       , 4.18.93.255     ,  90 , [L1]City of Dallas Library
+4.18.96.168     , 4.18.96.191     ,  90 , [L1]US Dept of Treasury-TIGTA TIGTA27-96-14 (NET-4-18-96-168-1)
+4.18.97.176     , 4.18.97.191     , 109 , [L2]Emerson Electric
+4.18.97.240     , 4.18.97.247     ,  90 , [L1]Drug Enforcement Adm
+4.18.101.0      , 4.18.101.7      ,  90 , [L1]GTE Government Systems-FAA-AIS
+4.18.101.16     , 4.18.101.31     , 109 , [L2]Emerson Electric
+4.18.101.64     , 4.18.101.127    ,  90 , [L1]GTE Government Systems-FAA-AIS
+4.18.101.224    , 4.18.101.255    , 109 , [L2]Broadbase Software
+4.18.128.32     , 4.18.128.63     , 109 , [L2]Otsego Memorial Hospital
+4.18.128.88     , 4.18.128.95     ,  90 , [L1]US Dept of Treasury-TIGTA
+4.18.128.104    , 4.18.128.111    , 109 , [L2]Isabella Bank ISABELLA-128-04
+4.18.128.192    , 4.18.128.223    ,  90 , [L1]Cisco Systems, Inc. CISCOSOUTHFIELD128-24 (NET-4-18-128-192-1)
+4.18.131.0      , 4.18.131.127    , 109 , [L2]Capac State Bank
+4.18.140.48     , 4.18.140.63     ,  90 , [L1]City of Owosso
+4.18.142.128    , 4.18.142.191    ,  90 , [L1]County of Alcona
+4.18.151.16     , 4.18.151.31     ,  90 , [L1]City of Alpena
+4.18.154.0      , 4.18.154.255    ,  90 , [L1]Dell Pratt
+4.18.162.40     , 4.18.162.47     , 109 , [L2]Motor Equipment Manufacturers Associatio
+4.18.162.48     , 4.18.162.63     ,  90 , [L1]Moore Productions Inc
+4.18.162.102    , 4.18.162.102    , 113 , [AD]s.herald-sun.com ads
+4.18.166.0      , 4.18.166.15     ,  90 , [L1]Synopsys Inc
+4.18.167.0      , 4.18.167.63     , 109 , [L2]Sumitomo Electric SUMITOMO-167-23 (NET-4-18-167-0-1)
+4.18.167.80     , 4.18.167.95     , 109 , [L2]Sumitomo EOP Division SUM-167-04 (NET-4-18-167-80-1)
+4.18.192.0      , 4.18.192.63     ,  90 , [L1]Bechtel Corp. - Consulting
+4.18.192.160    , 4.18.192.175    , 109 , [L2]Morgan Stanley Group Inc. MORGANSTAN2-192-02 (NET-4-18-192-160-1)
+4.18.192.176    , 4.18.192.191    ,  90 , [L1]Shaba Games
+4.18.193.0      , 4.18.193.127    ,  90 , [L1]Munger, Tolles and Olson, LLP
+4.18.194.96     , 4.18.194.159    ,  90 , [L1]Cisco Systems, Inc
+4.18.201.0      , 4.18.201.255    ,  90 , [L1]Hancock, Rothert &amp; Bunshoft
+4.18.203.0      , 4.18.203.255    ,  90 , [L1]Bechtel Enterprises, Inc. T-1
+4.18.224.0      , 4.18.225.255    ,  90 , [L1]City of Hillsboro
+4.18.226.48     , 4.18.226.55     ,  90 , [L1]Javelin Inc
+4.18.226.64     , 4.18.226.95     ,  90 , [L1]Cisco Systems, Inc. CISCOOSWEGO-226-15 (NET-4-18-226-64-1)
+4.18.228.0      , 4.18.228.255    ,  90 , [L1]Intel
+4.18.229.96     , 4.18.229.127    ,  90 , [L1]Epson Portland Inc
+4.18.234.0      , 4.18.234.255    ,  90 , [L1]Software Professionals
+4.18.239.48     , 4.18.239.63     ,  90 , [L1]Lockheed Martin Corporation
+4.18.239.192    , 4.18.239.255    ,  90 , [L1]Intel
+4.18.246.0      , 4.18.246.31     , 109 , [L2]Retail Research Group
+4.18.247.128    , 4.18.247.255    ,  90 , [L1]Intel Corporation - Dupont WA
+4.18.253.0      , 4.18.253.15     ,  90 , [L1]Intel Corporation - Dupont WA
+4.18.253.48     , 4.18.253.63     , 109 , [L2]Retail Research Group
+4.18.253.64     , 4.18.253.127    ,  90 , [L1]Capstone Technology Corporation
+4.19.0.32       , 4.19.0.47       , 109 , [L2]Asurion
+4.19.6.0        , 4.19.6.63       ,  90 , [L1]Bechtel Corp. - Consulting
+4.19.9.0        , 4.19.9.255      ,  90 , [L1]City of Webster
+4.19.32.0       , 4.19.32.31      ,  90 , [L1]US Dept of Treasury - TIGTA
+4.19.66.0       , 4.19.66.255     , 115 , [SD]k Jeeves
+4.19.67.0       , 4.19.67.7       ,  90 , [L1]City of Chino City Hall
+4.19.67.32      , 4.19.67.39      ,  90 , [L1]US Dept of Treasury-TIGTA
+4.19.67.48      , 4.19.67.55      ,  90 , [L1]US Dept of Treasury-TIGTA
+4.19.67.96      , 4.19.67.127     ,  90 , [L1]City of Santa Paula
+4.19.67.176     , 4.19.67.191     ,  90 , [L1]City of Westminster
+4.19.68.112     , 4.19.68.127     ,  90 , [L1]Mancina Music, Inc
+4.19.70.0       , 4.19.71.255     ,  90 , [L1]Houlihan Lokey Howard + Zukin
+4.19.72.0       , 4.19.73.255     , 109 , [L2]Interealty Corporation
+4.19.75.48      , 4.19.75.55      ,  90 , [L1]Universal City Studios Credit Union, Inc UCSCU-75-29 (NET-4-19-75-48-1)
+4.19.75.64      , 4.19.75.79      ,  90 , [L1]City of Redlands
+4.19.76.0       , 4.19.76.31      ,  90 , [L1]Dolby Laboratories
+4.19.79.0       , 4.19.79.63      ,  90 , [L1]Armed Forces Radio + Television ARMEDFORCE-79-18 (NET-4-19-79-0-1)
+4.19.81.64      , 4.19.81.127     ,  90 , [L1]City of La Mirada
+4.19.83.0       , 4.19.83.255     ,  90 , [L1]Radar Pictures Inc
+4.19.84.128     , 4.19.85.127     ,  90 , [L1]Content Guard Inc
+4.19.86.24      , 4.19.86.31      , 109 , [L2]Neuberger Berman
+4.19.86.48      , 4.19.86.63      , 109 , [L2]Pace Enterprises PACEENTER-86-25 (NET-4-19-86-48-1)
+4.19.87.128     , 4.19.87.159     ,  90 , [L1]City of Upland
+4.19.88.64      , 4.19.88.127     , 109 , [L2]March Community Credit Union MARCHCCU2-88-22 (NET-4-19-88-64-1)
+4.19.88.160     , 4.19.88.191     ,  90 , [L1]Universal City Studios Credit Union, Inc UCSCU-88-10 (NET-4-19-88-160-1)
+4.19.90.0       , 4.19.90.255     ,  90 , [L1]LionsGate Entertainment
+4.19.93.16      , 4.19.93.31      ,  90 , [L1]City of Huntington Beach
+4.19.93.48      , 4.19.93.63      ,  90 , [L1]Sanctuary Records Group
+4.19.93.96      , 4.19.93.127     ,  90 , [L1]City of Santa Fe Springs-PSC
+4.19.93.136     , 4.19.93.143     , 109 , [L2]Target Stores TARGETSTORE-93-3 (NET-4-19-93-136-1)
+4.19.93.160     , 4.19.93.183     ,  90 , [L1]Carpathian Pictures
+4.19.96.0       , 4.19.96.127     ,  90 , [L1]Lord, Bissell &amp; Brook
+4.19.99.48      , 4.19.99.79      ,  90 , [L1]Vigo County Government
+4.19.99.96      , 4.19.99.127     ,  90 , [L1]Lord, Bissell & Brook
+4.19.100.0      , 4.19.100.255    , 109 , [L2]The Richland Hospital Inc
+4.19.111.128    , 4.19.111.255    ,  90 , [L1]Chicago Mercantile Exchange
+4.19.161.128    , 4.19.161.159    ,  90 , [L1]Synopsys Inc
+4.19.162.128    , 4.19.162.143    , 109 , [L2]Wausau Financial Systems WAUSAU-162-17 (NET-4-19-162-128-1)
+4.19.162.160    , 4.19.162.191    , 109 , [L2]Wausau Financial Systems WAUSAU2-162-21 (NET-4-19-162-160-1)
+4.19.195.0      , 4.19.195.63     ,  90 , [L1]Eastern Research Group Inc EASTERNES4-195-04 (NET-4-19-195-0-1)
+4.19.225.0      , 4.19.225.255    ,  90 , [L1]Mitsubishi Electric ITA
+4.19.232.0      , 4.19.233.255    ,  90 , [L1]Old Colony Library Network
+4.19.242.0      , 4.19.242.255    ,  90 , [L1]Keane, Inc
+4.19.249.64     , 4.19.249.127    ,  90 , [L1]MAZU NETWORKS MAZU-249-17 (NET-4-19-249-64-1)
+4.20.1.48       , 4.20.1.63       , 109 , [L2]Pitney Bowes Inc
+4.20.2.0        , 4.20.3.255      ,  90 , [L1]Computer Sciences Copr. Consulting, Inc
+4.20.14.0       , 4.20.15.255     ,  90 , [L1]Computer Sciences Copr. Consulting, Inc
+4.20.17.0       , 4.20.19.255     ,  90 , [L1]Computer Sciences Copr. Consulting, Inc
+4.20.32.0       , 4.20.32.7       ,  90 , [L1]GTE Government Systems-FAA-AIS
+4.20.73.0       , 4.20.73.15      , 109 , [L2]South Nassau Communities Hospital
+4.20.75.0       , 4.20.75.127     ,  90 , [L1]Nassau County Police Department
+4.20.77.0       , 4.20.77.31      ,  90 , [L1]Lionbridge Technologies, Inc
+4.20.80.0       , 4.20.80.255     , 109 , [L2]Standard &amp; Poor's Comstock
+4.20.93.0       , 4.20.93.255     ,  90 , [L1]Salans Hertzfeld Heilbronn
+4.20.96.16      , 4.20.96.39      ,  90 , [L1]Synopsys Inc
+4.20.96.48      , 4.20.96.55      ,  90 , [L1]US Dept of Treasury-TIGTA TIGTA19-96-14 (NET-4-20-96-48-1)
+4.20.96.96      , 4.20.96.111     ,  90 , [L1]Synopsys Inc
+4.20.96.128     , 4.20.96.159     ,  90 , [L1]Cisco Systems, Inc. CISCOGOLDRIVER-96-11 (NET-4-20-96-128-1)
+4.20.98.32      , 4.20.98.63      , 109 , [L2]Symphony
+4.20.98.192     , 4.20.98.255     ,  90 , [L1]Electric Oversight Board
+4.20.101.64     , 4.20.101.95     , 109 , [L2]Schools Financial Credit Union SCHOOLSFCU2-101-01 (NET-4-20-101-64-1)
+4.20.105.0      , 4.20.105.15     ,  90 , [L1]US Dept of Treasury - TIGTA
+4.20.106.0      , 4.20.107.255    ,  90 , [L1]Ziff Davis
+4.20.128.32     , 4.20.128.39     ,  90 , [L1]Armed Forces Radio + Television
+4.20.128.64     , 4.20.128.95     ,  90 , [L1]Fancy Publications
+4.20.161.0      , 4.20.161.7      ,  90 , [L1]MODUS MEDIA INTERNATIONAL
+4.20.161.16     , 4.20.161.23     , 109 , [L2]Hapo Community Credit Union HCCU-161-19 (NET-4-20-161-16-1)
+4.20.161.64     , 4.20.161.95     ,  90 , [L1]Bingham McCutchen, LLP BINGHAMPALOALTO-161-21 (NET-4-20-161-64-1)
+4.20.161.112    , 4.20.161.127    ,  90 , [L1]Fish & Richardson PC
+4.20.161.136    , 4.20.161.143    , 109 , [L2]Chordiant Software, Inc
+4.20.161.160    , 4.20.161.175    ,  90 , [L1]Fish & Richardson PC
+4.20.163.64     , 4.20.163.95     ,  90 , [L1]Synopsys Inc
+4.20.163.128    , 4.20.163.191    ,  90 , [L1]Synopsys Inc. SYNOPSYS-163-19 (NET-4-20-163-128-1)
+4.20.163.224    , 4.20.164.15     ,  90 , [L1]Synopsys Inc
+4.20.175.0      , 4.20.175.31     ,  90 , [L1]City of Richland
+4.20.181.0      , 4.20.181.255    ,  90 , [L1]Nokia
+4.20.192.32     , 4.20.192.63     ,  90 , [L1]Animation Technologies, Inc
+4.20.192.64     , 4.20.192.127    , 109 , [L2]Verizon ESG-LAB VERIZONESG2-192-02 (NET-4-20-192-64-1)
+4.20.192.128    , 4.20.192.191    ,  90 , [L1]US Dept of Treasury-TIGTA TIGTA18-192-25 (NET-4-20-192-128-1)
+4.20.192.192    , 4.20.192.223    , 109 , [L2]PRWT
+4.20.197.0      , 4.20.197.15     ,  90 , [L1]FMC Corporation
+4.20.198.16     , 4.20.198.23     ,  90 , [L1]FMC Corporation FMCCORP-198-27 (NET-4-20-198-16-1), FMC Corporation
+4.20.224.64     , 4.20.224.95     ,  90 , [L1]Commonwealth of Virginia COMMVIRGINIA-224-05 (NET-4-20-224-64-1)
+4.20.224.96     , 4.20.224.127    , 109 , [L2]Southside Regional Medical Center SOUTHSIDE-224-18 (NET-4-20-224-96-1)
+4.20.224.128    , 4.20.224.191    ,  90 , [L1]Circuit Court of Chesterfield County CIRCOURT-224-25 (NET-4-20-224-128-1)
+4.20.228.0      , 4.20.228.255    ,  90 , [L1]County of Middlesex
+4.20.230.0      , 4.20.230.255    , 109 , [L2]Union Bank + Shares Corporation
+4.21.0.176      , 4.21.0.191      ,  90 , [L1]Synopsys Inc. SYNOPSYSSDCA-0-04 (NET-4-21-0-176-1)
+4.21.1.0        , 4.21.1.7        , 109 , [L2]Pacific Trust Federal Credit Union
+4.21.1.32       , 4.21.1.47       ,  90 , [L1]Vanteon Corporation VANTEON-1-07 (NET-4-21-1-32-1)
+4.21.32.0       , 4.21.32.127     , 109 , [L2]Wells Fargo Bank
+4.21.40.0       , 4.21.40.127     ,  90 , [L1]3Com Corporation
+4.21.42.0       , 4.21.43.255     ,  90 , [L1]American Electronics Association
+4.21.48.0       , 4.21.50.255     , 109 , [L2]HCL Technologies America, Inc
+4.21.68.8       , 4.21.68.15      ,  90 , [L1]National Academy Press
+4.21.68.48      , 4.21.68.55      ,  90 , [L1]Navy-Marine Corps Relief Society
+4.21.68.64      , 4.21.68.127     ,  90 , [L1]Bechtel Corp. - Consulting
+4.21.70.0       , 4.21.70.255     ,  90 , [L1]DC Water and Sewer Authority
+4.21.76.32      , 4.21.76.63      , 109 , [L2]MRO Software Inc
+4.21.76.96      , 4.21.76.103     ,  90 , [L1]GTSI
+4.21.76.120     , 4.21.76.127     ,  90 , [L1]US Department of Justice
+4.21.87.64      , 4.21.87.79      ,  90 , [L1]Federal Retirement Thrift Investment Bo
+4.21.87.224     , 4.21.87.255     ,  90 , [L1]Dyncorp Techserv
+4.21.96.16      , 4.21.96.23      ,  90 , [L1]US Dept of Treasury - TIGTA
+4.21.96.24      , 4.21.96.31      , 109 , [L2]Capital One
+4.21.96.48      , 4.21.96.55      ,  90 , [L1]Navy-Marine Corps Relief Society
+4.21.96.96      , 4.21.96.127     ,  90 , [L1]Synopsys Inc
+4.21.98.0       , 4.21.98.255     ,  90 , [L1]Carnegie Institution of Washington at DC
+4.21.100.0      , 4.21.100.135    ,  90 , [L1]Comtex Scientific Corporation
+4.21.100.144    , 4.21.100.151    ,  90 , [L1]Bureau of National Affairs
+4.21.100.160    , 4.21.100.175    , 109 , [L2]Genuity IM
+4.21.100.184    , 4.21.102.31     ,  90 , [L1]Agency for International Development
+4.21.102.192    , 4.21.102.255    , 109 , [L2]Battelle Memorial Institute
+4.21.108.8      , 4.21.108.39     ,  90 , [L1]US Dept of Treasury-TIGTA TIGTA38-108-15 (NET-4-21-108-8-1)
+4.21.108.48     , 4.21.108.55     ,  90 , [L1]US Dept of Treasury-TIGTA TIGTA39-108-15 (NET-4-21-108-48-1)
+4.21.108.64     , 4.21.108.127    ,  90 , [L1]Embassy of Australia AUSTRALIAEMB-108-30 (NET-4-21-108-64-1)
+4.21.108.224    , 4.21.108.239    ,  90 , [L1]US Dept of Treasury-TIGTA TIGTA42-108-16 (NET-4-21-108-224-1)
+4.21.109.0      , 4.21.109.255    ,  90 , [L1]National Association of PHCC NAPHCC-109-18 (NET-4-21-109-0-1)
+4.21.111.128    , 4.21.111.159    ,  90 , [L1]Bingham Dana LLP BINGHAMDC-111-26 (NET-4-21-111-128-1)
+4.21.111.192    , 4.21.111.247    ,  90 , [L1]Office of Attorney General - Tech
+4.21.114.80     , 4.21.114.127    ,  90 , [L1]Department of Defense Education Activity AP2
+4.21.114.144    , 4.21.114.191    ,  90 , [L1]Lockheed Martin Integrated Business LMIBS-114-14 (NET-4-21-114-144-1)
+4.21.116.0      , 4.21.116.191    ,  90 , [L1]Law Enforcement Online - FBI
+4.21.117.0      , 4.21.117.127    ,  90 , [L1]Military Home Video Network MILHVN-117-10 (NET-4-21-117-0-1)
+4.21.117.128    , 4.21.117.159    , 111 , [SW]Deal Direct Interactive, Inc
+4.21.117.184    , 4.21.117.191    ,  90 , [L1]SRA International SRAINTERNATIONAL-117-3 (NET-4-21-117-184-1)
+4.21.120.0      , 4.21.120.15     , 109 , [L2]The Washington Post Company
+4.21.120.24     , 4.21.120.63     ,  90 , [L1]Drug Enforcement Adm
+4.21.122.8      , 4.21.122.31     ,  90 , [L1]Drug Enforcement Adm
+4.21.122.64     , 4.21.122.71     ,  90 , [L1]Lockheed Martin Integrated Business LMIBS-122-17 (NET-4-21-122-64-1)
+4.21.122.96     , 4.21.122.103    , 109 , [L2]Neuberger Berman NBWASH-122-26 (NET-4-21-122-96-1)
+4.21.122.112    , 4.21.122.127    ,  90 , [L1]US Customs USCUSTOMS-122-20 (NET-4-21-122-112-1)
+4.21.122.192    , 4.21.122.255    ,  90 , [L1]Senate Democratic Computer Services
+4.21.126.0      , 4.21.127.63     ,  90 , [L1]Federal Communications Commission
+4.21.127.64     , 4.21.127.71     , 109 , [L2]Neuberger Berman
+4.21.127.128    , 4.21.128.255    ,  90 , [L1]City of Durham
+4.21.129.16     , 4.21.129.31     ,  90 , [L1]Computer Sciences Corp
+4.21.129.160    , 4.21.129.191    ,  90 , [L1]SRA
+4.21.129.192    , 4.21.129.255    , 109 , [L2]Provident Bank PROVBANK-129-30 (NET-4-21-129-192-1)
+4.21.132.0      , 4.21.132.7      ,  90 , [L1]EPA
+4.21.132.64     , 4.21.133.255    ,  90 , [L1]FEMA FEMA2-132-19 (NET-4-21-132-64-1)
+4.21.134.16     , 4.21.134.31     ,  90 , [L1]US Customs USCUSTOMS-134-4 (NET-4-21-134-16-1)
+4.21.134.48     , 4.21.134.55     ,  90 , [L1]US Department of Agriculture - NAL
+4.21.134.80     , 4.21.134.87     ,  90 , [L1]McCarter & English
+4.21.134.168    , 4.21.134.175    ,  90 , [L1]Pinkerton Burns Security PINKERTONS2-134-12 (NET-4-21-134-168-1)
+4.21.135.32     , 4.21.135.63     ,  90 , [L1]Cisco Systems, Inc. CISCOHERNDON-135-02 (NET-4-21-135-32-1)
+4.21.139.0      , 4.21.139.95     ,  90 , [L1]Janes Information Group
+4.21.139.128    , 4.21.140.63     ,  90 , [L1]National Association of County & City He
+4.21.148.32     , 4.21.148.159    ,  90 , [L1]Cisco Systems, Inc. CISCOCOLUMBIA-148-06 (NET-4-21-148-32-1)
+4.21.148.192    , 4.21.148.223    ,  90 , [L1]Cisco Systems, Inc. CISCORETRIPRK-148-20 (NET-4-21-148-192-1)
+4.21.149.0      , 4.21.149.31     , 111 , [SW]I-Deal Direct Interactive, Inc
+4.21.149.32     , 4.21.149.63     , 109 , [L2]Waypoint Bank WAYPOINTBANK2-149-27 (NET-4-21-149-32-1)
+4.21.154.0      , 4.21.154.127    ,  90 , [L1]City of Manassas
+4.21.154.224    , 4.21.155.127    ,  90 , [L1]Durham Convention & Visitors Bureau
+4.21.160.0      , 4.21.160.7      , 109 , [L2]Ardent Software, Inc
+4.21.160.16     , 4.21.160.23     , 109 , [L2]East Boston Savings Bank
+4.21.160.32     , 4.21.160.63     ,  90 , [L1]EMC Corporation
+4.21.161.96     , 4.21.161.127    ,  90 , [L1]Comm of Mass-MRC_DDS
+4.21.161.160    , 4.21.161.191    ,  90 , [L1]Keane, Inc. KEANEINC-161-20 (NET-4-21-161-160-1)
+4.21.161.216    , 4.21.161.239    ,  90 , [L1]US Dept of Treasury-TIGTA
+4.21.161.240    , 4.21.161.247    , 109 , [L2]Capital Crossing Bank CCBANK-161-25 (NET-4-21-161-240-1)
+4.21.164.0      , 4.21.164.127    ,  90 , [L1]Price Waterhouse Coopers
+4.21.164.160    , 4.21.164.167    ,  90 , [L1]Criminal History Systems Board MASSCS-164-06 (NET-4-21-164-160-1)
+4.21.165.0      , 4.21.165.7      , 109 , [L2]Creative Realities FLEETCOHASSET-165-7 (NET-4-21-165-0-1)
+4.21.165.8      , 4.21.165.15     ,  90 , [L1]Comm of Mass-MRC_DDS
+4.21.165.32     , 4.21.165.47     ,  90 , [L1]Plymouth County Sheriff PCSHERIFF2-165-20 (NET-4-21-165-32-1)
+4.21.166.64     , 4.21.166.87     ,  90 , [L1]Animation Technologies, Inc
+4.21.166.128    , 4.21.166.191    , 109 , [L2]Christian Book Distributors CHRISTBD-166-19 (NET-4-21-166-128-1)
+4.21.167.80     , 4.21.167.95     ,  90 , [L1]Comm of Mass-Dept of Housing & Community DHOUSING-167-02 (NET-4-21-167-80-1)
+4.21.167.160    , 4.21.167.191    ,  90 , [L1]Action for Boston Community Development ACTIONBOSTON-167-30 (NET-4-21-167-16
+4.21.168.0      , 4.21.168.255    , 109 , [L2]Lowell General Hospital LOWELLGENERAL-168-12 (NET-4-21-168-0-1)
+4.21.169.0      , 4.21.171.255    ,  90 , [L1]Commonwealth of Massachusetts
+4.21.172.0      , 4.21.172.127    , 109 , [L2]Telephone Workers' Credit Union TWCU-172-12 (NET-4-21-172-0-1)
+4.21.176.128    , 4.21.176.255    ,  90 , [L1]Registry of Deeds Essex County RODEC-176-16 (NET-4-21-176-128-1)
+4.21.177.32     , 4.21.177.47     , 109 , [L2]Brookfield Financial
+4.21.179.32     , 4.21.179.63     ,  90 , [L1]COPYRIGHT CLEARANCE CENTER
+4.21.179.96     , 4.21.179.127    ,  90 , [L1]Town of Randolph
+4.21.179.208    , 4.21.179.223    ,  90 , [L1]Synopsys Inc. SYNOPSYSNY-179-30 (NET-4-21-179-208-1)
+4.21.180.120    , 4.21.180.191    ,  90 , [L1]Novell NOVELLVZ-180-16 (NET-4-21-180-120-1)
+4.21.181.32     , 4.21.181.63     ,  90 , [L1]Bingham Dana LLP BINGHAMBOSTON-181-26 (NET-4-21-181-32-1)
+4.21.181.112    , 4.21.181.127    ,  90 , [L1]Werner Media
+4.21.181.184    , 4.21.181.191    ,  90 , [L1]Norfolk County Sheriff
+4.21.182.0      , 4.21.182.7      , 109 , [L2]Fleet Boston/ Brockton FLEETBANK-182-21 (NET-4-21-182-0-1)
+4.21.182.128    , 4.21.182.255    , 109 , [L2]SALEM FIVE CENTS SAVINGS BANK SALEMFIVE-182-19 (NET-4-21-182-128-1)
+4.21.185.0      , 4.21.185.255    ,  90 , [L1]Comm of Mass - DET
+4.21.192.0      , 4.21.192.31     ,  90 , [L1]Dick,Johnson &amp; Jefferson
+4.21.192.104    , 4.21.192.111    ,  90 , [L1]City of Venice
+4.21.192.160    , 4.21.192.175    ,  90 , [L1]Synopsys Inc
+4.21.192.192    , 4.21.192.207    ,  90 , [L1]Manatee County Clerk of Circuit C
+4.21.193.0      , 4.21.193.127    , 109 , [L2]Jaeb Center for Health Research, Inc
+4.21.194.80     , 4.21.194.95     ,  90 , [L1]Hillsborough County State Attorneys Office
+4.21.194.128    , 4.21.194.239    ,  90 , [L1]Williams Reed Weinstein Schifino
+4.21.196.128    , 4.21.196.135    ,  90 , [L1]Hit Promotional Products, Inc
+4.21.196.144    , 4.21.196.151    , 109 , [L2]Signature Bank
+4.21.196.160    , 4.21.196.175    , 109 , [L2]United Bank & Trust
+4.21.196.224    , 4.21.196.239    ,  90 , [L1]Mercury Interactive Corp
+4.21.196.240    , 4.21.196.247    , 109 , [L2]Premier Community Bank
+4.21.197.64     , 4.21.197.231    ,  90 , [L1]Schroeder Manatee Ranch
+4.21.198.0      , 4.21.198.15     ,  90 , [L1]Veterans Affair Florida Dept
+4.21.201.0      , 4.21.201.255    ,  90 , [L1]City of Lake Wales
+4.21.202.192    , 4.21.202.223    ,  90 , [L1]Anderson McQueen
+4.21.204.0      , 4.21.204.63     , 109 , [L2]Ceridian Benefits Services
+4.21.204.96     , 4.21.204.127    ,  90 , [L1]City of Pinellas Park
+4.21.204.224    , 4.21.204.255    , 109 , [L2]Clark &amp; Daughtrey Medical Group, PA
+4.21.208.0      , 4.21.208.255    , 109 , [L2]Ceridian Benefits Services
+4.21.209.128    , 4.21.209.255    , 109 , [L2]Sarasota Memorial Hospital
+4.21.210.32     , 4.21.210.47     , 109 , [L2]Medical Management
+4.21.210.80     , 4.21.210.87     ,  90 , [L1]Hillsborough County Public Defender
+4.21.211.0      , 4.21.211.7      ,  90 , [L1]US Dept of Treasury-TIGTA TIGTA13-211-14 (NET-4-21-211-0-1)
+4.21.212.0      , 4.21.212.255    ,  90 , [L1]NOAA Aircraft Operations Center
+4.21.213.16     , 4.21.213.23     , 109 , [L2]Medical Technology Systems, Inc
+4.21.213.128    , 4.21.213.159    , 109 , [L2]Florida Central Credit Union
+4.21.213.216    , 4.21.213.223    , 109 , [L2]Neuberger Berman
+4.21.213.240    , 4.21.213.247    ,  90 , [L1]Hill,Ward & Henderson,P.A
+4.21.214.0      , 4.21.214.127    ,  90 , [L1]Tampa Bay Convention Bureau
+4.21.215.64     , 4.21.215.79     ,  90 , [L1]Polk County Sheriff
+4.21.215.224    , 4.21.215.239    ,  90 , [L1]City of Venice
+4.22.0.0        , 4.22.0.255      , 109 , [L2]Dupont Photomasks,Inc
+4.22.32.0       , 4.22.32.7       , 109 , [L2]Massachusetts Financial Services
+4.22.32.88      , 4.22.32.95      ,  90 , [L1]US Dept of Treasury-TIGTA TIGTA17-32-14 (NET-4-22-32-88-1)
+4.22.32.224     , 4.22.32.255     ,  90 , [L1]Cisco Systems, Inc. CISCOPHNX-32-07 (NET-4-22-32-224-1)
+4.22.36.112     , 4.22.36.127     ,  90 , [L1]Synopsys Inc. SYNOPSYS2-36-08 (NET-4-22-36-112-1)
+4.22.41.0       , 4.22.41.127     , 109 , [L2]Massachusetts Financial Services
+4.22.66.0       , 4.22.67.255     ,  90 , [L1]Nokia IPRG
+4.22.72.0       , 4.22.79.255     ,  90 , [L1]Nokia IPRG
+4.22.97.192     , 4.22.97.223     , 109 , [L2]Pomona Valley Hospital
+4.22.100.16     , 4.22.100.23     , 109 , [L2]Central Orthopaedics Medical
+4.22.104.192    , 4.22.104.255    , 109 , [L2]Financial Services Centers
+4.22.105.0      , 4.22.105.255    ,  90 , [L1]City of Pomona
+4.22.106.0      , 4.22.106.15     , 109 , [L2]Medical Pathways Management
+4.22.106.32     , 4.22.106.39     , 109 , [L2]Orange Coast Title
+4.22.106.48     , 4.22.106.55     , 109 , [L2]Foothill Independent Bank FOOTIB-106-08 (NET-4-22-106-48-1)
+4.22.106.56     , 4.22.106.63     ,  90 , [L1]West Covina Police Department
+4.22.106.144    , 4.22.106.159    , 109 , [L2]Long Beach Schools Federal Credit Union
+4.22.106.224    , 4.22.106.255    , 109 , [L2]Pacific Hospital
+4.22.110.104    , 4.22.110.111    ,  90 , [L1]Aladdin Companies
+4.22.112.0      , 4.22.112.255    , 109 , [L2]Orbital Sciences
+4.22.114.32     , 4.22.114.47     ,  90 , [L1]City of Covina
+4.22.114.72     , 4.22.114.79     , 109 , [L2]Medical Pathways Management MEDPATH2-114-11 (NET-4-22-114-72-1)
+4.22.114.96     , 4.22.114.111    , 109 , [L2]TW Medical TWMED-114-06 (NET-4-22-114-96-1)
+4.22.121.0      , 4.22.121.255    , 109 , [L2]Sea Star Software
+4.22.122.128    , 4.22.122.159    , 109 , [L2]First Federal Bank
+4.22.125.128    , 4.22.125.255    , 109 , [L2]Technology Testing Labs, Inc
+4.22.129.0      , 4.22.129.127    ,  90 , [L1]Net.Works Corporation
+4.22.134.0      , 4.22.135.255    ,  90 , [L1]GTE Business Development + Integration
+4.22.136.64     , 4.22.136.95     ,  90 , [L1]Xerox Business Services
+4.22.136.152    , 4.22.136.159    , 109 , [L2]Western Union Commercial Services WESTERNUNION-136-11 (NET-4-22-136-152-1)
+4.22.136.160    , 4.22.136.167    ,  90 , [L1]US Dept of Treasury-TIGTA TIGTA23-136-14 (NET-4-22-136-160-1)
+4.22.137.16     , 4.22.137.31     , 109 , [L2]ITAC SYSTEMS, INC. ITAC-137-14 (NET-4-22-137-16-1)
+4.22.137.32     , 4.22.137.47     ,  90 , [L1]Synopsys Inc. SYNOPSYS20-137-08 (NET-4-22-137-32-1)
+4.22.137.64     , 4.22.137.191    , 109 , [L2]Deutsche Financial Services
+4.22.138.128    , 4.22.138.255    ,  90 , [L1]Courtroom Sciences, Inc
+4.22.139.192    , 4.22.139.255    ,  90 , [L1]US Dept of Treasury - TIGTA
+4.22.140.136    , 4.22.140.143    ,  90 , [L1]Drug Enforcement Adm
+4.22.140.160    , 4.22.140.175    ,  90 , [L1]city of highland village
+4.22.141.24     , 4.22.141.31     ,  90 , [L1]Xerox Business Services XBSDAL-141-24 (NET-4-22-141-24-1)
+4.22.145.0      , 4.22.145.255    ,  90 , [L1]Xerox Business Services XBSDAL-145-16 (NET-4-22-145-0-1)
+4.22.149.144    , 4.22.149.159    ,  90 , [L1]Fuji Photo Film USA, Inc. FPF9-149-22 (NET-4-22-149-144-1)
+4.22.150.0      , 4.22.150.15     ,  90 , [L1]Drug Enforcement Adm
+4.22.151.0      , 4.22.151.31     ,  90 , [L1]Vital Media Security VITMEDSEC-151-06 (NET-4-22-151-0-1)
+4.22.151.56     , 4.22.151.63     , 109 , [L2]Guaranty National Bank GRNTYNB-151-31
+4.22.151.96     , 4.22.151.127    ,  90 , [L1]Cisco Systems, Inc. CISCOIRVING-151-07 (NET-4-22-151-96-1)
+4.22.151.160    , 4.22.151.191    , 109 , [L2]Omni American Federal Credit Union OMNIFCU-151-15 (NET-4-22-151-160-1)
+4.22.151.192    , 4.22.151.255    ,  90 , [L1]City of Plano
+4.22.152.64     , 4.22.152.127    , 109 , [L2]Orion Financial GRP ORIONFG-152-23 (NET-4-22-152-64-1)
+4.22.152.192    , 4.22.152.255    , 109 , [L2]Abbott Labs ALABS-152-04 (NET-4-22-152-192-1)
+4.22.154.128    , 4.22.154.159    ,  90 , [L1]Cisco Systems, Inc. CISCOTULSA-154-17 (NET-4-22-154-128-1)
+4.22.173.192    , 4.22.173.207    ,  90 , [L1]GTE Communications Corporation
+4.22.173.224    , 4.22.173.239    ,  90 , [L1]Lord, Bissell & Brook
+4.22.175.64     , 4.22.175.127    ,  90 , [L1]U.S. Department of Transportation USDPTTRANS-175-02 (NET-4-22-175-64-1)
+4.22.175.192    , 4.22.175.255    ,  90 , [L1]Bae Systems BAESYS-175-04 (NET-4-22-175-192-1)
+4.22.195.0      , 4.22.195.255    ,  90 , [L1]Lionbridge Technologies, Inc
+4.22.237.0      , 4.22.237.255    ,  90 , [L1]Pechanga Entertainment Center PECHANGA-237-09 (NET-4-22-237-0-1)
+4.22.239.128    , 4.22.239.191    ,  90 , [L1]City of Hermosa Beach
+4.22.248.0      , 4.22.248.63     , 109 , [L2]Chino Commercial Bank CHINOBANK-248-15 (NET-4-22-248-0-1)
+4.22.248.64     , 4.22.248.95     ,  90 , [L1]Hauser-Cie Entertainment, LLC HAUSERCENT-248-17 (NET-4-22-248-64-1)
+4.22.249.0      , 4.22.249.31     , 109 , [L2]Pomona Valley Hospital POMONAVH2-249-25 (NET-4-22-249-0-1)
+4.23.0.0        , 4.23.1.255      , 109 , [L2]Rancho Springs Medical Center
+4.23.8.0        , 4.23.8.127      ,  90 , [L1]Raytheon Technical Services
+4.23.9.96       , 4.23.9.111      ,  90 , [L1]Jerry Bruckheimer Films
+4.23.12.0       , 4.23.12.255     ,  90 , [L1]BA Studios, LLC
+4.23.13.32      , 4.23.13.47      , 109 , [L2]Mountain West Financial MWFINC-13-29 (NET-4-23-13-32-1)
+4.23.14.0       , 4.23.14.31      ,  90 , [L1]City of Huntington Beach-City Hall
+4.23.14.32      , 4.23.14.39      , 109 , [L2]Neuberger Berman
+4.23.15.64      , 4.23.15.111     ,  90 , [L1]Beaumont Library District BEAUMONTLD-15-19 (NET-4-23-15-64-1)
+4.23.15.128     , 4.23.15.159     ,  90 , [L1]G4 Media GFOURMEDIA-15-26 (NET-4-23-15-128-1)
+4.23.16.160     , 4.23.16.191     , 109 , [L2]Murrieta Valley Mitsubishi MVMITSU-16-15 (NET-4-23-16-160-1)
+4.23.17.128     , 4.23.17.255     ,  90 , [L1]Los Angeles County LACO-17-23 (NET-4-23-17-128-1)
+4.23.18.0       , 4.23.18.255     , 109 , [L2]Avery Dennison Corporation AVERYDEN4-18-31 (NET-4-23-18-0-1)
+4.23.19.176     , 4.23.19.183     , 109 , [L2]A&I Photographic Digital Labs AIPHOTO-19-16 (NET-4-23-19-176-1)
+4.23.20.128     , 4.23.20.255     ,  90 , [L1]City of Glendora Police Dept
+4.23.23.0       , 4.23.23.255     ,  90 , [L1]Fulwider Patton Lee Utecht LLP
+4.23.24.0       , 4.23.24.31      , 109 , [L2]Rancho Federal Credit Union
+4.23.26.208     , 4.23.26.223     ,  90 , [L1]Phase One Productions
+4.23.27.0       , 4.23.27.127     ,  90 , [L1]City of Industry
+4.23.59.124     , 4.23.59.124     ,  90 , [L1]www.interieur.gouv.fr
+4.23.64.0       , 4.23.64.255     ,  90 , [L1]Intel Corporation - Dupont WA
+4.23.65.24      , 4.23.65.31      ,  90 , [L1]US Dept of Treasury - TIGTA
+4.23.65.48      , 4.23.65.63      ,  90 , [L1]City of Arlington
+4.23.65.64      , 4.23.65.79      , 109 , [L2]Infonet, Inc
+4.23.65.144     , 4.23.65.151     , 109 , [L2]Medical Supply, Inc
+4.23.77.112     , 4.23.77.119     , 109 , [L2]Elektrobit, Inc
+4.23.79.0       , 4.23.80.255     ,  90 , [L1]City of Edmonds
+4.23.96.0       , 4.23.99.255     ,  90 , [L1]Polk County Board County Commissioner
+4.23.100.128    , 4.23.100.255    , 109 , [L2]Macdill Federal Credit Union
+4.23.101.168    , 4.23.101.175    ,  90 , [L1]Fuji Photo Film USA, Inc. FPF13-101-05 (NET-4-23-101-168-1)
+4.23.102.64     , 4.23.102.87     ,  90 , [L1]Fowler,White,Billen,Boggs,Villareal + Banker
+4.23.103.160    , 4.23.103.191    ,  90 , [L1]Cisco Systems, Inc. CISCOJKSN-103-11 (NET-4-23-103-160-1)
+4.23.104.0      , 4.23.104.31     ,  90 , [L1]Cisco Systems, Inc. CISCORLNDO-104-11 (NET-4-23-104-0-1)
+4.23.104.32     , 4.23.104.47     , 109 , [L2]The Bank of Tampa BANKOFTAMPA-104-3 (NET-4-23-104-32-1)
+4.23.104.128    , 4.23.104.143    ,  90 , [L1]City of Pinellas Park
+4.23.104.176    , 4.23.104.191    ,  90 , [L1]Feld Entertainment FELDINC-104-06 (NET-4-23-104-176-1)
+4.23.105.0      , 4.23.105.255    ,  90 , [L1]Digital Bay Media Inc. DIGITAL-105-19 (NET-4-23-105-0-1)
+4.23.106.48     , 4.23.106.63     ,  90 , [L1]Trader Publishing TRADERPUB-106-18 (NET-4-23-106-48-1)
+4.23.109.0      , 4.23.109.255    ,  90 , [L1]Media ONETOONE-109-07 (NET-4-23-109-0-1)
+4.23.110.0      , 4.23.110.31     , 109 , [L2]Diagnostic Clinic
+4.23.110.128    , 4.23.110.255    ,  90 , [L1]Bush Ross Gardner Warren & Rudy P A
+4.23.122.192    , 4.23.122.255    ,  90 , [L1]Forced Matrix FORCEDMATRIX-122-06 (NET-4-23-122-192-1)
+4.23.128.32     , 4.23.128.63     , 109 , [L2]King's Daughter's Hospital KINGSDH-128-09 (NET-4-23-128-32-1)
+4.23.128.176    , 4.23.128.183    , 109 , [L2]Hess Memorial Hospital Association HESS-128-02 (NET-4-23-128-176-1)
+4.23.132.64     , 4.23.132.127    ,  90 , [L1]BTG_US Railroad Retirement Bureau RRB-132-02 (NET-4-23-132-64-1)
+4.23.132.224    , 4.23.132.239    ,  90 , [L1]Fuji Photo Films FPF4-132-11 (NET-4-23-132-224-1)
+4.23.133.128    , 4.23.133.191    , 109 , [L2]Fayette Memorial Hospital FAYETTE-133-10 (NET-4-23-133-128-1)
+4.23.133.240    , 4.23.133.247    , 109 , [L2]Home Federal Savings HOMEFED-133-20 (NET-4-23-133-240-1)
+4.23.135.0      , 4.23.135.127    , 109 , [L2]State Bank of Country Side SBOCS-135-13 (NET-4-23-135-0-1)
+4.23.135.192    , 4.23.135.255    ,  90 , [L1]Raytheon Training LLC RAYTHEON5-135-13 (NET-4-23-135-192-1)
+4.23.150.0      , 4.23.150.15     ,  90 , [L1]Synopsys Inc. SYNOPSYS10-150-02 (NET-4-23-150-0-1)
+4.23.160.0      , 4.23.160.7      , 109 , [L2]Rzb Finance Llc
+4.23.160.32     , 4.23.160.63     , 109 , [L2]Man Financial, Inc. MANINVESTMENTS-160-30 (NET-4-23-160-32-1)
+4.23.160.80     , 4.23.160.95     , 109 , [L2]The Polish and Slavic Credit Union PSFCU-160-17 (NET-4-23-160-80-1)
+4.23.160.152    , 4.23.160.159    , 109 , [L2]Genuity IM
+4.23.160.176    , 4.23.160.191    ,  90 , [L1]Drug Enforcement Adm
+4.23.160.192    , 4.23.160.223    , 109 , [L2]Westdeutsche Landesbank
+4.23.160.240    , 4.23.160.255    ,  90 , [L1]Sanctuary Records Group SANCTUARY2-160-14 (NET-4-23-160-240-1)
+4.23.161.24     , 4.23.161.31     ,  90 , [L1]BTG_US Dept of Veteran Affairs VISN2-161-19 (NET-4-23-161-24-1)
+4.23.161.48     , 4.23.161.63     ,  90 , [L1]Fuji Photo Film USA, Inc. FPF10-161-18 (NET-4-23-161-48-1)
+4.23.161.208    , 4.23.161.223    ,  90 , [L1]US Dept of Treasury-TIGTA TIGTA5-161-02 (NET-4-23-161-208-1)
+4.23.162.192    , 4.23.162.223    ,  90 , [L1]Roundabout
+4.23.167.200    , 4.23.167.207    , 109 , [L2]Banco Do Brasil BANCOBRASIL-167-30 (NET-4-23-167-200-1)
+4.23.167.232    , 4.23.167.239    , 109 , [L2]United Bank & Trust UNITEDBT4-167-1 (NET-4-23-167-232-1)
+4.23.167.240    , 4.23.167.247    ,  90 , [L1]Fuji Photo Film USA, Inc. FPF33-167-3 (NET-4-23-167-240-1)
+4.23.170.16     , 4.23.170.31     ,  90 , [L1]New York City Off Track Betting
+4.23.170.128    , 4.23.170.159    ,  90 , [L1]New York City Off Track Betting NYCOTB3-170-4 (NET-4-23-170-128-1)
+4.23.170.160    , 4.23.170.191    , 109 , [L2]Lakeland National Bank LNB-170-10
+4.23.170.192    , 4.23.170.239    ,  90 , [L1]URS Corporation
+4.23.172.32     , 4.23.172.47     ,  90 , [L1]US Dept of Treasury-TIGTA TIGTA7-172-17 (NET-4-23-172-32-1)
+4.23.174.128    , 4.23.174.191    ,  90 , [L1]Cisco Systems, Inc
+4.23.174.224    , 4.23.174.255    ,  90 , [L1]Cisco Systems, Inc. CISCONY-174-17 (NET-4-23-174-224-1)
+4.23.175.152    , 4.23.175.159    ,  90 , [L1]Dateline_US Dept of Veteran Affairs VISN-175-08 (NET-4-23-175-152-1)
+4.23.175.160    , 4.23.175.191    , 109 , [L2]Argus Research
+4.23.176.128    , 4.23.176.255    ,  90 , [L1]BBN Corporation ISENY-176-04 (NET-4-23-176-128-1)
+4.23.177.128    , 4.23.177.143    ,  90 , [L1]Fuji Photo Film USA, Inc. FPF4-177-12 (NET-4-23-177-128-1)
+4.23.177.168    , 4.23.177.175    ,  90 , [L1]Kuwait Mission
+4.23.177.192    , 4.23.177.223    , 109 , [L2]El Al Israel Airlines
+4.23.178.0      , 4.23.178.255    , 109 , [L2]Waterhouse Securities WATERHOUSE4-178-05 (NET-4-23-178-0-1)
+4.23.179.0      , 4.23.179.63     ,  90 , [L1]Raytheon Training LLC RAYTHEON2-179-13 (NET-4-23-179-0-1)
+4.23.179.64     , 4.23.179.79     , 109 , [L2]Morgan Guaranty Trust
+4.23.179.96     , 4.23.179.103    ,  90 , [L1]Cap Gemini Ernst& Young U.S., LLC
+4.23.179.120    , 4.23.179.127    ,  90 , [L1]US Dept of Treasury-TIGTA TIGTA36-179-25 (NET-4-23-179-120-1)
+4.23.179.128    , 4.23.179.135    , 109 , [L2]Banco Do Brasil
+4.23.179.160    , 4.23.179.191    ,  90 , [L1]Fuji Photo Film USA, Inc
+4.23.182.0      , 4.23.182.255    , 109 , [L2]Bank of America BOFA4-182-26 (NET-4-23-182-0-1)
+4.23.183.8      , 4.23.183.31     , 109 , [L2]Hudson City Savings Bank HUDSONCSB-183-6 (NET-4-23-183-8-1)
+4.23.183.192    , 4.23.183.255    ,  90 , [L1]NYS Legislative Bill Drafting NYSLBD-183-12 (NET-4-23-183-192-1)
+4.23.184.32     , 4.23.184.63     ,  90 , [L1]Cisco Systems, Inc. CISCOALBANY-184-28 (NET-4-23-184-32-1)
+4.23.185.0      , 4.23.185.31     , 109 , [L2]Nassau County Cradle of Aviation NCCA-185-14 (NET-4-23-185-0-1)
+4.23.185.32     , 4.23.185.47     ,  90 , [L1]Fish & Richardson PC
+4.23.185.48     , 4.23.185.55     , 109 , [L2]Brookfield Financial BROOKFIELD-185-16 (NET-4-23-185-48-1)
+4.23.185.64     , 4.23.185.127    ,  90 , [L1]American Lawyer Media AMERLAWY-185-18 (NET-4-23-185-64-1)
+4.23.185.160    , 4.23.185.191    , 109 , [L2]Konica Imaging USA, Inc. KONICA-185-17 (NET-4-23-185-160-1)
+4.23.185.192    , 4.23.185.223    ,  90 , [L1]Cisco Systems, Inc. CISCONORWALK-185-06 (NET-4-23-185-192-1)
+4.23.185.224    , 4.23.185.255    , 109 , [L2]Bovis Lend Lease
+4.23.187.0      , 4.23.188.255    ,  90 , [L1]Kramer Levin
+4.23.190.0      , 4.23.190.32     ,  90 , [L1]sandleroneill.com
+4.23.190.80     , 4.23.190.95     , 109 , [L2]Argus Research
+4.23.194.192    , 4.23.194.255    ,  90 , [L1]Legal Aid Society of Hawaii
+4.24.48.0       , 4.24.51.255     ,  90 , [L1]Level 3 Communications
+4.24.56.0       , 4.24.56.255     ,  90 , [L1]Level 3 Communications
+4.24.58.0       , 4.24.59.255     ,  90 , [L1]Level 3 Communications
+4.24.62.0       , 4.24.66.255     ,  90 , [L1]Level 3 Communications
+4.24.68.0       , 4.24.72.255     ,  90 , [L1]Level 3 Communications
+4.24.74.0       , 4.24.76.255     ,  90 , [L1]Level 3 Communications
+4.24.80.0       , 4.24.80.255     ,  90 , [L1]Level 3 Communications
+4.24.85.0       , 4.24.86.255     ,  90 , [L1]Level 3 Communications
+4.24.90.0       , 4.24.90.255     ,  90 , [L1]Level 3 Communications
+4.24.92.0       , 4.24.92.255     ,  90 , [L1]Level 3 Communications
+4.24.94.0       , 4.24.94.255     ,  90 , [L1]Level 3 Communications
+4.24.96.0       , 4.24.98.255     ,  90 , [L1]Level 3 Communications
+4.24.104.0      , 4.24.113.255    ,  90 , [L1]Level 3 Communications
+4.24.132.0      , 4.24.132.255    ,  90 , [L1]Level 3 Communications
+4.24.137.0      , 4.24.137.255    ,  90 , [L1]Level 3 Communications
+4.24.142.0      , 4.24.142.255    ,  90 , [L1]Level 3 Communications
+4.24.152.0      , 4.24.152.255    ,  90 , [L1]Level 3 Communications
+4.24.154.0      , 4.24.154.255    ,  90 , [L1]Level 3 Communications
+4.24.157.16     , 4.24.157.31     ,  90 , [L1]Cisco Albany
+4.24.158.0      , 4.24.158.255    ,  90 , [L1]Level 3 Communications
+4.24.160.0      , 4.24.160.255    ,  90 , [L1]Level 3 Communications
+4.24.162.0      , 4.24.162.255    ,  90 , [L1]Level 3 Communications
+4.24.168.0      , 4.24.168.255    ,  90 , [L1]Level 3 Communications
+4.24.170.24     , 4.24.170.31     ,  90 , [L1]Cisco Systems
+4.24.172.0      , 4.24.172.63     ,  90 , [L1]Hewlett Packard
+4.32.58.108     , 4.32.58.108     , 119 , [TL]Level 3 Communications gnufakes
+4.34.0.0        , 4.34.127.255    ,  90 , [L1]GTE IT (North Texas)
+4.35.201.0      , 4.35.201.255    ,  90 , [L1]Cyveillance
+4.36.32.0       , 4.36.32.255     , 109 , [L2]Avery Dennison Corporation AVERYDEN7-32-11 (NET-4-36-32-0-1)
+4.36.34.0       , 4.36.34.255     , 109 , [L2]Block Financial Corporation BLOCK-34-13 (NET-4-36-34-0-1)
+4.36.44.3       , 4.36.44.3       , 113 , [AD]BURSTNETWORK ads
+4.36.45.0       , 4.36.45.255     ,  90 , [L1]City of Gardner
+4.36.57.0       , 4.36.57.127     , 109 , [L2]Eastern Research Group Inc EASTERNES3-57-04 (NET-4-36-57-0-1)
+4.36.61.0       , 4.36.61.255     ,  90 , [L1]Old Colony Library Network OLDCOLONY-61-03 (NET-4-36-61-0-1)
+4.36.98.0       , 4.36.98.255     ,  90 , [L1]Pasco County Libraries PASCOCL-98-10 (NET-4-36-98-0-1)
+4.36.109.0      , 4.36.109.255    ,  90 , [L1]Universal Studios Inc
+4.36.129.0      , 4.36.129.63     ,  90 , [L1]FEMA FEMA-129-07 (NET-4-36-129-0-1)
+4.36.129.128    , 4.36.129.191    ,  90 , [L1]Upper Trinity Regional Water District UTRWD-129-20 (NET-4-36-129-128-1)
+4.36.130.0      , 4.36.130.63     ,  90 , [L1]Brook Hollow North
+4.36.130.96     , 4.36.130.127    , 109 , [L2]Thyssen Krupp Elevator TKELEVATOR-130-01 (NET-4-36-130-96-1)
+4.36.131.0      , 4.36.131.63     ,  90 , [L1]Raytheon Training LLC RAYTHEON8-131-13 (NET-4-36-131-0-1)
+4.36.134.160    , 4.36.134.191    ,  90 , [L1]City of Plano
+4.36.139.0      , 4.36.139.255    ,  90 , [L1]City of Coppell
+4.36.144.0      , 4.36.149.255    ,  90 , [L1]City of Dallas Library
+4.36.150.192    , 4.36.150.223    , 109 , [L2]Point Bank POINTBANK-150-29 (NET-4-36-150-192-1)
+4.36.150.224    , 4.36.150.255    ,  90 , [L1]City of Southlake
+4.36.161.56     , 4.36.161.63     , 109 , [L2]Alpena Alcona Area Credit Union ALPENA-161-22 (NET-4-36-161-56-1)
+4.36.161.128    , 4.36.161.191    ,  90 , [L1]Raytheon Training LLC RAYTHEON7-161-13 (NET-4-36-161-128-1)
+4.36.198.0      , 4.36.198.127    ,  90 , [L1]Commonwealth of Massachusetts COMMONWEALTH3-198-08 (NET-4-36-198-0-1)
+4.36.199.96     , 4.36.199.127    , 109 , [L2]Eastern Research Group Inc EASTERNRES2-199-18 (NET-4-36-199-96-1)
+4.36.212.64     , 4.36.212.127    ,  90 , [L1]WHDH TV Channel 7 in Boston WHDH-212-14 (NET-4-36-212-64-1)
+4.36.226.128    , 4.36.226.255    ,  90 , [L1]Revolution Studios
+4.36.231.0      , 4.36.231.255    ,  90 , [L1]R&C Productions, Inc RCPROD2-231-16 (NET-4-36-231-0-1)
+4.36.236.128    , 4.36.236.159    ,  90 , [L1]Van Etten Suzumoto & Beckett, LLP VANETTEN-128-14 (NET-4-36-236-128-1)
+4.36.241.128    , 4.36.241.255    ,  90 , [L1]The Tennis Channel THETENNISCHANNEL-241-10 (NET-4-36-241-128-1)
+4.36.243.0      , 4.36.243.255    ,  90 , [L1]Cap Gemini Ernst& Young U.S., LLC
+4.36.244.208    , 4.36.244.223    ,  90 , [L1]Ontario Airport Hilton ONTARIOAIR-244-07 (NET-4-36-244-208-1)
+4.36.254.0      , 4.36.254.255    ,  90 , [L1]City of Santa Monica
+4.37.0.112      , 4.37.0.127      , 109 , [L2]Kentucky Farmers Bank KENTUCKYFB-0-28 (NET-4-37-0-112-1)
+4.37.4.112      , 4.37.4.127      , 109 , [L2]I-R Employees' Federal Credit Union IREMPLOY-4-26 (NET-4-37-4-112-1)
+4.37.64.136     , 4.37.64.159     ,  90 , [L1]US Dept of Treasury-TIGTA
+4.37.64.160     , 4.37.64.191     , 109 , [L2]Emerson Electric
+4.37.64.224     , 4.37.64.255     ,  90 , [L1]Cisco Systems, Inc. CISCOCIN-64-29 (NET-4-37-64-224-1)
+4.37.68.8       , 4.37.68.15      , 109 , [L2]Mitsubishi MMA MMMA3-68-29 (NET-4-37-68-8-1)
+4.37.68.32      , 4.37.68.63      , 109 , [L2]Wernle Children's Hospital WERNLE-68-11 (NET-4-37-68-32-1)
+4.37.68.160     , 4.37.68.191     ,  90 , [L1]Cisco Systems, Inc. CISCOCHMPGN-68-13 (NET-4-37-68-160-1)
+4.37.71.8       , 4.37.71.15      ,  90 , [L1]ACS Government Systems ACSGOVSYS-71-01 (NET-4-37-71-8-1)
+4.37.71.64      , 4.37.71.127     ,  90 , [L1]Aspen Systems Corporation ASPS2-71-02 (NET-4-37-71-64-1)
+4.37.72.0       , 4.37.72.127     ,  90 , [L1]ACS Government Systems ACSGOVSYS-72-05 (NET-4-37-72-0-1)
+4.37.75.0       , 4.37.75.127     , 109 , [L2]Fort Wayne-Allen County Airport FORTWAYNEACAA-75-26 (NET-4-37-75-0-1)
+4.37.75.240     , 4.37.75.255     , 109 , [L2]Cornerstone Pharmacy Services CORNERSTONEP-75-06 (NET-4-37-75-240-1)
+4.37.76.128     , 4.37.76.159     , 109 , [L2]Central Bank & Trust CENTRALBANK-76-16 (NET-4-37-76-128-1)
+4.37.77.0       , 4.37.77.255     ,  90 , [L1]Digimarc
+4.37.84.0       , 4.37.84.255     ,  90 , [L1]Aspen Systems Corporation ASPS2-84-5 (NET-4-37-84-0-1)
+4.37.96.0       , 4.37.96.31      ,  90 , [L1]Chicago Mercantile Exchange
+4.37.96.80      , 4.37.96.87      ,  90 , [L1]US Dept of Treasury-TIGTA TIGTA24-96-14 (NET-4-37-96-80-1)
+4.37.96.104     , 4.37.96.127     ,  90 , [L1]Cyber Works Media Group CYBERWORKS-96-22 (NET-4-37-96-104-1)
+4.37.96.160     , 4.37.96.191     ,  90 , [L1]Cisco Systems, Inc. CISCOVERLND-96-29 (NET-4-37-96-160-1)
+4.37.96.224     , 4.37.96.255     ,  90 , [L1]Cisco Systems, Inc. CISCOCHICAGO-96-22 (NET-4-37-96-224-1)
+4.37.97.224     , 4.37.97.239     ,  90 , [L1]Chicago Mercantile Exchange
+4.37.100.0      , 4.37.100.255    ,  90 , [L1]Chicago Mercantile Exchange
+4.37.102.0      , 4.37.103.255    ,  90 , [L1]Cap Gemini Ernst& Young U.S., LLC
+4.37.109.0      , 4.37.109.255    ,  90 , [L1]Computer Sciences Corporation
+4.37.113.0      , 4.37.113.63     ,  90 , [L1]Electronic Imaging Systems of America
+4.37.113.112    , 4.37.113.119    , 109 , [L2]Neuberger Berman
+4.37.160.64     , 4.37.160.71     ,  90 , [L1]Hilton Tuscon East HTE-160-20 (NET-4-37-160-64-1)
+4.37.160.96     , 4.37.160.103    , 109 , [L2]Genuity IM
+4.37.160.112    , 4.37.160.119    ,  90 , [L1]Drug Enforcement Adm
+4.37.192.0      , 4.37.211.255    ,  90 , [L1]Lucent Enhanced Services and Sales
+4.37.248.0      , 4.37.255.255    ,  90 , [L1]U.S. General Services Administration
+4.38.36.96      , 4.38.36.111     ,  90 , [L1]Synopsys Inc. SYNOPSYSHINTAI-36-3 (NET-4-38-36-96-1)
+4.38.36.112     , 4.38.36.127     , 109 , [L2]Mountain Community Hospital MOUNTAINHOSP-36-3 (NET-4-38-36-112-1)
+4.38.37.32      , 4.38.37.63      ,  90 , [L1]City of Lakewood
+4.38.38.0       , 4.38.38.255     ,  90 , [L1]MovieLink MOVIELINK-38-13 (NET-4-38-38-0-1)
+4.38.41.64      , 4.38.41.95      ,  90 , [L1]City of Whittier
+4.38.41.128     , 4.38.41.255     ,  90 , [L1]MovieLink MOVIELINK-41-26 (NET-4-38-41-128-1)
+4.38.49.0       , 4.38.49.31      ,  90 , [L1]City of Santa Fe Springs-PSC
+4.38.49.32      , 4.38.49.47      , 109 , [L2]Public Health Foundation PHF-49-07 (NET-4-38-49-32-1)
+4.38.49.224     , 4.38.49.255     ,  90 , [L1]Ontario Airport Hilton ONTARIOAIR-49-19 (NET-4-38-49-224-1)
+4.38.74.0       , 4.38.74.255     ,  90 , [L1]Bureau of National Affairs
+4.38.79.0       , 4.38.79.255     ,  90 , [L1]Computer Sciences Corp
+4.38.82.192     , 4.38.82.255     , 109 , [L2]Minolta Systems Laboratory, Inc. MINOLTA-82-12 (NET-4-38-82-192-1)
+4.38.93.16      , 4.38.93.23      , 109 , [L2]DBL Realtors DBLREALTORS-93-11 (NET-4-38-93-16-1)
+4.38.93.96      , 4.38.93.127     ,  90 , [L1]Promo Music PROMOMUSIC-93-11 (NET-4-38-93-96-1)
+4.38.94.0       , 4.38.94.63      ,  90 , [L1]Werner Media
+4.38.94.96      , 4.38.94.103     ,  90 , [L1]Beaumont Police Department
+4.38.97.64      , 4.38.97.95      ,  90 , [L1]Javelin Inc
+4.38.98.140     , 4.38.98.140     , 113 , [AD]spammer ATBP
+4.39.32.0       , 4.39.32.127     ,  90 , [L1]City of Springfield
+4.39.36.0       , 4.39.36.255     , 109 , [L2]Saint Barnabas Health Care SBHC-36-24 (NET-4-39-36-0-1)
+4.39.37.0       , 4.39.37.127     ,  90 , [L1]PA House of Representatives
+4.39.37.160     , 4.39.37.175     , 109 , [L2]Crozer Keystone Medical Center CKMC-37-28 (NET-4-39-37-160-1)
+4.39.37.224     , 4.39.38.255     , 109 , [L2]National Penn Bank
+4.42.140.0      , 4.42.141.255    , 109 , [L2]InteQ Corporation INTEQCORP-140-08 (NET-4-42-140-0-1)
+4.42.162.128    , 4.42.162.255    ,  90 , [L1]Hocking County Commisioners HOCKINGCC-162-20 (NET-4-42-162-128-1)
+4.42.176.64     , 4.42.176.95     ,  90 , [L1]Synopsys Inc. SYNOPSYSOR-176-04 (NET-4-42-176-64-1)
+4.42.176.112    , 4.42.176.127    ,  90 , [L1]Synopsys Inc. SYNOPSYSWA-176-04 (NET-4-42-176-112-1)
+4.42.176.160    , 4.42.176.175    ,  90 , [L1]Synopsys Inc. SYNOPSYSVANWA-176-16 (NET-4-42-176-160-1)
+4.42.176.184    , 4.42.176.191    ,  90 , [L1]Drug Enforcement Adm
+4.42.179.0      , 4.42.179.31     ,  90 , [L1]Cisco Systems, Inc. CISCOBELLEVUE-179-06 (NET-4-42-179-0-1)
+4.42.179.64     , 4.42.179.95     ,  90 , [L1]Cisco Systems, Inc. CISCOSEATTLE-179-21 (NET-4-42-179-64-1)
+4.42.184.128    , 4.42.184.255    ,  90 , [L1]Courttrax, Inc
+4.42.189.80     , 4.42.189.95     ,  90 , [L1]Hulabee Entertainment Inc HULABEE-189-30 (NET-4-42-189-80-1)
+4.42.190.0      , 4.42.190.7      ,  97 , [MS]Microsoft Corp
+4.42.190.96     , 4.42.190.127    , 109 , [L2]Bank Of Washington BOFWASH-190-17 (NET-4-42-190-96-1)
+4.42.191.0      , 4.42.191.127    , 109 , [L2]Harborview Medical Center HARBORVIEW-191-21 (NET-4-42-191-0-1)
+4.42.192.64     , 4.42.192.71     , 109 , [L2]Gateway National Bank GATEWAYNB-192-02
+4.42.192.200    , 4.42.192.223    ,  90 , [L1]Drug Enforcement Adm
+4.42.194.144    , 4.42.194.159    , 109 , [L2]Citizens State Bank CITIZENSSTATE-194-18 (NET-4-42-194-144-1)
+4.42.194.208    , 4.42.194.215    , 109 , [L2]Neuberger Berman
+4.42.202.88     , 4.42.202.95     , 109 , [L2]Texas Health Resources Arlington THRA-202-3 (NET-4-42-202-88-1)
+4.42.202.96     , 4.42.202.127    ,  90 , [L1]Town of Addison
+4.42.204.128    , 4.42.204.159    ,  90 , [L1]Town of Addison
+4.42.204.192    , 4.42.204.255    ,  90 , [L1]Ascent Management, Inc. ASCENT-204-13 (NET-4-42-204-192-1)
+4.42.206.0      , 4.42.206.255    , 109 , [L2]St Joseph Hospital
+4.42.208.16     , 4.42.208.31     ,  90 , [L1]EMI Music Publishing
+4.42.208.64     , 4.42.208.95     ,  90 , [L1]Cisco Systems, Inc
+4.42.209.184    , 4.42.209.191    ,  90 , [L1]Drug Enforcement Adm
+4.42.209.224    , 4.42.209.231    ,  90 , [L1]Drug Enforcement Adm
+4.42.210.128    , 4.42.210.159    ,  90 , [L1]Cisco Systems, Inc. CISCOKLNDPRK-210-13 (NET-4-42-210-128-1)
+4.42.212.8      , 4.42.212.23     , 109 , [L2]Neuberger Berman
+4.42.212.24     , 4.42.212.31     ,  90 , [L1]Fowler,White,Billen,Boggs,Villareal + Banker FWGBVB5-212-11 (NET-4-42-212-24
+4.42.212.48     , 4.42.212.63     ,  90 , [L1]Fuji Photo Film USA, Inc. FPF35-212-20 (NET-4-42-212-48-1)
+4.42.224.96     , 4.42.224.111    ,  90 , [L1]Drug Enforcement Adm
+4.42.224.112    , 4.42.224.127    , 109 , [L2]Rational Software
+4.42.225.32     , 4.42.225.39     ,  90 , [L1]Teale Data Center TEALE4-225-19 (NET-4-42-225-32-1)
+4.42.225.64     , 4.42.225.95     , 109 , [L2]Mayfield Venture Capital MAYFLDVNT-225-08 (NET-4-42-225-64-1)
+4.42.227.0      , 4.42.227.63     ,  90 , [L1]Douglas County DOUGLASCOUNTY-227-22 (NET-4-42-227-0-1)
+4.42.227.64     , 4.42.227.71     , 109 , [L2]United California Bank SANWABANK4-227-3 (NET-4-42-227-64-1)
+4.42.227.224    , 4.42.227.239    ,  90 , [L1]Cisco Systems, Inc
+4.42.228.0      , 4.42.231.255    , 109 , [L2]Ceristar Inc
+4.42.232.64     , 4.42.232.95     ,  90 , [L1]Bingham McCutchen, LLP BINGHAMSANFRANCISCO-232-17 (NET-4-42-232-64-1)
+4.42.233.224    , 4.42.233.255    ,  90 , [L1]Cisco Systems, Inc. CISCORENO-233-10 (NET-4-42-233-224-1)
+4.42.235.128    , 4.42.235.143    ,  90 , [L1]City of Santa Maria
+4.42.237.224    , 4.42.237.255    ,  90 , [L1]Werner Media
+4.42.238.0      , 4.42.238.7      , 109 , [L2]Neuberger Berman
+4.42.238.32     , 4.42.238.95     ,  90 , [L1]Javelin Inc
+4.42.242.0      , 4.42.242.31     ,  90 , [L1]EDS_EBS
+4.42.244.16     , 4.42.244.23     , 109 , [L2]United Bank & Trust UNITEDBT4-244-31 (NET-4-42-244-16-1)
+4.42.244.32     , 4.42.244.63     ,  90 , [L1]Proskauer Rose
+4.42.244.160    , 4.42.244.175    ,  90 , [L1]Federal Bureau Investigation
+4.42.244.192    , 4.42.244.239    ,  90 , [L1]Federal Bureau Investigation
+4.42.246.96     , 4.42.246.127    , 109 , [L2]PDK Labs, Inc. PDK-246-27 (NET-4-42-246-96-1)
+4.42.246.144    , 4.42.246.159    ,  90 , [L1]Synopsys Inc. SYNOPSYSNJ-246-04 (NET-4-42-246-144-1)
+4.42.246.176    , 4.42.246.183    ,  90 , [L1]New York State Insurance Fund
+4.42.247.208    , 4.42.247.223    ,  90 , [L1]Overseas Media
+4.43.32.200     , 4.43.32.255     ,  90 , [L1]Drug Enforcement Adm
+4.43.35.0       , 4.43.35.255     , 109 , [L2]XL Dynamics, Inc
+4.43.36.0       , 4.43.36.63      ,  90 , [L1]Commact Net
+4.43.36.96      , 4.43.36.127     , 109 , [L2]Glenwood Management GLENWOOD-36-16 (NET-4-43-36-96-1)
+4.43.37.0       , 4.43.37.191     , 109 , [L2]World Conference Holdings, Inc
+4.43.38.0       , 4.43.38.255     ,  90 , [L1]Cap Gemini Ernst& Young U.S., LLC CAPGEY4-38-24 (NET-4-43-38-0-1)
+4.43.39.192     , 4.43.39.223     ,  90 , [L1]Cisco Systems, Inc. CISCOWLLTWNSHP-39-13 (NET-4-43-39-192-1)
+4.43.40.0       , 4.43.40.31      ,  90 , [L1]Cisco Systems, Inc. CISCOBLOOM-40-07 (NET-4-43-40-0-1)
+4.43.44.32      , 4.43.44.63      , 111 , [SW]MicroStrategy
+4.43.44.88      , 4.43.44.95      ,  90 , [L1]Javelin Inc
+4.43.44.128     , 4.43.44.143     , 111 , [SW]MicroStrategy
+4.43.47.0       , 4.43.47.255     ,  90 , [L1]Games Structure GAMESSTRUCTURE-47-09 (NET-4-43-47-0-1)
+4.43.52.128     , 4.43.52.191     ,  90 , [L1]Siemens Energy & Automation SIEMENSEA-52-06 (NET-4-43-52-128-1)
+4.43.64.0       , 4.43.64.15      , 109 , [L2]PMA Medical Specialists PMAMED-64-13 (NET-4-43-64-0-1)
+4.43.64.24      , 4.43.64.31      , 109 , [L2]Einstein Hospital EINSTEIN-64-13 (NET-4-43-64-24-1)
+4.43.64.128     , 4.43.64.167     ,  90 , [L1]FMC Corporation FMCCORP-64-07 (NET-4-43-64-128-1), FMC Corporation
+4.43.64.168     , 4.43.64.175     , 109 , [L2]Neuberger Berman
+4.43.64.176     , 4.43.64.191     ,  90 , [L1]Fuji Photo Film USA, Inc. FPF14-64-18 (NET-4-43-64-176-1)
+4.43.65.0       , 4.43.65.31      ,  90 , [L1]Cisco Systems, Inc. CISCOMRSTWN-65-13 (NET-4-43-65-0-1)
+4.43.67.0       , 4.43.67.31      ,  90 , [L1]County of Bucks COBUCK-67-3 (NET-4-43-67-0-1)
+4.43.67.64      , 4.43.67.127     ,  90 , [L1]NFL Films NFL-67-3 (NET-4-43-67-64-1)
+4.43.68.0       , 4.43.68.7       , 109 , [L2]Neuberger Berman NBWILMINGTON-68-3 (NET-4-43-68-0-1)
+4.43.68.16      , 4.43.68.23      , 109 , [L2]Visiting Nurse Association VISITNURSEASS-68-3 (NET-4-43-68-16-1)
+4.43.68.192     , 4.43.68.255     ,  90 , [L1]FMC Corporation FMCCORP-68-17 (NET-4-43-68-192-1), FMC Corporation
+4.43.80.0       , 4.43.80.63      ,  90 , [L1]Cisco Systems, Inc
+4.43.81.32      , 4.43.81.55      ,  90 , [L1]BAE Systems BAESYSTEMS2-81-29 (NET-4-43-81-32-1)
+4.43.81.96      , 4.43.81.127     ,  90 , [L1]Javelin Inc
+4.43.88.0       , 4.43.95.255     , 109 , [L2]Nu Skin International, Inc
+4.43.96.0       , 4.43.96.255     ,  90 , [L1]Media Force
+4.43.97.224     , 4.43.97.255     ,  90 , [L1]The Association of the Bar of New York
+4.43.101.0      , 4.43.101.127    ,  90 , [L1]Granite Broadcasting
+4.43.102.128    , 4.43.102.255    , 109 , [L2]Greenwich Hospital GREENHOSP-102-17 (NET-4-43-102-128-1)
+4.43.103.128    , 4.43.103.191    ,  90 , [L1]City of Ithaca
+4.43.104.0      , 4.43.104.127    , 109 , [L2]Fimat FIMATNY3-104-20 (NET-4-43-104-0-1)
+4.43.105.0      , 4.43.105.127    , 109 , [L2]TDK Corporation TDK-105-30 (NET-4-43-105-0-1)
+4.43.108.0      , 4.43.108.7      , 109 , [L2]Union Center National Bank
+4.43.108.16     , 4.43.108.31     ,  90 , [L1]Fuji Photo Film USA, Inc. FPF7-108-19 (NET-4-43-108-16-1)
+4.43.108.96     , 4.43.108.127    ,  90 , [L1]Bingham Dana LLP
+4.43.108.160    , 4.43.108.191    , 109 , [L2]Hebrew Hospital
+4.43.109.0      , 4.43.109.255    ,  90 , [L1]Publishers Clearing House PUBLISHERS-109-12 (NET-4-43-109-0-1)
+4.43.113.176    , 4.43.113.191    , 109 , [L2]Interfaith Medical Center INTERFAITH-113-10 (NET-4-43-113-176-1)
+4.43.114.16     , 4.43.114.31     , 109 , [L2]JP Morgan Chase
+4.43.114.48     , 4.43.114.55     ,  90 , [L1]Accenture
+4.43.117.0      , 4.43.117.255    , 109 , [L2]Englewood Hospital ENGLEWOOD-117-24 (NET-4-43-117-0-1)
+4.43.118.128    , 4.43.118.255    ,  90 , [L1]Wenner Media Inc. WENNERNY-118-10 (NET-4-43-118-128-1)
+4.43.119.0      , 4.43.119.127    , 111 , [SW]Webair Internet Development Inc
+4.43.119.224    , 4.43.119.239    ,  90 , [L1]Bergeren County Utilities BERGENCOUNTY-119-6 (NET-4-43-119-224-1)
+4.43.119.248    , 4.43.119.255    , 109 , [L2]Neuberger Berman NBNEWYORK-119-11 (NET-4-43-119-248-1)
+4.43.121.224    , 4.43.121.239    ,  90 , [L1]Sanctuary Records Group SANCTUARY5-121-10 (NET-4-43-121-224-1)
+4.43.122.0      , 4.43.122.255    ,  90 , [L1]Toshiba America, Inc. TOSHIBAAMINC-122-9 (NET-4-43-122-0-1)
+4.43.124.192    , 4.43.124.255    ,  90 , [L1]Media Force
+4.43.127.0      , 4.43.127.255    , 109 , [L2]Maimonidies Medical Center MAIMONIDIES-127-18 (NET-4-43-127-0-1)
+4.53.2.12       , 4.53.2.15       , 113 , [AD]JKS Media, LLC
+4.53.120.22     , 4.53.120.22     ,  90 , [L1]websense-in.car1.sandiego1.level3.net
+4.65.105.109    , 4.65.105.109    , 113 , [AD]yahoo scammer
+4.67.8.0        , 4.67.8.255      , 109 , [L2]Mercy Hospital of Pittsburg
+4.67.10.0       , 4.67.10.63      ,  90 , [L1]Allegheny County Airport Authority ACA-10-14 (NET-4-67-10-0-1)
+4.67.10.128     , 4.67.10.255     ,  90 , [L1]Allegheny County Airport Authority
+4.67.11.0       , 4.67.11.255     , 109 , [L2]Southeastern Ohio Regional Medical Ctr
+4.67.18.0       , 4.67.18.255     ,  90 , [L1]Screen Actors Guild
+4.67.21.64      , 4.67.21.79      , 109 , [L2]Primary Medical-Care, Inc. PRIMEDCARE-21-17 (NET-4-67-21-64-1)
+4.67.21.96      , 4.67.21.127     ,  90 , [L1]City of Seal Beach
+4.67.42.0       , 4.67.42.127     , 109 , [L2]Albany Medical Center ALBANYMC3-42-10 (NET-4-67-42-0-1)
+4.67.43.0       , 4.67.43.127     ,  90 , [L1]PC Richards & Son
+4.67.46.0       , 4.67.46.63      , 109 , [L2]Greenpoint Savings Bank GREENPOINT-46-3 (NET-4-67-46-0-1)
+4.67.46.128     , 4.67.47.127     , 109 , [L2]Fimat FIMATNY-46-20 (NET-4-67-46-128-1)
+4.67.72.0       , 4.67.72.255     ,  90 , [L1]Advent Software, Inc
+4.67.80.0       , 4.67.80.63      , 109 , [L2]Provident Bank PROVBANK2-80-5 (NET-4-67-80-0-1)
+4.67.80.64      , 4.67.80.127     ,  90 , [L1]FEMA FEMA3-80-19 (NET-4-67-80-64-1)
+4.67.88.0       , 4.67.89.255     ,  90 , [L1]City of Springfield
+4.71.104.0      , 4.71.104.127    , 109 , [L2]BandCon
+4.71.104.143    , 4.71.104.148    ,  90 , [L1]cachelogic
+4.71.105.0      , 4.71.105.63     ,  90 , [L1]Joost
+4.71.182.0      , 4.71.182.4      ,  90 , [L1]cachelogic
+4.71.182.16     , 4.71.182.23     ,  90 , [L1]DEPT-OF-CEN.car2.Chicago1.Level3.net
+4.71.183.64     , 4.71.183.127    ,  90 , [L1]Itiva Digital Media Corp
+4.71.209.0      , 4.71.209.63     , 113 , [AD]Quantcast
+4.78.188.3      , 4.78.188.12     ,  90 , [L1]cachelogic
+4.78.241.60     , 4.78.241.63     ,  90 , [L1]Meta Interfaces
+4.79.4.160      , 4.79.4.191      ,  90 , [L1]COPYRIGHT CLEARANCE CENTER
+4.79.40.167     , 4.79.40.172     ,  90 , [L1]cachelogic
+4.79.42.27      , 4.79.42.40      ,  90 , [L1]cachelogic
+4.79.42.247     , 4.79.42.252     ,  90 , [L1]cachelogic
+4.79.43.139     , 4.79.43.144     ,  90 , [L1]cachelogic
+4.79.80.15      , 4.79.80.56      ,  90 , [L1]SONY-ONLINE.car1.Denver1.Level3.net
+4.79.80.59      , 4.79.80.128     ,  90 , [L1]cachelogic
+4.79.82.0       , 4.79.82.255     , 109 , [L2]Level 3 Communications
+4.79.142.55     , 4.79.142.84     ,  90 , [L1]cachelogic
+4.79.181.0      , 4.79.181.255    , 115 , [SD]INKTOMI
+4.79.208.0      , 4.79.208.7      ,  90 , [L1]Time Warner
+4.79.208.8      , 4.79.208.11     , 115 , [SD]Google Inc
+4.79.208.16     , 4.79.208.19     , 115 , [SD]Google Inc
+4.79.208.56     , 4.79.208.59     , 113 , [AD]Doubleclick
+4.79.208.67     , 4.79.208.72     ,  90 , [L1]cachelogic
+4.79.208.96     , 4.79.208.127    , 109 , [L2]IMC Chicago
+4.79.208.168    , 4.79.208.171    ,  90 , [L1]Neustar, Inc
+4.79.208.224    , 4.79.208.255    ,  90 , [L1]Comscore
+4.79.209.0      , 4.79.209.63     , 113 , [AD]Internet Advertising Group
+4.79.209.224    , 4.79.209.255    ,  90 , [L1]Comscore
+4.79.217.174    , 4.79.217.188    ,  90 , [L1]cachelogic
+4.79.218.0      , 4.79.218.255    , 109 , [L2]CDNetworks
+4.79.228.27     , 4.79.228.36     ,  90 , [L1]cachelogic
+4.79.230.39     , 4.79.230.44     ,  90 , [L1]cachelogic
+4.93.90.0       , 4.93.90.255     ,  90 , [L1]Level 3 Communications|Anti-p2p
+4.133.18.198    , 4.133.18.198    , 119 , [TL]gnutella fake file
+4.134.133.64    , 4.134.133.127   ,  90 , [L1]Federal Reserve Bank of San Francisco
+4.153.249.82    , 4.153.249.82    , 119 , [TL]Level 3 Communications gnu viruses
+4.159.56.123    , 4.159.56.123    , 119 , [TL]gnutella hitmorpher
+4.161.2.20      , 4.161.2.20      ,  90 , [L1]Level 3 Communications gnufakes
+4.230.222.126   , 4.230.222.126   , 119 , [TL]Level 3 Communications virus gnufakes
+5.0.0.0         , 5.255.255.255   ,  60 , [BG]freespace-quads
+6.0.0.0         , 7.255.255.255   ,  90 , [L1]Headquarters, USAISC (Army Information Systems Center)
+8.2.32.0        , 8.2.35.255      ,  90 , [L1]Linden Lab
+8.2.64.0        , 8.2.65.255      ,  90 , [L1]Computer Sciences corp Meriden VDC
+8.2.96.0        , 8.2.96.255      ,  90 , [L1]Co-Location.com Inc
+8.3.12.0        , 8.3.13.255      , 109 , [L2]Intermix Media
+8.3.14.0        , 8.3.14.255      ,  90 , [L1]Troxen Corporation, Inc
+8.3.16.0        , 8.3.16.127      , 109 , [L2]BandCon
+8.3.16.192      , 8.3.16.255      , 109 , [L2]BandCon
+8.3.17.0        , 8.3.17.255      ,  90 , [L1]Legal Zoom
+8.3.19.0        , 8.3.19.255      , 109 , [L2]BandCon
+8.3.26.0        , 8.3.27.255      , 109 , [L2]CWIE, LLC
+8.3.30.0        , 8.3.30.255      , 109 , [L2]EdgeCast Networks, Inc
+8.3.209.0       , 8.3.209.255     , 109 , [L2]CWIE, LLC
+8.3.210.0       , 8.3.210.255     ,  90 , [L1]Net Sentry Corp
+8.3.214.0       , 8.3.215.255     ,  90 , [L1]Hulu, LLC
+8.3.218.0       , 8.3.219.255     , 109 , [L2]BandCon
+8.3.233.0       , 8.3.233.255     ,  90 , [L1]Live Universe, Inc
+8.4.34.0        , 8.4.35.255      ,  90 , [L1]Skyrider, Inc
+8.5.0.0         , 8.5.3.255       , 109 , [L2]CWIE, LLC
+8.5.192.0       , 8.5.196.255     ,  90 , [L1]Sony Computer Entertainment America, Inc
+8.5.200.0       , 8.5.203.255     ,  90 , [L1]Sony Computer Entertainment
+8.5.249.0       , 8.5.250.255     , 109 , [L2]EdgeCast Networks, Inc
+8.6.0.0         , 8.6.0.255       ,  90 , [L1]CWIE, LLC
+8.6.12.0        , 8.6.12.255      ,  90 , [L1]Pandora Media, Inc
+8.6.48.0        , 8.6.55.255      , 115 , [SD]Google Incorporated
+8.6.95.168      , 8.6.95.168      , 107 , [PT]Proxy
+8.6.96.0        , 8.6.96.255      , 109 , [L2]EdgeCast Networks, Inc
+8.6.176.0       , 8.6.176.255     ,  97 , [MS]Microsoft Corp
+8.6.194.0       , 8.6.194.255     , 109 , [L2]Kent Technologies, Inc
+8.7.22.0        , 8.7.22.255      , 109 , [L2]BandCon
+8.7.24.0        , 8.7.25.255      , 109 , [L2]BandCon
+8.7.65.0        , 8.7.65.255      , 113 , [AD]Telmetrics Inc
+8.7.96.169      , 8.7.96.169      ,  90 , [L1]uscib.org
+8.7.210.0       , 8.7.210.255     , 113 , [AD]Telmetrics Inc
+8.7.218.7       , 8.7.218.7       ,  90 , [L1]take2.lyris.net
+8.7.240.0       , 8.7.247.255     , 109 , [L2]The Mata Group
+8.8.14.0        , 8.8.14.255      , 113 , [AD]VideoEgg, Inc
+8.8.64.0        , 8.8.64.255      , 109 , [L2]EdgeCast Networks, Inc
+8.8.128.0       , 8.8.135.255     ,  90 , [L1]Navisite, Inc
+8.8.160.0       , 8.8.165.255     , 109 , [L2]Inficron
+8.8.176.0       , 8.8.176.255     , 109 , [L2]EveryNetwork
+8.8.178.0       , 8.8.178.255     , 113 , [AD]Maven Networks
+8.8.248.0       , 8.8.251.255     , 109 , [L2]FreeTVRadio.com
+221.253.63.216  , 221.253.63.223  , 109 , [L2]E-PICTUREZ CO.,LTD
+221.253.87.136  , 221.253.87.143  ,  90 , [L1]Sendai Television Broadcasting Corpration
+221.253.101.144 , 221.253.101.151 ,  90 , [L1]Intellectual Property Bank Corp
+221.253.156.8   , 221.253.156.15  ,  90 , [L1]PONY JAPAN INC
+221.253.185.176 , 221.253.185.191 , 109 , [L2]ESP MUSICAL ACADEMY
+221.253.222.40  , 221.253.222.55  , 109 , [L2]CSK NetworkSystems
+221.253.225.240 , 221.253.225.255 ,  90 , [L1]HEWLETT-PACKARD JAPAN,LTD. CUSTOMER CENTER
+221.253.226.16  , 221.253.226.23  , 109 , [L2]FBI Communications,Inc
+221.253.226.24  , 221.253.226.31  ,  90 , [L1]tv asahi corporation
+221.253.252.40  , 221.253.252.47  ,  90 , [L1]Tokyo Sound Production.Inc
+221.253.254.24  , 221.253.254.31  ,  90 , [L1]D3PUBLISHER Inc
+221.253.254.48  , 221.253.254.63  ,  90 , [L1]GAMES ARENA Co.,Ltd
+221.254.67.16   , 221.254.67.47   ,  90 , [L1]Nihon Unisys. Ltd
+221.254.70.144  , 221.254.70.151  ,  90 , [L1]CYBERFRONT CORPORATION
+221.254.103.140 , 221.254.103.140 ,  90 , [L1]DDoS_ap2p
+221.254.118.48  , 221.254.118.55  ,  90 , [L1]MediaNet
+221.254.121.24  , 221.254.121.31  ,  90 , [L1]U\
+221.254.128.160 , 221.254.128.175 ,  90 , [L1]Theta Music,Inc
+221.254.135.80  , 221.254.135.95  ,  90 , [L1]Valor Computexized Systems Japan K K
+221.254.164.160 , 221.254.164.167 ,  90 , [L1]namco
+221.254.166.32  , 221.254.166.47  ,  90 , [L1]HEWLETT-PACKARD JAPAN,LTD. CUSTOMER CENTER
+221.254.176.240 , 221.254.176.247 ,  90 , [L1]Sony Corporation
+221.254.196.136 , 221.254.196.143 ,  90 , [L1]NIPPON TELEVISION ART CORP
+221.254.211.144 , 221.254.211.159 ,  90 , [L1]Forum office
+221.254.214.32  , 221.254.214.39  ,  90 , [L1]Randomhouse
+221.254.214.232 , 221.254.214.239 ,  90 , [L1]DASSAULT SYSTEMES
+221.254.215.120 , 221.254.215.127 ,  90 , [L1]R-PROMETRIC KK
+221.254.225.184 , 221.254.225.191 ,  90 , [L1]TAKUMI
+221.254.228.40  , 221.254.228.47  ,  90 , [L1]TEAM Entertainment Inc
+221.254.228.128 , 221.254.228.135 ,  90 , [L1]Dimps Corporation
+221.255.92.224  , 221.255.92.239  , 109 , [L2]Empirix K.K
+221.255.117.32  , 221.255.117.47  ,  90 , [L1]Software Research Associates,Inc
+221.255.123.160 , 221.255.123.167 ,  90 , [L1]TOSHIBA KN SYSTEM Co.,Ltd
+221.255.245.72  , 221.255.245.79  , 109 , [L2]DATT JAPAN lnc
+222.0.110.231   , 222.0.110.231   , 119 , [TL]p2p Corrupt Data Sender
+222.3.138.250   , 222.3.138.250   , 119 , [TL]gnutella hitmorpher
+222.4.62.85     , 222.4.62.85     ,  90 , [L1]DDoS_ap2p
+222.5.101.146   , 222.5.101.146   ,  90 , [L1]DDoS_ap2p
+222.6.21.49     , 222.6.21.49     , 107 , [PT]Tor
+222.8.39.64     , 222.8.39.64     ,  90 , [L1]DDoS_ap2p
+222.8.41.50     , 222.8.41.50     ,  90 , [L1]DDoS_ap2p
+222.13.101.199  , 222.13.101.199  ,  90 , [L1]DDoS_ap2p
+222.13.140.11   , 222.13.140.11   ,  90 , [L1]DDoS_ap2p
+222.15.122.95   , 222.15.122.95   ,  90 , [L1]DDoS_ap2p
+222.19.32.0     , 222.19.39.255   ,  90 , [L1]Sichuan Police College
+222.24.130.0    , 222.24.130.255  ,  90 , [L1]Armed Police Engineering College
+222.25.200.0    , 222.25.203.255  ,  90 , [L1]Urumqi Command School of CAPF
+222.35.72.231   , 222.35.72.231   ,  95 , [FK]
+222.39.13.42    , 222.39.13.42    ,  95 , [FK]China Railway Telecommunications Center | MicroGSQ eMule server
+222.39.13.45    , 222.39.13.45    ,  95 , [FK]China Railway Telecommunications Center | MicroGSQ eMule Server
+222.45.235.3    , 222.45.235.3    , 109 , [L2]Abuse
+222.46.32.46    , 222.46.32.46    ,  90 , [FK]Stick_Gull
+222.51.38.138   , 222.51.38.138   , 107 , [PT]Proxy
+222.52.99.131   , 222.52.99.131   , 107 , [PT]Proxy
+222.64.49.56    , 222.64.49.56    , 119 , [TL]gnutella hitmorpher
+222.66.1.8      , 222.66.1.11     ,  90 , [L1]Stratocracy
+222.66.1.48     , 222.66.1.51     ,  90 , [L1]SONY (China) Ltd. Shanghai Branch
+222.66.1.196    , 222.66.1.199    , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.3.224    , 222.66.3.255    , 109 , [L2]SAATCHI&SAATCHI GREAT WALL ADVERTISING CO.,LTD. SHANGHAI BRANCH
+222.66.4.80     , 222.66.4.83     ,  90 , [L1]BEIJING DENTSU AD. CO.,LTD. SHANGHAI BRANCH
+222.66.4.120    , 222.66.4.131    ,  90 , [L1]Konami Software Shanghai Inc
+222.66.4.176    , 222.66.4.179    ,  90 , [L1]Konami Software Shanghai Inc
+222.66.4.212    , 222.66.4.215    ,  90 , [L1]Stratocracy
+222.66.4.252    , 222.66.4.255    , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.5.148    , 222.66.5.155    ,  90 , [L1]U.S.A Beinashi.Furuilande.Kepulan.Anruonuofu Lawyer Office Shanghai Rep. Off
+222.66.9.116    , 222.66.9.119    , 109 , [L2]Dupont (China) Research&development And Management Co.,Ltd
+222.66.9.200    , 222.66.9.203    ,  90 , [L1]Stratocracy
+222.66.12.240   , 222.66.12.247   ,  90 , [L1]Deacons Shanghai Representative Office(Australia)
+222.66.13.16    , 222.66.13.19    ,  90 , [L1]Sony Corporation Of Hongkong Ltd. Shanghai Rep. Office
+222.66.13.36    , 222.66.13.39    ,  90 , [L1]Stratocracy
+222.66.13.52    , 222.66.13.55    ,  90 , [L1]Stratocracy
+222.66.13.88    , 222.66.13.91    , 109 , [L2]FUJI PHOTO FILM (CHINA) INVESTMENT CO.,LTD
+222.66.13.116   , 222.66.13.119   ,  90 , [L1]Bureauveritas China District Shanghai Central Office
+222.66.13.176   , 222.66.13.179   ,  90 , [L1]Arvato Systems(Shanghai) Co., Ltd
+222.66.14.60    , 222.66.14.63    ,  90 , [L1]CHINA INTERNATIONAL TELEVISION STATION
+222.66.14.80    , 222.66.14.83    ,  90 , [L1]Shanghai Municipal Food&Drug Administration Hongkou Branch
+222.66.14.168   , 222.66.14.171   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.14.184   , 222.66.14.187   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.14.204   , 222.66.14.207   ,  90 , [L1]Shanghai Shenglian Lawyer Office
+222.66.15.0     , 222.66.15.7     , 109 , [L2]Samtec International Trading (Shanghai) Co., Ltd
+222.66.19.192   , 222.66.19.195   ,  90 , [L1]Shanghai In And Out Border Examining Bureau Of The Republic
+222.66.21.64    , 222.66.21.67    ,  90 , [L1]Civil Administration Ministry Critical Save Boost Center Shanghai Rep. Offic
+222.66.21.184   , 222.66.21.187   ,  90 , [L1]Shanghai 2nd. People Court
+222.66.21.228   , 222.66.21.231   ,  90 , [L1]Germany Kadinasi Device Software Develope And Sales Co., Ltd.,
+222.66.23.248   , 222.66.23.251   ,  90 , [L1]Stratocracy
+222.66.24.136   , 222.66.24.139   , 109 , [L2]Gericom (Shanghai) Co.,Ltd
+222.66.25.56    , 222.66.25.59    , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.25.120   , 222.66.25.123   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.25.132   , 222.66.25.135   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.27.128   , 222.66.27.159   , 109 , [L2]Shanghai Hughes Network Systems Co., Ltd
+222.66.27.248   , 222.66.27.251   ,  90 , [L1]Ching Cyber Entertainment (Shanghai) Co.,Ltd
+222.66.32.112   , 222.66.32.119   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.32.124   , 222.66.32.127   ,  90 , [L1]Shanghai Yimenshi Goverment Affairs Research Center
+222.66.32.152   , 222.66.32.159   ,  90 , [L1]Electronic Arts Inc ~~Shanghai)Co.,Ltd
+222.66.32.196   , 222.66.32.199   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.32.248   , 222.66.32.251   ,  90 , [L1]RADIANCE SOFTWARE (SHANGHAI) CO.LTD
+222.66.33.220   , 222.66.33.223   ,  90 , [L1]IBM Solution&services co,LTD
+222.66.34.216   , 222.66.34.223   , 109 , [L2]CSK SYSTEMS (SHANGHAI) CO., LTD
+222.66.37.164   , 222.66.37.167   ,  90 , [L1]Stratocracy
+222.66.38.8     , 222.66.38.11    ,  90 , [L1]JINGTIAN&GONGCHENG ATTORNEYS AT LAW
+222.66.38.80    , 222.66.38.95    ,  90 , [L1]Shanghai Wei Di Video&Data Communication Engineering Co., Ltd
+222.66.39.12    , 222.66.39.15    ,  90 , [L1]Siemens High Voltage Switchgear Co.,Ltd.Shanghai
+222.66.39.108   , 222.66.39.111   ,  90 , [L1]Shanghai Customs Anti-smuggling Bureau of P.R.C
+222.66.39.128   , 222.66.39.131   ,  90 , [L1]The Appearance Of The City Of Shanghai Controls The Army Unit
+222.66.39.184   , 222.66.39.191   ,  90 , [L1]Unreal One Yard Of Movies TVs Co., Ltd. Of Dimension Shang
+222.66.39.216   , 222.66.39.219   , 109 , [L2]Suzhou Littelfuse OVS Ltd
+222.66.39.224   , 222.66.39.227   ,  90 , [L1]Shanghai Municipal Public Security Bureau Baoshan Branch
+222.66.40.72    , 222.66.40.79    , 109 , [L2]China Telecom Operation Exhibition
+222.66.40.80    , 222.66.40.95    ,  90 , [L1]Guoxin Lucent Tech. Network Tech. Co., Ltd
+222.66.41.24    , 222.66.41.27    , 109 , [L2]Shanghai Panac Plastic Film Co.,Ltd
+222.66.42.44    , 222.66.42.47    ,  90 , [L1]AiLianPuLang (Shanghai) Software Development Co.,Ltd
+222.66.42.132   , 222.66.42.135   ,  90 , [L1]Shanghai Municipal Drug Administration Luwan Branch
+222.66.42.216   , 222.66.42.219   ,  90 , [L1]Stratocracy
+222.66.42.224   , 222.66.42.227   ,  90 , [L1]Cisco System (China) Research And Development Co., Ltd
+222.66.44.44    , 222.66.44.47    ,  90 , [L1]Sega (Shanghai) Software Co., Ltd
+222.66.44.68    , 222.66.44.75    ,  90 , [L1]Stratocracy
+222.66.44.152   , 222.66.44.155   ,  90 , [L1]Shanghai Municipal Public Security Bureau Baoshan Branch
+222.66.48.0     , 222.66.48.63    ,  90 , [L1]Shanghai Ogilvy & Mather Advertising Ltd
+222.66.48.192   , 222.66.48.255   ,  90 , [L1]Shanghai Municipal People\\
+222.66.49.64    , 222.66.49.71    ,  90 , [L1]FUJITSU PC CHINA DIVISION
+222.66.49.164   , 222.66.49.167   ,  90 , [L1]SHANGHAI PHILIPS ELECTRIC APPLIANCE CO.,LTD
+222.66.50.128   , 222.66.50.143   ,  90 , [L1]TOSHIBA ELEVATOR (SHANGHAI) CO., LTD
+222.66.51.80    , 222.66.51.87    ,  90 , [L1]Ibm China Company Limited Shanghai Branch
+222.66.51.120   , 222.66.51.123   ,  90 , [L1]Stratocracy
+222.66.51.160   , 222.66.51.163   ,  90 , [L1]IBM Solution&services co,LTD
+222.66.51.172   , 222.66.51.175   ,  90 , [L1]China Telecom U.S.A. Co.,Ltd
+222.66.51.220   , 222.66.51.223   ,  90 , [L1]MITSUBISHI CIRPORATION(SHANGHAI)LIMITED
+222.66.52.16    , 222.66.52.23    ,  90 , [L1]Stratocracy
+222.66.52.232   , 222.66.52.235   ,  90 , [L1]Vison&Elkins Llp Beijing Office
+222.66.53.64    , 222.66.53.127   ,  90 , [L1]GE (CHINA) CO., LTD
+222.66.54.32    , 222.66.54.35    ,  90 , [L1]Chongqing Zhaohua Digital Entertainment Co., Ltd. Shanghai Branch
+222.66.55.200   , 222.66.55.203   ,  90 , [L1]Shanghai Yuanmei Computer Science&Technology Service Co.,Ltd
+222.66.55.208   , 222.66.55.211   ,  90 , [L1]Shanghai XingTeng Computer Information Co.,Ltd
+222.66.55.220   , 222.66.55.223   , 109 , [L2]Tianjin Zhongtian Yuntong International Freight Deputize Co.Ltd
+222.66.55.224   , 222.66.56.7     ,  90 , [L1]Shanghai Yangpu Information Office
+222.66.56.24    , 222.66.56.31    , 109 , [L2]Shanghai Jardine Engineering Co., Ltd
+222.66.56.68    , 222.66.56.71    ,  90 , [L1]DACHENG LAW OFFICE SHANGHAI OFFICE
+222.66.56.176   , 222.66.56.183   ,  90 , [L1]SHANGHAI POLICE STATION PUDONG SUBSTAION
+222.66.57.192   , 222.66.57.223   ,  90 , [L1]PRICEWATERHOUSE COOPERS ZHONGTIAN CERTIFIED ACCOUNTANTS CO.LTD
+222.66.58.68    , 222.66.58.71    ,  90 , [L1]AiLianPuLang (Shanghai) Software Development Co.,Ltd
+222.66.58.240   , 222.66.58.243   ,  90 , [L1]Stratocracy
+222.66.59.32    , 222.66.59.35    ,  90 , [L1]China Telecom U.S.A. Co.,Ltd
+222.66.59.64    , 222.66.59.67    , 109 , [L2]Dupont (China) Research&development And Management Co.,Ltd
+222.66.59.68    , 222.66.59.71    ,  90 , [L1]Intel China Ltd
+222.66.59.180   , 222.66.59.183   , 109 , [L2]Shanghai Folk Musical Instrument One Factory
+222.66.59.204   , 222.66.59.207   ,  90 , [L1]East China Normal University Press
+222.66.59.232   , 222.66.59.235   ,  90 , [L1]Stratocracy
+222.66.60.80    , 222.66.60.87    ,  90 , [L1]Dorsey&Whitney LLP Shanghai Office
+222.66.61.44    , 222.66.61.47    ,  90 , [L1]China Telecom U.S.A. Co.,Ltd
+222.66.61.112   , 222.66.61.123   ,  90 , [L1]Agfa (Wuxi) Printing Plate Co.,Ltd
+222.66.61.176   , 222.66.61.179   ,  90 , [L1]Shangahi Lizhao Lawer Institution
+222.66.62.8     , 222.66.62.11    ,  90 , [L1]Army And Polity
+222.66.62.136   , 222.66.62.139   ,  90 , [L1]Stratocracy
+222.66.62.172   , 222.66.62.175   ,  90 , [L1]Stratocracy
+222.66.62.228   , 222.66.62.231   , 109 , [L2]Siic Shanghai (Conglomerate) Co.,Ltd
+222.66.62.252   , 222.66.62.255   , 109 , [L2]FUJIFILM ELECTRONIC MATERIALS(SHUZHOU)CO.,LTD SHANGHAI BRANCH
+222.66.63.20    , 222.66.63.23    ,  90 , [L1]China Telecom U.S.A. Co.,Ltd
+222.66.63.136   , 222.66.63.143   ,  97 , [MS]Microsoft (China) Co.,Ltd. Shanghai Branch
+222.66.63.184   , 222.66.63.187   ,  90 , [L1]Stratocracy
+222.66.64.224   , 222.66.64.239   ,  90 , [L1]Atosorigin IT Shanghai Co.,Ltd
+222.66.66.52    , 222.66.66.55    ,  90 , [L1]SIEMENS (CHINA) CO.,LTD
+222.66.66.104   , 222.66.66.107   ,  90 , [L1]Stratocracy
+222.66.66.144   , 222.66.66.147   ,  90 , [L1]Stratocracy
+222.66.66.160   , 222.66.66.163   ,  90 , [L1]Stratocracy
+222.66.67.60    , 222.66.67.63    ,  90 , [L1]SIEMENS SHANGHAI MOBILE COMMUNICATIONS LTD
+222.66.67.144   , 222.66.67.147   ,  90 , [L1]China Telecom U.S.A. Co.,Ltd
+222.66.67.188   , 222.66.67.191   ,  90 , [L1]HOLMAN FENWICK&WILLAN SHANGHAI OFFICE(UK)
+222.66.67.248   , 222.66.67.251   ,  90 , [L1]Electronics Consulting System (Shanghai) Co., Ltd
+222.66.68.112   , 222.66.68.119   ,  90 , [L1]GAMELOFT CO.,LTD
+222.66.69.64    , 222.66.69.67    , 109 , [L2]Jiangsu Zhongda Xincailiao International Trading Co.,Ltd
+222.66.69.152   , 222.66.69.155   ,  90 , [L1]Nation Center For Developing Animation Cartoon&Game
+222.66.69.232   , 222.66.69.235   ,  90 , [L1]Stratocracy
+222.66.70.32    , 222.66.70.35    ,  90 , [L1]Shanghai Pudong Judicature Office
+222.66.70.48    , 222.66.70.51    ,  90 , [L1]Shanghai Customs
+222.66.70.72    , 222.66.70.75    ,  90 , [L1]Freshfields Brvckhavs Deringer
+222.66.71.52    , 222.66.71.55    ,  90 , [L1]Stratocracy
+222.66.71.84    , 222.66.71.87    ,  90 , [L1]Stratocracy
+222.66.71.188   , 222.66.71.191   ,  90 , [L1]BEIJING DENTSU AD. CO.,LTD. SHANGHAI BRANCH
+222.66.72.24    , 222.66.72.31    ,  90 , [L1]Stratocracy
+222.66.73.12    , 222.66.73.15    , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.73.136   , 222.66.73.139   ,  90 , [L1]Accenture Technology Solutions (Dalian)Co.,Ltd.Shanghai
+222.66.73.200   , 222.66.73.203   ,  90 , [L1]Stratocracy
+222.66.73.224   , 222.66.73.231   ,  90 , [L1]GAMELOFT CO.,LTD
+222.66.75.20    , 222.66.75.23    ,  90 , [L1]The Bund Picture Co.,Ltd
+222.66.75.64    , 222.66.75.71    , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.75.136   , 222.66.75.151   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.76.20    , 222.66.76.23    ,  90 , [L1]Shanghai Luwan Goverment Ruijin No.2 Rd., Street Office
+222.66.77.124   , 222.66.77.127   ,  90 , [L1]Shanghai Qimei Audio&Video Co., Ltd. Lianyuan Rd. Filiale
+222.66.80.32    , 222.66.80.35    ,  90 , [L1]Stratocracy
+222.66.80.84    , 222.66.80.87    ,  90 , [L1]Stratocracy
+222.66.80.132   , 222.66.80.135   , 109 , [L2]Zhejiang Xinhua Futures Jinji Co., Ltd., Shanghai Branch
+222.66.82.88    , 222.66.82.95    , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.82.132   , 222.66.82.135   , 109 , [L2]Nordic Center Fudan University
+222.66.82.188   , 222.66.82.195   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.83.68    , 222.66.83.71    , 109 , [L2]FUJIFILM
+222.66.83.152   , 222.66.83.155   ,  90 , [L1]Shanghai Lenovo Electronics Co., Ltd
+222.66.83.176   , 222.66.83.183   ,  90 , [L1]BECHTEL (CHINA) eNGINEERING CO.,LTD
+222.66.83.200   , 222.66.83.207   ,  90 , [L1]SHANGHAI LINGYAN DIGITAL PICTURES CO., LTD
+222.66.84.144   , 222.66.84.167   ,  90 , [L1]GAMANIA DIGITAL ENTERTAINMENT (BEIJING) CO.,LTD
+222.66.84.248   , 222.66.84.255   ,  90 , [L1]GAMANIA DIGITAL ENTERTAINMENT (BEIJING) CO.,LTD
+222.66.86.0     , 222.66.86.3     , 109 , [L2]Control Risks Group (Shanghai) Limited
+222.66.86.104   , 222.66.86.107   ,  90 , [L1]Shanghai 2nd. People Court
+222.66.86.132   , 222.66.86.135   ,  90 , [L1]Stratocracy
+222.66.87.228   , 222.66.87.231   ,  90 , [L1]Tiance (Shanghai) Lawyer Business Place
+222.66.88.8     , 222.66.88.15    ,  90 , [L1]Shanghai Research Institute of China telecom cot.d
+222.66.89.100   , 222.66.89.103   ,  90 , [L1]Shanghai Qingfeng Video Co., Ltd
+222.66.90.232   , 222.66.90.235   ,  90 , [L1]LEHMAN&CO. (BEIJING) LTD
+222.66.91.60    , 222.66.91.63    ,  90 , [L1]Shanghai Bund de Rockefeller Group Master Development Co.,Ltd
+222.66.91.88    , 222.66.91.91    ,  90 , [L1]Beijing Runming Lawyer Place Shanghai Branch
+222.66.92.40    , 222.66.92.43    ,  90 , [L1]Stratocracy
+222.66.92.196   , 222.66.92.199   ,  90 , [L1]Dalian Toshiba TV Co.,Ltd Shanghai Branch
+222.66.94.176   , 222.66.94.179   , 109 , [L2]Audiopro Electronics (Shanghai) Co., Ltd
+222.66.96.32    , 222.66.96.39    , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.96.176   , 222.66.96.179   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.98.152   , 222.66.98.155   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.98.168   , 222.66.98.171   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.98.180   , 222.66.98.183   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.98.188   , 222.66.98.191   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.98.220   , 222.66.98.227   ,  90 , [L1]GAMANIA DIGITAL ENTERTAINMENT (BEIJING) CO.,LTD
+222.66.98.228   , 222.66.98.231   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.101.4    , 222.66.101.7    ,  90 , [L1]Siemens Shanghai Medical Equipment Ltd
+222.66.101.60   , 222.66.101.63   , 109 , [L2]Ruike (Shanghai) Physician Appliance Co., Ltd
+222.66.101.116  , 222.66.101.119  ,  90 , [L1]TOSHIBA (CHINA) Co.,Ltd. SHANGHAI BRANCH
+222.66.102.16   , 222.66.102.19   ,  90 , [L1]Stratocracy
+222.66.102.240  , 222.66.102.243  , 109 , [L2]Out Of House Telephone Kiosk Networking Video Advertisement\\\" Experimental
+222.66.106.104  , 222.66.106.111  ,  90 , [L1]Entriq China Technology And Internet Company
+222.66.106.248  , 222.66.106.251  ,  90 , [L1]GE (CHINA) CO., LTD
+222.66.107.52   , 222.66.107.55   , 109 , [L2]Shanghai Yake Music Food Co.,Ltd
+222.66.107.88   , 222.66.107.91   ,  90 , [L1]Stratocracy
+222.66.107.112  , 222.66.107.115  ,  90 , [L1]INTEL ASIA-PACIFIC RESEARCH&DEVELOPMENT LTD
+222.66.107.156  , 222.66.107.159  ,  90 , [L1]Stratocracy
+222.66.110.16   , 222.66.110.19   ,  90 , [L1]Mitsubishi Heavy Industries Imprinter (Hongkong) Co., Ltd. Shanghai Rep. Off
+222.66.113.16   , 222.66.113.23   ,  90 , [L1]Embassy of the Grand-duchy of Luxembourg
+222.66.113.32   , 222.66.113.35   ,  90 , [L1]Stratocracy
+222.66.113.212  , 222.66.113.215  ,  90 , [L1]Shanghai Municipal Food&Drug Administration Jing-an Branch
+222.66.113.232  , 222.66.113.235  , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.114.192  , 222.66.114.199  , 109 , [L2]ZTE  CORPORATION
+222.66.118.16   , 222.66.118.19   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.118.76   , 222.66.118.79   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.118.88   , 222.66.118.91   ,  90 , [L1]SCHOLASTIC EDUCATION INFORMATION CONSULTING (SHANGHAI) CO.,LTD
+222.66.118.100  , 222.66.118.103  ,  90 , [L1]GE (CHINA) CO., LTD
+222.66.118.104  , 222.66.118.107  , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.118.116  , 222.66.118.119  ,  90 , [L1]Stratocracy
+222.66.118.148  , 222.66.118.151  , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.118.152  , 222.66.118.155  ,  90 , [L1]Viacom (Asia) Co., Ltd. Shanghai Representative Office
+222.66.118.180  , 222.66.118.183  , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.118.204  , 222.66.118.207  , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.118.212  , 222.66.118.215  ,  90 , [L1]International Law Firm Shanghai Rep. Office
+222.66.118.220  , 222.66.118.223  , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.118.236  , 222.66.118.239  ,  90 , [L1]Intel China Ltd
+222.66.120.32   , 222.66.120.47   ,  90 , [L1]AGB Nielsen Market Research (Guangzhou) Co., Ltd
+222.66.121.48   , 222.66.121.79   ,  90 , [L1]Bureau of Shanghai World Expo Correspond Administration Center
+222.66.122.128  , 222.66.122.143  ,  90 , [L1]Bain Capital Advisors (China) Ltd
+222.66.123.64   , 222.66.123.71   , 109 , [L2]Shanghai Star Group Xin Chen Real Estate Co.,Ltd
+222.66.123.72   , 222.66.123.75   ,  90 , [L1]Shanghai New Age Music Video Co
+222.66.125.160  , 222.66.125.163  ,  90 , [L1]Stratocracy
+222.66.125.204  , 222.66.125.207  , 109 , [L2]Shanghai Junlang Architecture Decorate Co., Ltd
+222.66.128.80   , 222.66.128.87   ,  90 , [L1]Trend Micro (China) Co., Ltd
+222.66.129.72   , 222.66.129.79   ,  90 , [L1]Shanghai Fuyite Siemens Water&Power Equipment Co., Ltd
+222.66.129.88   , 222.66.129.95   ,  90 , [L1]Shanghai Fuyite Siemens Water&Power Equipment Co., Ltd
+222.66.131.192  , 222.66.131.195  ,  90 , [L1]MITSUBISHI ELECTRIC SHANGHAI ELECTRIC ELEVATOR CO.,LTD
+222.66.131.240  , 222.66.131.243  ,  90 , [L1]Stratocracy
+222.66.139.64   , 222.66.139.95   ,  90 , [L1]PLATINUM SOFTWARE SYSTEM SHANGHAI CO., LTD
+222.66.140.24   , 222.66.140.27   , 109 , [L2]Out Of House Telephone Kiosk Networking Video Advertisement\\\" Experimental
+222.66.140.36   , 222.66.140.39   , 109 , [L2]Out Of House Telephone Kiosk Networking Video Advertisement\\\" Experimental
+222.66.140.104  , 222.66.140.107  ,  90 , [L1]Stratocracy
+222.66.140.164  , 222.66.140.167  ,  90 , [L1]VINSON & ELKINS SHANGHAI OFFICE (USA)
+222.66.140.196  , 222.66.140.199  , 109 , [L2]Power Virgin Trading (Shanghai) Co., Ltd
+222.66.143.104  , 222.66.143.111  ,  90 , [L1]Shanghai Police Bureau
+222.66.144.28   , 222.66.144.31   , 109 , [L2]Dsm (China) Limited
+222.66.144.52   , 222.66.144.59   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.144.60   , 222.66.144.63   ,  90 , [L1]Shanghai Telecommunication Technology Development Co., Ltd. Video&Data Branc
+222.66.144.64   , 222.66.144.163  , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.144.236  , 222.66.144.239  ,  90 , [L1]Surfcontrol (Beijing) Co., Ltd
+222.66.145.224  , 222.66.145.255  , 109 , [L2]PUBLICIS ADVERTISING CO., LTD. SHANGHAI BRANCH
+222.66.146.32   , 222.66.146.35   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.66.146.104  , 222.66.146.111  ,  90 , [L1]China Telecom U.S.A. Co.,Ltd
+222.66.147.12   , 222.66.147.15   ,  90 , [L1]Shanghai Haiyi Law Office
+222.66.147.120  , 222.66.147.127  ,  90 , [L1]Entriq China Technology And Internet Company
+222.66.147.208  , 222.66.147.223  ,  90 , [L1]Fleishman-Hillard International Communications Shanghai Office
+222.66.155.84   , 222.66.155.87   , 109 , [L2]Virtela Communications
+222.66.159.8    , 222.66.159.23   ,  90 , [L1]Shanghai HP Co.,Ltd
+222.66.164.32   , 222.66.164.47   ,  90 , [L1]Unigraphics System (China) Co., Ltd
+222.66.164.224  , 222.66.164.239  ,  90 , [L1]GE Supply (Shanghai) Co., Ltd
+222.66.165.24   , 222.66.165.31   ,  90 , [L1]SHANGHAI POLICE HIGH COLLEGE
+222.66.165.128  , 222.66.165.159  ,  90 , [L1]ACCENTURE TECHNOLOGY SDUTIONS (DALIAN) CO., LTD
+222.66.166.72   , 222.66.166.79   ,  90 , [L1]Entriq China Technology And Internet Company
+222.66.166.112  , 222.66.166.119  , 109 , [L2]Magna International Transport Co.,Ltd
+222.66.166.160  , 222.66.166.175  ,  90 , [L1]CARLYLE ASIA INVESTMENT ADVISORS LIMITED SHANGHAI REP.OFFICE
+222.66.167.32   , 222.66.167.35   ,  90 , [L1]walt disney (Shanghai) Co.,Ltd
+222.66.167.204  , 222.66.167.207  ,  90 , [L1]Gamigo Net Technology (Shanghai) Co., Ltd
+222.66.169.48   , 222.66.169.51   ,  90 , [L1]Stratocracy
+222.66.169.84   , 222.66.169.87   , 109 , [L2]FUJIFILM (CHINA) INVESTMENT CO.,LTD
+222.66.169.188  , 222.66.169.191  , 109 , [L2]Fudan University Innovation Base
+222.66.169.220  , 222.66.169.223  , 109 , [L2]Shanghai Jiaotong University Ruijin Hospital
+222.66.170.172  , 222.66.170.175  ,  90 , [L1]SHANGHAI PUDONG SANLIN PEOPLE GOVEMENT
+222.66.192.84   , 222.66.192.87   ,  90 , [L1]Dongruan Philips Medical Treatment Equipment System Co., Ltd
+222.66.195.96   , 222.66.195.111  ,  90 , [L1]JVC Trading (Shanghai) Co., Ltd
+222.66.195.112  , 222.66.195.127  , 115 , [SD]Google Information Technology (Shanghai) Co., Ltd
+222.66.195.224  , 222.66.195.239  , 109 , [L2]KPMG HUAZHEN SHANGHAI BRANCH
+222.66.195.240  , 222.66.195.247  , 115 , [SD]Google Information Technology (Shanghai) Co., Ltd
+222.66.197.248  , 222.66.197.251  ,  90 , [L1]TOSHIBA Electron Management (China) Co., Ltd
+222.66.204.4    , 222.66.204.7    ,  90 , [L1]MITSUBISHI HITACHI Made Of Iron Mechanic Co., Ltd., Shanghai Rep Office
+222.66.224.240  , 222.66.224.243  ,  90 , [L1]Shanghai Police Minhang Substation
+222.66.225.0    , 222.66.225.7    ,  90 , [L1]Dell (China) Co., Ltd. Shanghai Branch
+222.66.225.148  , 222.66.225.151  ,  90 , [L1]Shanghai Huangpu District People Govement
+222.66.225.224  , 222.66.225.227  ,  90 , [L1]Shanghai Cisco Manpower Exchequer Adviser Co., Ltd
+222.66.226.176  , 222.66.226.179  ,  90 , [L1]Packardbell Electron Technology Service (Shanghai) Co., Ltd
+222.66.229.16   , 222.66.229.19   ,  90 , [L1]Traffic Shanghai Ocean Saving Salvage Ministry
+222.66.229.116  , 222.66.229.119  , 109 , [L2]Gibson China Musical Instrumen Trade Co., Lltd
+222.66.230.156  , 222.66.230.159  , 109 , [L2]Zhejiang Xinhua Futures Jinji Co., Ltd., Shanghai Branch
+222.66.232.32   , 222.66.232.63   ,  90 , [L1]No.1 Branch Of Shanghai Municipal Procuratorate
+222.66.235.168  , 222.66.235.175  ,  90 , [L1]Shanghai Municipal Public Security Bureau Baoshan Branch
+222.66.235.184  , 222.66.235.191  ,  90 , [L1]SONY (China) Ltd. Shanghai Branch
+222.66.239.144  , 222.66.239.159  ,  90 , [L1]USA Sea Land International Lawyer Office Shanghai Rep. Office
+222.68.16.0     , 222.68.16.63    ,  90 , [L1]THE CHINESE PEOPLES LIBERATION ARMY
+222.68.178.40   , 222.68.178.47   ,  90 , [L1]SHANGHAI POLICE HIGH COLLEGE
+222.68.179.212  , 222.68.179.215  ,  90 , [L1]Shanghai Guangda Lawyer Place
+222.68.180.104  , 222.68.180.107  ,  90 , [L1]Stratocracy
+222.68.180.108  , 222.68.180.111  , 109 , [L2]Federal Express Co. Shanghai Office
+222.68.180.128  , 222.68.180.131  ,  90 , [L1]Stratocracy
+222.68.180.136  , 222.68.180.139  , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.68.180.148  , 222.68.180.155  , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.68.180.160  , 222.68.180.163  , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.68.180.164  , 222.68.180.167  ,  90 , [L1]Stratocracy
+222.68.180.188  , 222.68.180.191  ,  90 , [L1]Cisco Systems(China)Research and Development Co.,Ltd
+222.68.180.212  , 222.68.180.215  ,  90 , [L1]Stratocracy
+222.68.180.220  , 222.68.180.223  , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.68.180.244  , 222.68.180.247  ,  90 , [L1]Shanghai police Minhang Substation
+222.68.181.208  , 222.68.181.223  ,  90 , [L1]The Third Research Institute Of The Ministry Of Public Security Of P.R.A
+222.68.183.0    , 222.68.183.3    ,  90 , [L1]Shanghai Motorola correspondence produce Co.,Ltd
+222.68.183.24   , 222.68.183.27   ,  90 , [L1]Sony Logistics Business (Shanghai) Co., Ltd
+222.68.183.96   , 222.68.183.99   ,  90 , [L1]Germany Shuiyi Anbaibao Tax Refer And Lawyer Cobber Co., Ltd. Shanghai Rep. 
+222.68.183.144  , 222.68.183.151  ,  90 , [L1]HIDEWAY SOFTWARE DEVELOPMENT (SHENZHEN) CO., LTD. SHANGHAI BRANCH
+222.68.184.144  , 222.68.184.147  , 109 , [L2]Cognizant Information Technology (Shanghai) Co., Ltd
+222.68.184.216  , 222.68.184.223  ,  90 , [L1]UNISYS (SHANGHAI) INFORMATION TECHNOLOGY CO., LTD
+222.68.186.8    , 222.68.186.11   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.68.186.32   , 222.68.186.35   ,  90 , [L1]Stratocracy
+222.68.186.76   , 222.68.186.79   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.68.186.96   , 222.68.186.99   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.68.186.216  , 222.68.186.219  ,  90 , [L1]Stratocracy
+222.68.186.252  , 222.68.186.255  ,  90 , [L1]Stratocracy
+222.68.187.116  , 222.68.187.119  ,  90 , [L1]PEARL DIGITAL SOFTWARE DEVELOPMENT (SHANGHAI) CO., LTD
+222.68.188.224  , 222.68.188.255  ,  90 , [L1]ACCENTURE TECHNOLOGY SDUTIONS (DALIAN) CO., LTD
+222.68.190.32   , 222.68.190.35   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.68.190.68   , 222.68.190.71   , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.68.190.84   , 222.68.190.87   ,  90 , [L1]JVC Trading (Shanghai) Co., Ltd
+222.68.190.172  , 222.68.190.175  , 109 , [L2]Outdoor Telephone Booth Video Ad
+222.68.191.32   , 222.68.191.35   ,  90 , [L1]Shanghai NanXingGong Entertainment Co.,Ltd
+222.68.191.40   , 222.68.191.47   , 109 , [L2]ZTE  CORPORATION
+222.68.248.204  , 222.68.248.207  ,  90 , [L1]Shanghai UBI Computer Co.,Ltd
+222.68.248.240  , 222.68.248.247  ,  90 , [L1]Capgemini (Shanghai) Co.,Ltd
+222.69.10.112   , 222.69.10.112   , 109 , [L2]Tor.Unnamed
+222.71.27.170   , 222.71.27.170   , 119 , [TL]p2p Corrupt Data Senders
+222.72.132.166  , 222.72.132.166  , 107 , [PT]Proxy
+222.73.4.46     , 222.73.4.62     , 109 , [L2]null
+222.73.4.66     , 222.73.4.85     , 109 , [L2]null
+222.73.4.107    , 222.73.4.126    , 109 , [L2]null
+222.73.4.160    , 222.73.4.239    , 109 , [L2]null
+222.73.4.252    , 222.73.4.254    , 109 , [L2]null
+222.73.5.2      , 222.73.5.61     , 109 , [L2]null
+222.73.5.64     , 222.73.5.255    , 109 , [L2]null
+222.73.10.66    , 222.73.10.105   , 109 , [L2]null
+222.73.10.130   , 222.73.10.189   , 109 , [L2]null
+222.73.10.230   , 222.73.10.254   , 109 , [L2]null
+222.73.11.140   , 222.73.11.190   , 109 , [L2]null
+222.73.11.194   , 222.73.11.253   , 109 , [L2]null
+222.73.25.80    , 222.73.25.95    ,  90 , [L1]CHINANET|Anti-p2p
+222.73.27.231   , 222.73.27.237   ,  90 , [L1]CHINANET|Anti-p2p
+222.73.37.203   , 222.73.37.203   , 111 , [SW]traffcount.cn
+222.73.46.0     , 222.73.46.127   ,  90 , [L1]CHINANET|Anti-p2p
+222.73.69.198   , 222.73.69.198   , 107 , [PT]Proxy
+222.73.93.248   , 222.73.93.248   , 107 , [PT]Proxy
+222.73.106.192  , 222.73.106.223  ,  90 , [L1]CHINANET|Anti-p2p
+222.73.207.86   , 222.73.207.86   ,  90 , [L1]fake emule servers
+222.73.207.171  , 222.73.207.171  , 109 , [L2]wantsfly.com
+222.73.218.136  , 222.73.218.136  , 119 , [TL]ChinaNet Shanghai broadband gnu spammer
+222.73.227.222  , 222.73.227.222  , 111 , [SW]inside-stats.bitcomet.com
+222.73.236.25   , 222.73.236.25   , 111 , [SW]www.cpccpmlead.com
+222.73.236.27   , 222.73.236.27   , 111 , [SW]www.golf1997.com
+222.73.240.203  , 222.73.240.203  , 109 , [L2]Tor.OneServer
+222.73.251.0    , 222.73.251.255  ,  90 , [L1]CDC Games
+222.74.200.2    , 222.74.200.2    , 107 , [PT]Proxy
+222.74.224.0    , 222.74.229.255  ,  70 , [BG]Bogus AS Advertisements
+222.76.149.48   , 222.76.149.55   ,  90 , [L1]Water and electricity 8 detachment
+222.76.150.0    , 222.76.150.63   ,  90 , [L1]With the information centre of governmen
+222.76.201.64   , 222.76.201.95   , 109 , [L2]Institute of economics of Xiamen
+222.76.242.0    , 222.76.243.255  ,  90 , [L1]XiaMen Electron Governmetn affair
+222.77.98.198   , 222.77.98.198   , 107 , [PT]Proxy
+222.77.179.240  , 222.77.179.255  ,  90 , [L1]CHINANET|Anti-p2p
+222.77.187.134  , 222.77.187.134  , 107 , [PT]Proxy
+222.77.187.157  , 222.77.187.157  , 107 , [PT]Proxy
+222.82.233.25   , 222.82.233.27   ,  90 , [L1]WLMQ-NETENFORCE
+222.83.255.116  , 222.83.255.119  ,  90 , [L1]Guangxi,Nanning ,municipality Party committee
+222.85.94.20    , 222.85.94.20    ,  95 , [FK]eserver 17.15
+222.88.0.0      , 222.89.255.255  ,  90 , [L1]CHINANET henan province network
+222.90.2.241    , 222.90.2.241    , 109 , [L2]Tor.Unnamed
+222.90.117.89   , 222.90.117.89   , 109 , [L2]Tor.spaceccf2be5b6
+222.90.144.166  , 222.90.144.166  , 109 , [L2]Tor.Unnamed
+222.92.2.160    , 222.92.2.167    ,  90 , [L1]SUZHOU ENTRY-EXIT INSPECTION AND QUARANTINE BUREAU
+222.92.3.0      , 222.92.3.7      ,  90 , [L1]Suzhou NOKIA CO.,LTD
+222.92.5.16     , 222.92.5.31     ,  90 , [L1]Sunzhou yilian netwok science technology co.,LTD
+222.92.7.16     , 222.92.7.67     ,  90 , [L1]Public Secuity Bureau office Wujiang city
+222.92.7.72     , 222.92.7.255    ,  90 , [L1]Public Secuity Bureau office Wujiang city
+222.92.10.80    , 222.92.10.95    ,  90 , [L1]KUNSHAN POLICE BUREAU
+222.92.11.180   , 222.92.11.183   ,  90 , [L1]Kunshan Diguan Software Develop Co.,ltd
+222.92.12.160   , 222.92.12.167   ,  90 , [L1]Suzhou a military area
+222.92.12.192   , 222.92.12.199   ,  90 , [L1]Suzhou government Engineering Group CO.,LTD
+222.92.13.204   , 222.92.13.207   ,  90 , [L1]Suzhou Pingjiang Govement Adult Bureau
+222.92.16.184   , 222.92.16.191   ,  90 , [L1]Suzhou Meiri Film Electronic Co.,ltd
+222.92.22.72    , 222.92.22.79    , 109 , [L2]EELOITTE TOUCHE MANAGEMENT STRATEGY CONSULTING SHANGHAI CO.,LTD
+222.92.22.240   , 222.92.22.247   , 109 , [L2]Taike Video System Co., Ltd
+222.92.23.144   , 222.92.23.151   ,  90 , [L1]Litton Electronics Suzhou Co,.Ltd
+222.92.24.128   , 222.92.24.131   ,  90 , [L1]Suzhou People Govement
+222.92.26.0     , 222.92.26.15    ,  90 , [L1]Suzhou Middle People
+222.92.29.200   , 222.92.29.207   ,  90 , [L1]Panasonic tech Suzhou Co,. Ltd
+222.92.30.240   , 222.92.30.247   ,  90 , [L1]FOUNDER SOFTWARE SUZHOU CO.LTD
+222.92.38.200   , 222.92.38.207   , 109 , [L2]Suzhou Taiteer Network Ministry Co., Ltd
+222.92.41.224   , 222.92.41.255   ,  70 , [BG]Bogus AS Advertisements
+222.92.42.96    , 222.92.42.103   ,  90 , [L1]BACHENG KUNSHAN SOFTWARE PARK HOTEL
+222.92.46.164   , 222.92.46.167   ,  90 , [L1]Suzhou NOKIA CO.,LTD
+222.92.46.236   , 222.92.46.239   ,  90 , [L1]Suzhou Siemens Co.,Ltd
+222.92.47.80    , 222.92.47.87    ,  90 , [L1]New Tianlun lawoffice
+222.92.47.208   , 222.92.47.215   ,  90 , [L1]Suzhou Foreign Affairs Service Centre Co,Ltd
+222.92.53.12    , 222.92.53.15    ,  90 , [L1]SuZhou ISR e-films co,. Ltd
+222.92.53.100   , 222.92.53.103   ,  90 , [L1]the people court of taicang co.ltd
+222.92.60.144   , 222.92.60.151   ,  90 , [L1]Suzhou Gongzheng Lawyer Office
+222.92.60.176   , 222.92.60.191   ,  90 , [L1]Suzhou TV station
+222.92.61.116   , 222.92.61.119   ,  90 , [L1]Suzhou Zhenxin Lawyer Office
+222.92.63.224   , 222.92.63.231   , 109 , [L2]Suzhou University Electronic Communication Engineering
+222.92.69.112   , 222.92.69.119   ,  90 , [L1]Zhangjiagang Gardens Virescence Bureau of Administration
+222.92.72.80    , 222.92.72.87    ,  90 , [L1]THE GOVEMMENT OF HAIYU TOWN
+222.92.75.8     , 222.92.75.15    ,  90 , [L1]Nokia.Investment.Co,Ttd
+222.92.80.88    , 222.92.80.95    ,  90 , [L1]Suzhou.Fuzhi.Film.Image.Enginery.Co,Ttd
+222.92.82.64    , 222.92.82.71    ,  90 , [L1]Changshu Public security men fire control group
+222.92.85.16    , 222.92.85.23    ,  90 , [L1]THE CHINESE PEOPLES L-ARMY FOREIGN LANGUAGE SCHOOL KUNSHAN EMBRANCHMENT
+222.92.85.216   , 222.92.85.223   , 109 , [L2]Agricultural Bank of China Kunshan Sub-Branch
+222.92.89.80    , 222.92.89.87    , 109 , [L2]Suzhou.Yuangpen.Car .Ministry.Co,Ttd
+222.92.94.8     , 222.92.94.11    , 109 , [L2]AGRICULTURAL BANK OF CHINA TAI CANG SUB-BRANCH
+222.92.96.200   , 222.92.96.203   ,  90 , [L1]Party Committee of ZiTang Town
+222.92.100.88   , 222.92.100.91   ,  90 , [L1]suzhou lixin lawyer office
+222.92.103.16   , 222.92.103.23   ,  90 , [L1]Suzhou.Police. pointsman.Recuperate.Base.Co,Ttd
+222.92.104.40   , 222.92.104.47   , 109 , [L2]Suzhou.Yuxi.International.Inculcate.Garden.Colligate.Ministry.Co,Ttd
+222.92.105.0    , 222.92.105.3    ,  90 , [L1]Zhangjiagang Procuratorate Bureau
+222.92.105.32   , 222.92.105.35   ,  90 , [L1]Zhangjigang Jingang Town Goverment
+222.92.106.240  , 222.92.106.255  ,  90 , [L1]ChangShu Intellectualized  Network Engineering Co,LTD
+222.92.110.0    , 222.92.110.15   , 109 , [L2]FOXCONN KUNSHAN COMPUTER CONNECTOR CO.LTD
+222.92.110.112  , 222.92.110.119  ,  90 , [L1]Kunshan general electrical industrial company
+222.92.113.152  , 222.92.113.159  ,  90 , [L1]Suzhou.Industrial.Park.Police.substation
+222.92.113.160  , 222.92.113.167  , 109 , [L2]Suzhou.Jiafu.Xinwang.Ejia.Meshwork.Ministry.Co.,Ltd
+222.92.114.0    , 222.92.114.7    ,  90 , [L1]Suzhou Panasonic Ideas For Life Co.,Ltd
+222.92.114.136  , 222.92.114.143  , 109 , [L2]Suzhou.Tianlai.Commerce.Lie.Fallow.Chamber.Co,Ttd
+222.92.126.232  , 222.92.126.239  ,  90 , [L1]Suzhou TRW Automotive Electronics Co., Ltd
+222.92.127.176  , 222.92.127.183  , 109 , [L2]MSI ELECRTONICS CO.,LTD
+222.92.208.225  , 222.92.208.225  , 111 , [SW]MS Word Exploit|BT
+222.96.33.218   , 222.96.33.218   , 109 , [L2]Daewoo Information System Co., Ltd
+222.97.189.4    , 222.97.189.4    , 113 , [AD]okcounter.com
+222.103.77.195  , 222.103.77.197  , 109 , [L2]Daewoo Information System Co., Ltd
+222.103.227.50  , 222.103.227.50  , 119 , [TL]P2P Fake Files
+222.104.118.93  , 222.104.118.93  , 109 , [L2]Daewoo Information System Co., Ltd
+222.106.76.140  , 222.106.76.140  ,  95 , [FK]Korea Telecom | -= eMuleServer No1
+222.106.184.0   , 222.106.184.255 , 109 , [L2]Samjong KPMG Inc
+222.106.218.0   , 222.106.218.255 ,  90 , [L1]SOFTON Entertainment
+222.107.34.53   , 222.107.34.53   , 107 , [PT]Tor
+222.108.24.129  , 222.108.24.129  , 109 , [L2]Daewoo Information System Co., Ltd
+222.108.75.113  , 222.108.75.113  ,  90 , [L1]Bittorrent fakes
+222.109.3.0     , 222.109.3.255   , 109 , [L2]Konkuk University Hospital
+222.109.36.137  , 222.109.36.137  ,  90 , [L1]daeumMedia
+222.109.112.63  , 222.109.112.63  , 109 , [L2]Daewoo Information System Co., Ltd
+222.110.125.8   , 222.110.125.8   ,  90 , [L1]monsantokoria(ju)
+222.111.144.16  , 222.111.144.16  , 109 , [L2]Daewoo Information System Co., Ltd
+222.111.168.0   , 222.111.171.255 ,  90 , [L1]Government Computer Center (GCC)
+222.111.176.0   , 222.111.176.255 ,  90 , [L1]Joymax
+222.111.248.0   , 222.111.255.255 ,  90 , [L1]Government Computer Center (GCC)
+222.114.118.100 , 222.114.118.100 , 109 , [L2]Daewoo Information System Co., Ltd
+222.117.1.78    , 222.117.1.78    ,  90 , [L1]taeyangACS
+222.117.1.91    , 222.117.1.91    ,  90 , [L1]taeyangACS
+222.119.48.10   , 222.119.48.10   , 109 , [L2]Daewoo Information System Co., Ltd
+222.119.106.0   , 222.119.106.127 ,  90 , [L1]segaPCbang
+222.121.123.91  , 222.121.123.91  , 109 , [L2]Abuse
+222.122.15.158  , 222.122.15.158  , 111 , [SW]zero-virus.co.kr
+222.122.64.0    , 222.122.79.255  ,  90 , [L1]KOREA TELECOM-ed2k_ap2p
+222.122.81.31   , 222.122.81.31   ,  95 , [FK]Republic Of Korea Telecom | [Korea Only Server]
+222.122.137.0   , 222.122.137.255 ,  90 , [L1]SOFTON Entertainment
+222.122.163.0   , 222.122.163.255 ,  90 , [L1]nofree.co.kr
+222.122.180.190 , 222.122.180.190 , 111 , [SW]www.nice8.org
+222.124.2.112   , 222.124.2.119   , 109 , [L2]PT PERTAMINA (Persero) DOH SUMBAGSEL
+222.124.35.112  , 222.124.35.119  ,  90 , [L1]HILTON BALI
+222.124.60.103  , 222.124.60.103  ,  90 , [L1]Bittorrent fakes
+222.124.121.144 , 222.124.121.144 , 119 , [TL]PT. Telekomunikasi static gnu viruses
+222.124.185.123 , 222.124.185.123 , 107 , [PT]Proxy
+222.124.198.136 , 222.124.198.136 , 107 , [PT]Proxy
+222.124.206.43  , 222.124.206.43  , 107 , [PT]Proxy
+222.124.217.60  , 222.124.217.60  , 107 , [PT]Proxy
+222.124.223.42  , 222.124.223.42  , 107 , [PT]Proxy
+222.126.1.192   , 222.126.1.199   , 109 , [L2]Digital Paradise Inc
+222.126.3.32    , 222.126.3.39    , 109 , [L2]Merck Sharp And Dohme Corporation -
+222.126.3.48    , 222.126.3.55    , 109 , [L2]Diversified Plastic Film System Inc
+222.126.3.104   , 222.126.3.111   ,  90 , [L1]GF NBC Tent 26th Bgy South Side MAKATI
+222.126.3.160   , 222.126.3.167   ,  90 , [L1]Embassy Of France
+222.126.4.176   , 222.126.4.183   , 109 , [L2]Sky International Inc
+222.126.4.208   , 222.126.4.223   , 109 , [L2]Sterling Paper Products Enterprises
+222.126.5.192   , 222.126.5.199   , 109 , [L2]Audiophile Components Incorporated
+222.126.6.0     , 222.126.6.7     ,  90 , [L1]Maravilla Ona Law and Acctng Office
+222.126.6.16    , 222.126.6.23    ,  90 , [L1]Digital Music Creatives Inc
+222.126.6.32    , 222.126.6.39    , 109 , [L2]Sky International Inc
+222.126.6.72    , 222.126.6.79    ,  90 , [L1]Alexander  Lopez
+222.126.6.176   , 222.126.6.183   , 109 , [L2]Mark Pedregosa
+222.126.7.72    , 222.126.7.79    ,  90 , [L1]Toshiba Information Equipment Phil Inc
+222.126.8.72    , 222.126.8.79    , 109 , [L2]Althea Mendoza
+222.126.9.56    , 222.126.9.63    ,  90 , [L1]Office of The Press Secretary
+222.126.9.128   , 222.126.9.135   ,  90 , [L1]National Agricultural and Fishery
+222.126.9.168   , 222.126.9.175   ,  90 , [L1]Philippine National Police
+222.126.9.192   , 222.126.9.199   ,  90 , [L1]Balikatan Exercises
+222.126.10.0    , 222.126.10.15   ,  90 , [L1]Armed Forces Police Savings and Loans
+222.126.10.112  , 222.126.10.119  ,  90 , [L1]Marine Corps Community Services OKINAWA
+222.126.11.104  , 222.126.11.111  ,  90 , [L1]KSS Phils Inc
+222.126.11.120  , 222.126.11.127  ,  90 , [L1]National Agricultural And Fishery
+222.126.12.168  , 222.126.12.175  ,  90 , [L1]Leocadio SC JR Santiago
+222.126.12.216  , 222.126.12.223  ,  90 , [L1]Trend Micro Devices Inc
+222.126.13.224  , 222.126.13.231  , 113 , [AD]Neil Diamante DoubleClicks
+222.126.14.16   , 222.126.14.23   ,  90 , [L1]Office of The City Accountant
+222.126.15.224  , 222.126.15.231  , 109 , [L2]Blue Cross Insurance Inc
+222.126.18.0    , 222.126.18.15   ,  90 , [L1]John Francis Ibanez
+222.126.18.128  , 222.126.18.135  ,  90 , [L1]Johnny Rodrigo Gulla
+222.126.18.216  , 222.126.18.223  ,  90 , [L1]Legal Information Network Corp
+222.126.19.208  , 222.126.19.215  ,  90 , [L1]NCEISC-Phil Navy
+222.126.20.8    , 222.126.20.15   ,  90 , [L1]Douglas Lopez
+222.126.20.32   , 222.126.20.47   , 109 , [L2]Amadeus Marketing Philippines Inc
+222.126.20.112  , 222.126.20.119  ,  90 , [L1]W Network Inc Formerly LBC International
+222.126.21.16   , 222.126.21.23   ,  90 , [L1]Embassy of the Islamic Republic of Iran
+222.126.21.136  , 222.126.21.143  , 109 , [L2]Towa Semiconductor Equipment Phils Corp
+222.126.23.200  , 222.126.23.207  ,  90 , [L1]Embassy Of Peoples Republic Of China
+222.126.25.56   , 222.126.25.63   ,  90 , [L1]House of Representatives
+222.126.25.120  , 222.126.25.127  ,  90 , [L1]Universal Records
+222.126.25.208  , 222.126.25.215  , 109 , [L2]West Visayas State University-Hospital
+222.126.26.48   , 222.126.26.55   ,  90 , [L1]Hontiveros And Associates Lawfirm
+222.126.26.80   , 222.126.26.87   , 109 , [L2]Sky International Inc
+222.126.27.40   , 222.126.27.47   ,  90 , [L1]Office of the Special Envoy on
+222.126.27.120  , 222.126.27.127  ,  90 , [L1]Dane Publishing House Inc
+222.126.28.0    , 222.126.28.7    ,  90 , [L1]Department of Trade and Industry
+222.126.28.72   , 222.126.28.79   ,  90 , [L1]Bayawan City of Information Technology
+222.126.28.120  , 222.126.28.127  ,  90 , [L1]Department of Trade and Industry -
+222.126.28.248  , 222.126.28.255  ,  90 , [L1]Department of Tourism
+222.126.29.184  , 222.126.29.191  , 109 , [L2]Pioneer Insurance And Surety Corporation
+222.126.31.144  , 222.126.31.151  ,  90 , [L1]Level Up Inc
+222.126.32.240  , 222.126.32.247  ,  90 , [L1]Embassy Of Brazil
+222.126.33.56   , 222.126.33.63   ,  90 , [L1]Monsanto Philippines
+222.126.33.144  , 222.126.33.151  ,  90 , [L1]Philippine National Police
+222.126.33.240  , 222.126.33.247  ,  90 , [L1]Embassy Royal Thai
+222.126.34.48   , 222.126.34.55   ,  90 , [L1]Embassy of the State of Qatar
+222.126.35.24   , 222.126.35.31   ,  90 , [L1]Solar Entertainment Corporation
+222.126.35.176  , 222.126.35.183  ,  90 , [L1]Anti Money Laundering Council
+222.126.36.112  , 222.126.36.119  ,  90 , [L1]Fujitsu Philippines Incorporated
+222.126.36.192  , 222.126.36.199  ,  90 , [L1]Fujitsu Philippines Incorporated
+222.126.36.208  , 222.126.36.215  ,  90 , [L1]Solutions Era Software Development
+222.126.37.64   , 222.126.37.71   , 109 , [L2]Webpower
+222.126.39.96   , 222.126.39.103  , 109 , [L2]Amadeus Marketing Philippines Inc
+222.126.40.0    , 222.126.40.7    ,  90 , [L1]Department of Trade and Industry -
+222.126.41.48   , 222.126.41.55   , 109 , [L2]Du Pont Far East Incorporated
+222.126.41.120  , 222.126.41.135  ,  90 , [L1]Philippine Fuji Xerox Copier
+222.126.41.176  , 222.126.41.183  ,  90 , [L1]IBM Philippines
+222.126.42.144  , 222.126.42.151  , 109 , [L2]Du Pont Far East Incorporated
+222.126.42.152  , 222.126.42.159  ,  90 , [L1]The Music Source Inc MTV PHILIPPINES
+222.126.44.208  , 222.126.44.223  ,  90 , [L1]Fujitsu Die Tech of the Phils
+222.126.45.104  , 222.126.45.111  , 109 , [L2]Sterling paper Products Enterprise
+222.126.45.208  , 222.126.45.231  ,  90 , [L1]Law Firm Of V E Del Rosario  Partners
+222.126.47.0    , 222.126.47.7    ,  90 , [L1]Hewlett Packard
+222.126.47.56   , 222.126.47.63   ,  90 , [L1]Phil Navy Savings and Loan Association
+222.126.47.112  , 222.126.47.119  ,  90 , [L1]Cavite Police Provincial Office PPO
+222.126.47.192  , 222.126.47.199  , 109 , [L2]Amadeus Marketing Philippines Inc
+222.126.80.120  , 222.126.80.127  ,  90 , [L1]Solutions ERA Software Development
+222.126.88.168  , 222.126.88.175  , 109 , [L2]Jobmaster Management and Consultancy
+222.126.88.200  , 222.126.88.207  ,  90 , [L1]Ivyhouse Productions
+222.126.90.136  , 222.126.90.143  ,  90 , [L1]Department of Trade and Industry Davao
+222.126.92.96   , 222.126.92.103  ,  90 , [L1]National Police Commission
+222.126.92.240  , 222.126.92.247  ,  90 , [L1]Film Experts Inc
+222.126.93.224  , 222.126.93.231  ,  90 , [L1]GFK Asia PTE LTD
+222.126.95.232  , 222.126.95.239  ,  90 , [L1]Villanueva Gabionza and De Santos Law
+222.126.95.248  , 222.126.95.255  ,  90 , [L1]National Statistics Office
+222.126.112.104 , 222.126.112.111 ,  90 , [L1]Fujitsu Ten Corporation Of The
+222.126.112.192 , 222.126.112.199 ,  90 , [L1]Bureau of Quarantine n International
+222.126.113.96  , 222.126.113.111 ,  90 , [L1]Philippine Ports Authority
+222.126.113.192 , 222.126.113.199 , 109 , [L2]Amadeus Marketing Philippines Inc
+222.126.115.24  , 222.126.115.31  ,  90 , [L1]Municipilaty Of Las Pinas
+222.126.115.104 , 222.126.115.111 ,  90 , [L1]ABS CBN Broadcasting Corporation
+222.126.115.160 , 222.126.115.167 ,  90 , [L1]Broadlines Animation Inc
+222.126.116.0   , 222.126.116.7   ,  90 , [L1]Bates Licensing  Entertainment  Inc
+222.126.116.96  , 222.126.116.103 ,  90 , [L1]Foregin Service Institute
+222.126.116.144 , 222.126.116.151 ,  90 , [L1]Philips Semiconductor Philippines
+222.126.117.64  , 222.126.117.71  , 109 , [L2]Amadeus Marketing Philippines Inc
+222.126.118.160 , 222.126.118.183 ,  90 , [L1]GF NBC Tent 26th Bgy South Side MAKATI
+222.126.119.96  , 222.126.119.103 ,  90 , [L1]Eduardo Maghupoy
+222.126.119.248 , 222.126.119.255 ,  90 , [L1]Monsanto Philippines Inc
+222.126.120.24  , 222.126.120.31  ,  90 , [L1]City Government of Zamboanga
+222.126.121.104 , 222.126.121.111 , 109 , [L2]Digital Paradise Inc
+222.126.122.8   , 222.126.122.15  , 109 , [L2]Rainbow Computer
+222.126.124.48  , 222.126.124.55  ,  90 , [L1]Mandaluyong City Hall
+222.126.125.48  , 222.126.125.55  ,  90 , [L1]Corewatchmen Security and  Detective Corp
+222.126.125.104 , 222.126.125.111 ,  90 , [L1]A G Roa Video Rentals and Sales Inc
+222.126.127.160 , 222.126.127.167 ,  90 , [L1]Trend Micro Devices Inc
+222.127.0.200   , 222.127.0.207   ,  90 , [L1]Makati City
+222.127.4.40    , 222.127.4.47    ,  90 , [L1]NETSUITE GLOBE
+222.127.5.0     , 222.127.5.255   ,  90 , [L1]Makati City
+222.127.7.32    , 222.127.7.39    ,  90 , [L1]SIEMENS GLOBE
+222.127.7.128   , 222.127.7.255   ,  90 , [L1]INTEL GLOBE
+222.127.11.72   , 222.127.11.79   ,  90 , [L1]SAP GLOBE
+222.127.12.64   , 222.127.12.71   ,  90 , [L1]IBM GLOBE
+222.127.13.16   , 222.127.13.31   ,  90 , [L1]DYNCORP GLOBE
+222.127.25.40   , 222.127.25.47   ,  90 , [L1]Makati City
+222.127.25.64   , 222.127.25.71   ,  90 , [L1]Makati City
+222.127.25.192  , 222.127.25.199  ,  90 , [L1]SUPREME_COURT
+222.127.144.4   , 222.127.144.11  , 115 , [SD]YAHOO GLOBE
+222.127.170.112 , 222.127.170.112 , 119 , [TL]gnutella hitmorpher
+222.127.228.5   , 222.127.228.8   , 113 , [AD]Comment spammer
+222.127.228.21  , 222.127.228.24  , 113 , [AD]Comment spammer
+222.129.34.63   , 222.129.34.63   , 119 , [TL]p2p Corrupt Data Senders
+222.130.46.182  , 222.130.46.182  , 119 , [TL]p2p Corrupt Data Senders
+222.132.159.24  , 222.132.159.27  ,  90 , [L1]Taian Hi-Tech Industrial Development Zone
+222.133.3.30    , 222.133.3.30    ,  90 , [L1]Dezhou Police Department
+222.133.3.210   , 222.133.3.210   , 111 , [SW]exploits
+222.133.10.146  , 222.133.10.146  ,  90 , [L1]Police station of  Development Area Department
+222.133.12.102  , 222.133.12.102  ,  90 , [L1]Dezhou Traffic police control center
+222.133.14.137  , 222.133.14.141  ,  90 , [L1]Police Department of Linyixian
+222.133.15.18   , 222.133.15.18   ,  90 , [L1]Dezhou Intellective Platform Of  Cultural Bureau
+222.133.24.98   , 222.133.24.98   ,  90 , [L1]Xijin  Intellective Platform Of  Cultural Bureau
+222.133.26.12   , 222.133.26.12   ,  90 , [L1]Dezhou Lenovo Internet Bar
+222.133.27.42   , 222.133.27.42   ,  90 , [L1]Dezhou Lenovo Internet Bar
+222.133.28.230  , 222.133.28.230  ,  90 , [L1]Qihe Intellective Platform Of  Cultural Bureau
+222.133.177.72  , 222.133.177.79  ,  90 , [L1]Wulian Court -RIZHAO
+222.133.182.144 , 222.133.182.151 ,  90 , [L1]Drug Administration Bureau-RIZHAO
+222.133.184.24  , 222.133.184.31  ,  90 , [L1]TaoLuo  Communist Party Committee-RIZHAO
+222.133.185.160 , 222.133.185.167 ,  90 , [L1]RiZhao-Television Station
+222.133.187.104 , 222.133.187.111 , 109 , [L2]RiZhao-Video Monitor of the 822 bureau sales hall
+222.133.244.56  , 222.133.244.63  ,  90 , [L1]liaochenggoverment
+222.133.244.96  , 222.133.244.127 ,  90 , [L1]liaochenggovermentfanghuoqiang
+222.133.244.168 , 222.133.244.175 ,  90 , [L1]liaochenggovermentxinxihua
+222.133.244.192 , 222.133.244.207 ,  90 , [L1]liaochenggovermentxinxihua
+222.134.78.192  , 222.134.78.223  , 109 , [L2]ZiBo-ZiBoShiFanGaoDengZhuanKeXueXiao
+222.134.84.64   , 222.134.84.67   ,  90 , [L1]Zibo Aladdin internet bar
+222.134.95.24   , 222.134.95.27   ,  90 , [L1]Zibo Gaoqing people\'s procurator
+222.134.213.192 , 222.134.213.255 ,  90 , [L1]laiwu gangcheng laiwu government
+222.134.215.16  , 222.134.215.31  ,  90 , [L1]Laiwu courthouse
+222.134.218.48  , 222.134.218.63  , 109 , [L2]laiwu agricultural bank of china laiwu branch
+222.134.218.160 , 222.134.218.191 ,  90 , [L1]Laiwu police station
+222.135.146.173 , 222.135.146.173 , 109 , [L2]Abuse
+222.138.178.245 , 222.138.178.245 ,  90 , [L1]POLICE GOV,
+222.138.178.252 , 222.138.178.252 ,  90 , [L1]SYQPOLICE GOV,
+222.139.6.65    , 222.139.6.65    ,  90 , [L1]AnYang Police SCHOOL,
+222.141.37.24   , 222.141.37.24   , 119 , [TL]CNCGROUP Henan province fake files
+222.145.148.19  , 222.145.148.19  ,  90 , [L1]DDoS_ap2p
+222.146.193.241 , 222.146.193.241 ,  90 , [L1]DDoS_ap2p
+222.149.250.245 , 222.149.250.245 , 119 , [TL]Open Computer Network broadband gnu viruses
+222.150.68.109  , 222.150.68.109  , 119 , [TL]NTT Plala Inc. broadband gnu viruses
+222.150.134.238 , 222.150.134.238 ,  90 , [L1]DDoS_ap2p
+222.150.192.180 , 222.150.192.180 ,  90 , [L1]DDoS_ap2p
+222.150.194.188 , 222.150.194.188 ,  90 , [L1]DDoS_ap2p
+222.151.192.16  , 222.151.192.23  ,  90 , [L1]Interactive Brains Co.,LTD
+222.151.192.128 , 222.151.192.135 ,  90 , [L1]Panasonic Communications Co.,Ltd
+222.151.193.24  , 222.151.193.31  ,  90 , [L1]Videojet K.K
+222.151.194.144 , 222.151.194.151 ,  90 , [L1]Digital Art Creators,inc
+222.151.195.96  , 222.151.195.103 , 109 , [L2]FUJIFILM MEDICAL CO.,LTD
+222.151.195.168 , 222.151.195.175 ,  90 , [L1]Fujitsu Corporation
+222.151.195.224 , 222.151.195.239 ,  90 , [L1]Panasonic Telecom
+222.151.196.40  , 222.151.196.47  ,  90 , [L1]Information Services International-Dentsu,Ltd
+222.151.196.232 , 222.151.196.239 ,  90 , [L1]Mitsubishi Electric Information Technology
+222.151.196.248 , 222.151.196.255 ,  90 , [L1]ASAHI SHIMBUN HAMBAI SERVICE Co.,Ltd
+222.151.197.120 , 222.151.197.135 ,  90 , [L1]DEFENSE MINISTRY(GIKEN 2ND RESEARCH CENTER)
+222.151.197.168 , 222.151.197.175 , 109 , [L2]PROS CO
+222.151.197.176 , 222.151.197.191 ,  90 , [L1]RECORDING INDUSTRY ASSOCIATION OF JAPAN
+222.151.197.192 , 222.151.197.207 , 109 , [L2]WARAK Corp
+222.151.198.120 , 222.151.198.127 ,  90 , [L1]TBWA_JAPAN
+222.151.198.136 , 222.151.198.143 ,  90 , [L1]ChuoAoyama Sustainability Certification Co.,Ltd
+222.151.198.240 , 222.151.198.255 ,  90 , [L1]EMBASSY OF LITHUANIA IN JAPAN
+222.151.199.144 , 222.151.199.151 ,  90 , [L1]NEC Corporation
+222.151.200.8   , 222.151.200.15  ,  90 , [L1]namco limited
+222.151.200.152 , 222.151.200.159 ,  90 , [L1]NHN Japan Corporation
+222.151.200.176 , 222.151.200.191 ,  90 , [L1]Idea Factory Co.,Ltd
+222.151.200.200 , 222.151.200.207 ,  90 , [L1]Japan Defense Agency
+222.151.200.224 , 222.151.200.239 ,  90 , [L1]BANPRESTO CO.,LTD
+222.151.201.0   , 222.151.201.7   ,  90 , [L1]Accenture
+222.151.201.152 , 222.151.201.159 , 109 , [L2]AT&T GNS-J LLC
+222.151.201.160 , 222.151.201.175 ,  90 , [L1]THE CARLYLE GROUP
+222.151.201.200 , 222.151.201.207 ,  90 , [L1]Mitsubishi Electric Information Systems Corporation
+222.151.202.88  , 222.151.202.95  ,  90 , [L1]TOMO MUSIC,INC
+222.151.204.80  , 222.151.204.87  ,  90 , [L1]TOKYO BROADCASTING SYSTEM,INC
+222.151.204.136 , 222.151.204.143 ,  90 , [L1]Mitsubishi UFJ Asset Management Co.,Ltd
+222.151.205.16  , 222.151.205.23  ,  90 , [L1]Cisco Systems K.K
+222.151.205.32  , 222.151.205.47  ,  90 , [L1]RICH PICTURES,INC
+222.151.205.64  , 222.151.205.71  ,  90 , [L1]Association of Copyright for Computer Software
+222.151.207.88  , 222.151.207.95  ,  90 , [L1]WALT DISNEY Company (Japan) Ltd
+222.151.207.176 , 222.151.207.183 ,  90 , [L1]To-on music publishing co.,Ltd
+222.151.207.216 , 222.151.207.223 ,  90 , [L1]Mitsubishi Estate Building Management Co.,Ltd
+222.151.208.24  , 222.151.208.31  ,  90 , [L1]INFORMATION SERVICES INTERNATIONAL-DENTSU,LTD
+222.151.209.8   , 222.151.209.15  ,  90 , [L1]NIPPON DENTSU CO.,LTD
+222.151.209.64  , 222.151.209.79  ,  90 , [L1]FUJITSU SUPPORT AND SERVICE INC
+222.151.209.144 , 222.151.209.159 , 109 , [L2]Kino Corp
+222.151.210.112 , 222.151.210.119 ,  90 , [L1]Sony PCL Inc
+222.151.210.128 , 222.151.210.135 ,  90 , [L1]Sony PCL Inc
+222.151.210.208 , 222.151.210.223 ,  90 , [L1]McAfee co.,Ltd
+222.151.210.240 , 222.151.210.247 ,  90 , [L1]NEC Corporation
+222.151.211.160 , 222.151.211.167 ,  90 , [L1]Ministry of Education,Culture,Sports,Science and Technology
+222.151.211.176 , 222.151.211.183 ,  90 , [L1]Defense Agency
+222.151.212.8   , 222.151.212.15  ,  97 , [MS]Microsoft Corporation
+222.151.213.48  , 222.151.213.55  , 109 , [L2]AT&T GLOBAL NETWORK SERVICES JAPAN LLC
+222.151.213.208 , 222.151.213.215 ,  90 , [L1]Cantata Japan Inc
+222.151.217.32  , 222.151.217.39  , 109 , [L2]The Tokyo Business Federation of University Co-operation Associations
+222.151.218.8   , 222.151.218.15  ,  90 , [L1]MITSUBISHI ELECTRIC CORPORATION
+222.151.218.208 , 222.151.218.215 ,  90 , [L1]NTT Software Corporation
+222.151.218.240 , 222.151.218.247 ,  90 , [L1]Lionbridge K.K
+222.151.219.32  , 222.151.219.39  ,  90 , [L1]Texas Instruments Japan Limited
+222.151.222.120 , 222.151.222.127 ,  90 , [L1]OSRAM MELCO TOSHIBA LIGHTING CO.,LTD
+222.151.223.24  , 222.151.223.31  ,  90 , [L1]Kanagawa Prefectural Police Headquarters
+222.151.223.64  , 222.151.223.79  ,  90 , [L1]Mitsubishi Electric Lighting Corporation
+222.151.223.224 , 222.151.223.239 , 109 , [L2]AT&T Global Network Services Japan LLC
+222.151.227.56  , 222.151.227.63  ,  90 , [L1]IDC Corporation
+222.151.228.136 , 222.151.228.143 ,  90 , [L1]IWATE MITSUBISHI FUSO CAR SALES Co.,Ltd
+222.151.229.80  , 222.151.229.87  ,  90 , [L1]Rich Pictures,Inc
+222.151.230.8   , 222.151.230.15  ,  90 , [L1]toho company limited
+222.151.230.96  , 222.151.230.103 ,  90 , [L1]ECHO BUSINESS SOFTWARE CO.,LTD
+222.151.230.120 , 222.151.230.127 ,  90 , [L1]Osaka Mitsubishi Fuso Auto Sales Company
+222.151.231.224 , 222.151.231.231 ,  90 , [L1]THE YOMIURISHIMBUN
+222.151.232.32  , 222.151.232.47  ,  90 , [L1]G-1 Co.,ltd
+222.151.233.96  , 222.151.233.103 ,  90 , [L1]Dentsu,inc
+222.151.233.144 , 222.151.233.151 ,  90 , [L1]Osaka Mitsubishi Fuso Motor Sales Co.,Ltd
+222.151.233.248 , 222.151.233.255 , 109 , [L2]AT&T GLOBAL NETWORK SERVICES JAPAN
+222.151.234.16  , 222.151.234.31  ,  90 , [L1]Wakayama Prefectural Federation of Societies of Commerce and Industry
+222.151.236.32  , 222.151.236.39  ,  90 , [L1]Nippon Dentsu CO.,LTD
+222.151.237.224 , 222.151.237.239 , 109 , [L2]AT&T Global Network Services Japan LLC
+222.151.241.112 , 222.151.241.127 , 109 , [L2]AT&T Global Network Services Japan LLC
+222.151.241.192 , 222.151.241.199 ,  90 , [L1]Dai Nippon Printing Co.,Ltd
+222.151.241.224 , 222.151.241.231 ,  90 , [L1]Nagoya Research and Engineering Office for Port and Airport,Chubu Regional B
+222.151.245.56  , 222.151.245.63  ,  90 , [L1]AICHI TELEVISION BROADCASTING CO.,LTD
+222.151.247.56  , 222.151.247.63  , 109 , [L2]K-BITS Corporation
+222.151.252.48  , 222.151.252.55  ,  90 , [L1]Nagasaki Prefectural Police
+222.151.254.80  , 222.151.254.87  ,  90 , [L1]MULTIMEDIA WORK CO.,LTD
+222.151.255.224 , 222.151.255.239 ,  90 , [L1]Corporation InfoMedia
+222.154.225.80  , 222.154.225.83  ,  90 , [L1]Recording Industry Association of New Zealand
+222.154.230.47  , 222.154.230.47  ,  90 , [L1]e-crime.govt.nz
+222.154.251.176 , 222.154.251.176 ,  90 , [L1]mail.nzfact.co.nz
+222.155.121.91  , 222.155.121.91  ,  95 , [FK]
+222.159.196.159 , 222.159.196.159 ,  90 , [L1]Bittorrent fakes
+222.159.198.179 , 222.159.198.179 ,  90 , [L1]Bittorrent fakes
+222.160.64.116  , 222.160.64.119  , 109 , [L2]JIANGBEI RENMIN SHANGCHANG DONG
+222.161.12.130  , 222.161.12.130  , 109 , [L2]Abuse
+222.161.21.108  , 222.161.21.111  , 109 , [L2]CHANGCHUN CITY,JINFENGHUANG NETBAR,
+222.161.22.12   , 222.161.22.15   ,  90 , [L1]CHANGCHUN CITY,POLIC SCHOOL,
+222.161.36.32   , 222.161.36.39   ,  90 , [L1]CHANGCHUN CITY,CHENGXIANGGL GOVERNMENT,
+222.161.47.24   , 222.161.47.31   ,  90 , [L1]CHANGCHUN CITY,WST GOVERNMENT,
+222.161.58.12   , 222.161.58.15   ,  90 , [L1]CHANGCHUN CITY,CXJS GOVERNMENT,
+222.161.58.68   , 222.161.58.71   ,  90 , [L1]CHANGCHUN CITY,CXJS GOVERNMENT,
+222.164.54.143  , 222.164.54.143  , 119 , [TL]gnutella fake file
+222.165.135.24  , 222.165.135.31  ,  90 , [L1]Ministry of Education
+222.165.135.224 , 222.165.135.231 ,  90 , [L1]Ceylinco Cisco Security Corporation (Pvt.) Ltd
+222.165.135.248 , 222.165.135.255 ,  90 , [L1]Reuters Ltd
+222.165.137.0   , 222.165.137.7   ,  90 , [L1]Ministry of Post Telecommunication & Udarata Dev
+222.165.137.96  , 222.165.137.103 ,  90 , [L1]UN Office for the Cordination of Human Affairs
+222.165.137.200 , 222.165.137.215 ,  90 , [L1]Ministry of Health
+222.165.138.8   , 222.165.138.15  ,  90 , [L1]United Nations High Commissioner for Refugees
+222.165.138.96  , 222.165.138.103 ,  90 , [L1]Department of Attorney Generals
+222.165.140.104 , 222.165.140.111 ,  90 , [L1]ICELAND EMBASSY
+222.165.153.72  , 222.165.153.87  ,  90 , [L1]United Nations Development Programme
+222.165.153.160 , 222.165.153.167 ,  90 , [L1]United Nations Development Program
+222.166.27.136  , 222.166.27.136  , 119 , [TL]p2p Corrupt Data Senders
+222.166.51.34   , 222.166.51.34   , 119 , [TL]p2p Corrupt Data Senders
+222.167.44.81   , 222.167.44.81   , 119 , [TL]p2p Fake Seeders
+222.167.44.91   , 222.167.44.91   , 119 , [TL]p2p Fake Seeders
+222.168.4.12    , 222.168.4.15    ,  90 , [L1]CHANGCHUN-WUJINGSENLINZONGDUI-ARMY
+222.168.8.16    , 222.168.8.23    ,  90 , [L1]CHANGCHUN-JL-LINYEKANCHASHEJI-GOV
+222.168.75.56   , 222.168.75.59   ,  90 , [L1]CHANGCHUN-SONY-CORP
+222.168.89.192  , 222.168.89.207  ,  90 , [L1]CHANGCHUN-JL-JIAOTONGZHENGFEUGUANLI-GOV
+222.168.91.8    , 222.168.91.11   ,  90 , [L1]CHANGCHUN-HUAGANG-LAWYER-INSTITUTE
+222.168.145.208 , 222.168.145.211 ,  90 , [L1]JILIN-POLICES-OFFICE
+222.169.88.7    , 222.169.88.20   ,  90 , [L1]LIAOYUAN-THE-PEOPLE-PROCURATORATE
+222.169.116.108 , 222.169.116.119 ,  90 , [L1]BAICHENG-TYWUZHUANGBU-GOVERMENT
+222.169.116.124 , 222.169.116.135 ,  90 , [L1]BAICHENG-TYGONGSHANGJU-GOVERMENT
+222.170.35.64   , 222.170.35.79   ,  90 , [L1]MUDANJIANG LAW OFFICE
+222.170.47.32   , 222.170.47.63   ,  90 , [L1]MUDANJIANG MOVIE SERVER
+222.170.63.208  , 222.170.63.215  ,  90 , [L1]MUDANJIANG POLICE SATION
+222.170.72.192  , 222.170.72.199  ,  90 , [L1]DAQING MOVIE SERVER
+222.170.72.208  , 222.170.72.223  ,  90 , [L1]DAQING MOVIE SERVER
+222.170.103.64  , 222.170.103.67  ,  90 , [L1]JIAMUSI CITY COUNCIL
+222.170.103.136 , 222.170.103.139 ,  90 , [L1]JIAMUSI SECURITY BUREAU
+222.170.105.36  , 222.170.105.39  ,  90 , [L1]JIAMUSI MOVIE SERVER
+222.170.105.44  , 222.170.105.47  ,  90 , [L1]JIAMUSI MOVIE SERVER
+222.170.105.160 , 222.170.105.163 ,  90 , [L1]JIAMUSI SECURITY BUREAU
+222.170.106.112 , 222.170.106.115 ,  90 , [L1]JIAMUSI SECURITY BUREAU
+222.170.106.128 , 222.170.106.131 ,  90 , [L1]JIAMUSI RAILWAY POLICE STATION
+222.170.128.152 , 222.170.128.167 ,  90 , [L1]SUIHUA ARMY SUBAREA
+222.170.136.76  , 222.170.136.79  ,  90 , [L1]SUIHUA ANDA PEOPLE S PROCURATORATE
+222.170.145.247 , 222.170.145.247 ,  90 , [L1]fake emule servers
+222.170.225.56  , 222.170.225.63  ,  90 , [L1]HEIHE NETWORK CENTER MOVIE SERVER
+222.171.6.24    , 222.171.6.31    , 109 , [L2]HARBIN ZTE CORPORATION
+222.171.8.208   , 222.171.8.223   ,  90 , [L1]HARBIN SHANGZHI COURT
+222.171.9.0     , 222.171.9.15    ,  90 , [L1]HARBIN SHANGZHI COURT
+222.171.13.112  , 222.171.13.119  ,  90 , [L1]HARBIN YUEHUA ACCOUNTANT LAW OFFICE
+222.171.14.64   , 222.171.14.95   ,  90 , [L1]HARBIN BINXIAN RADIO TV UNIVERSITY
+222.171.24.216  , 222.171.24.223  ,  90 , [L1]HARBIN HF AUTOMOBILE GROUP TV STATION
+222.171.28.144  , 222.171.28.151  ,  90 , [L1]HARBIN PINFANG BOROUGH PEOPLE S PROCURATORATE
+222.171.30.32   , 222.171.30.39   , 115 , [SD]HARBIN YAHOO SERVER
+222.171.38.240  , 222.171.38.247  ,  90 , [L1]HARBIN HF AUTOMOBILE GROUP TV STATION
+222.172.23.208  , 222.172.23.223  ,  90 , [L1]MUDANJIANG POLICE SATION
+222.172.223.0   , 222.172.223.31  ,  90 , [L1]Customer-Net in CHINANET YunNan province
+222.172.223.216 , 222.172.223.223 ,  90 , [L1]Yunnan-National-Security-Office
+222.174.93.34   , 222.174.93.34   , 111 , [SW]m.wuc8.com - trojans
+222.175.49.20   , 222.175.49.23   ,  90 , [L1]Zaozhuang-Zaozhuangrecordoffice,Zaozhuangcity,Shandongprovince
+222.177.8.32    , 222.177.8.127   ,  90 , [L1]CHINANET|Anti-p2p
+222.177.8.212   , 222.177.8.215   , 109 , [L2]XiaoFeiXia-NetBAR
+222.177.14.0    , 222.177.14.255  ,  90 , [L1]DCN To Internet|Anti-p2p
+222.177.17.152  , 222.177.17.159  , 109 , [L2]datong
+222.177.19.96   , 222.177.19.111  ,  90 , [L1]nongyeju
+222.177.55.0    , 222.177.55.127  ,  90 , [L1]CHINANET|Anti-p2p, Bittorrent Scammer
+222.177.88.0    , 222.177.88.127  ,  90 , [L1]CHINANET|Anti-p2p
+222.177.117.80  , 222.177.117.95  , 109 , [L2]RM-Bank
+222.177.117.240 , 222.177.117.247 , 109 , [L2]shanghaitaiganglimengwuliu
+222.179.53.28   , 222.179.53.31   ,  90 , [L1]Ge Lan Government
+222.179.70.129  , 222.179.70.129  ,  90 , [L1]Qijiang telecommunications service branches film
+222.180.83.156  , 222.180.83.159  ,  90 , [L1]Procuratorate
+222.183.80.170  , 222.183.80.170  , 107 , [PT]Proxy
+222.184.2.4     , 222.184.2.7     ,  90 , [L1]HuaiAn LS  Prosecutors office
+222.184.2.172   , 222.184.2.175   ,  90 , [L1]HuaiAn LS  The Lian city law serve
+222.184.3.156   , 222.184.3.159   ,  90 , [L1]HuaiAn LS  Police department
+222.184.3.164   , 222.184.3.171   ,  90 , [L1]huaian lianshui police bureau
+222.184.3.180   , 222.184.3.183   ,  90 , [L1]huaian lianshui prosecutorial office
+222.184.8.156   , 222.184.8.159   ,  90 , [L1]huaian chuzhou inquisitor dept
+222.184.8.244   , 222.184.8.247   ,  90 , [L1]huaian chuzhou police110 co,.ltd
+222.184.11.96   , 222.184.11.99   ,  90 , [L1]XuYi copyright
+222.184.82.0    , 222.184.82.3    ,  90 , [L1]huaian foreign trade cooperates bureau
+222.184.100.216 , 222.184.100.219 , 109 , [L2]huaian boke network chamber
+222.184.233.144 , 222.184.233.147 ,  90 , [L1]censorate of kaifa zone
+222.184.233.208 , 222.184.233.215 ,  90 , [L1]Japanese firm Mitsubishi Suofeier Nangtong
+222.184.234.16  , 222.184.234.23  , 109 , [L2]Chinatelecom business hall,kaixuan
+222.184.234.24  , 222.184.234.31  ,  90 , [L1]National Land Authority
+222.184.235.228 , 222.184.235.231 , 109 , [L2]new building  videotelephone
+222.184.236.20  , 222.184.236.23  ,  90 , [L1]Haian Political Science and Law Committee
+222.184.236.240 , 222.184.236.255 ,  90 , [L1]Police department
+222.184.237.16  , 222.184.237.23  ,  90 , [L1]Anxin revenue law office
+222.184.238.0   , 222.184.238.7   , 109 , [L2]Chinatelecom business  hall
+222.184.240.0   , 222.184.240.31  ,  90 , [L1]NANTONG-RG-POLICE-STATION
+222.184.240.40  , 222.184.240.43  ,  90 , [L1]police traffic policeman procession of Rugao
+222.184.240.64  , 222.184.240.79  ,  90 , [L1]the showplace of educate TV station
+222.184.240.132 , 222.184.240.135 ,  90 , [L1]ministry of personnel
+222.184.240.176 , 222.184.240.183 ,  90 , [L1]education TV station of Rugao
+222.184.241.0   , 222.184.241.15  ,  90 , [L1]Fujitsu
+222.184.251.120 , 222.184.251.123 ,  90 , [L1]nantong Administration bureau of the house property gov
+222.184.254.24  , 222.184.254.31  ,  90 , [L1]Foreign Trade and Economic Cooperation Bureau
+222.184.254.92  , 222.184.254.95  ,  90 , [L1]Drugs Oversight bureau
+222.184.254.224 , 222.184.254.255 ,  90 , [L1]Tongzhou Government
+222.185.224.0   , 222.185.224.255 ,  70 , [BG]Bogus AS Advertisements
+222.185.228.0   , 222.185.228.255 ,  70 , [BG]Bogus AS Advertisements
+222.185.229.128 , 222.185.229.159 ,  70 , [BG]Bogus AS Advertisements
+222.185.234.80  , 222.185.234.87  ,  90 , [L1]changzhou wujin justice bureau
+222.185.234.128 , 222.185.234.143 ,  90 , [L1]changzhou wujin education bureau
+222.185.235.160 , 222.185.235.167 ,  90 , [L1]changzhou xinbo attorney office co.,ltd
+222.185.236.152 , 222.185.236.159 ,  90 , [L1]changzhou xinbeiqu people courtyard
+222.185.238.200 , 222.185.238.207 ,  90 , [L1]changzhou univercity build command center
+222.185.241.144 , 222.185.241.151 ,  90 , [L1]changzhou yaxiya film Co.,Ltd
+222.185.246.64  , 222.185.246.71  ,  90 , [L1]wujin technology industry development area charge council
+222.185.248.192 , 222.185.248.199 ,  90 , [L1]changzhou xinbeiqu people prosecute academy
+222.185.249.112 , 222.185.249.119 ,  90 , [L1]jiangsu boaixing lawyer office
+222.185.250.128 , 222.185.250.135 ,  90 , [L1]changzhou gongan bureau traffic police branch
+222.185.253.216 , 222.185.253.223 ,  90 , [L1]ly procuratorate
+222.185.254.96  , 222.185.254.103 , 109 , [L2]china telecom group yellowpage message Co.,Ltd changzhou branch
+222.185.254.128 , 222.185.254.143 ,  90 , [L1]changzhou television station
+222.186.8.88    , 222.186.8.88    ,  90 , [L1]fake emule servers
+222.186.9.49    , 222.186.9.49    , 111 , [SW]www.chibitw.com
+222.186.10.0    , 222.186.11.255  ,  70 , [BG]Bogus AS Advertisements
+222.186.16.0    , 222.186.16.255  ,  70 , [BG]Bogus AS Advertisements
+222.186.73.0    , 222.186.73.127  ,  90 , [L1]JURONG GOVERNMENT SERVICE CENTER
+222.186.74.224  , 222.186.74.239  , 109 , [L2]JURONG AGRICULTURAL BANK OF CHINA
+222.186.78.176  , 222.186.78.183  ,  90 , [L1]ZHENJIANG DANTU POLICE
+222.186.79.128  , 222.186.79.143  ,  90 , [L1]ZHENJIANG DANTU GOVERNMENT
+222.186.81.32   , 222.186.81.39   ,  90 , [L1]ZHENJIANG YZ CINEMA
+222.186.84.192  , 222.186.84.195  ,  90 , [L1]ZHENJIANG POLICE OFFICE
+222.186.91.80   , 222.186.91.87   ,  90 , [L1]ZHENJIANG POLICE OFFICE
+222.186.92.44   , 222.186.92.47   ,  90 , [L1]ZHENJIANG-XINQU-RENWUBU
+222.186.99.112  , 222.186.99.127  ,  90 , [L1]JURONG DAZHUO LINKOU ARMY
+222.186.101.88  , 222.186.101.91  , 109 , [L2]JiangSu HongTu High Technology Co.LTD
+222.186.102.24  , 222.186.102.31  , 109 , [L2]ZHENJIANG SAIERNIKE WIRING CORP
+222.186.105.144 , 222.186.105.151 ,  90 , [L1]ZHENJIANG JURONG COURT
+222.186.105.240 , 222.186.105.255 ,  90 , [L1]JURONG THE PEOPLES GOVERNMENT
+222.186.118.128 , 222.186.118.159 ,  90 , [L1]JURONG STAT.OFFICE
+222.186.119.36  , 222.186.119.39  ,  90 , [L1]ZHENJIANG-JUNFENQU
+222.186.119.144 , 222.186.119.159 ,  90 , [L1]ZHENJIANG THE GOVERNMENT OFFICE
+222.186.119.240 , 222.186.119.255 ,  90 , [L1]DANTU GOVERNMENT OFFICE
+222.186.125.152 , 222.186.125.159 ,  90 , [L1]ZHENJIANG PORT AND HARBOUR AUTHORITY
+222.186.126.16  , 222.186.126.23  ,  90 , [L1]ZHENJIANG THE PEOPLE PROCURATORATE
+222.186.189.128 , 222.186.189.255 ,  70 , [BG]Bogus AS Advertisements
+222.186.190.17  , 222.186.190.17  ,  95 , [FK]Chinanet Jiangsu Province Network
+222.186.191.150 , 222.186.191.150 , 111 , [SW]www.cacb.net.cn
+222.186.192.128 , 222.186.192.143 ,  90 , [L1]JURONG XIASHU PEOPLES GOVERNMENT
+222.186.196.144 , 222.186.196.151 ,  90 , [L1]ZHENJIANG POLICE
+222.186.196.192 , 222.186.196.199 ,  90 , [L1]ZHENJIANG-POLICE-OFFICE
+222.186.197.0   , 222.186.197.3   ,  90 , [L1]ZHENJIANG-HENGXIN-LAWER-CO
+222.186.197.64  , 222.186.197.95  ,  90 , [L1]ZHENJIANG-POLICE
+222.186.217.48  , 222.186.217.63  ,  90 , [L1]YANGZHONG THE MINISTRY OF PERSONNEL
+222.186.217.80  , 222.186.217.95  ,  90 , [L1]ZHENJIANG-FANGKONG-OFFICE
+222.186.236.104 , 222.186.236.111 ,  90 , [L1]ZHENJIANG SIFA JU
+222.186.236.240 , 222.186.236.255 ,  90 , [L1]ZHENJIANG DANTU POLICE
+222.186.241.32  , 222.186.241.39  ,  90 , [L1]ZHENJIANG HUANGMEI 73033 ARMY
+222.186.251.0   , 222.186.251.3   ,  90 , [L1]ZHENJIANG-JR-POLICE
+222.186.251.64  , 222.186.251.71  ,  90 , [L1]ZHENJIANG-JURONG-POLICE-OFFICE
+222.186.251.208 , 222.186.251.223 ,  90 , [L1]ZHENJIANG JURONG POLICE
+222.187.96.0    , 222.187.96.63   ,  90 , [L1]XuZhou YA Bureau of Education
+222.187.99.116  , 222.187.99.119  ,  90 , [L1]fengxian Judiciary bureau
+222.187.99.224  , 222.187.99.255  ,  90 , [L1]fengxian Public security bureau Global eyes
+222.187.105.28  , 222.187.105.31  ,  90 , [L1]XuZhou YunLong Cinema
+222.187.109.32  , 222.187.109.35  ,  90 , [L1]XuZhou Quanshanqu Govment
+222.187.111.16  , 222.187.111.23  ,  90 , [L1]fengxian Public security bureau Global eyes
+222.187.111.92  , 222.187.111.95  ,  90 , [L1]fengxian Make the police group
+222.187.113.32  , 222.187.113.47  ,  90 , [L1]XuZhou XY GOV
+222.187.113.60  , 222.187.113.63  ,  90 , [L1]XuZhou XY GOV
+222.187.113.72  , 222.187.113.87  ,  90 , [L1]XuZhou XY fayuan GOV
+222.187.113.96  , 222.187.113.111 ,  90 , [L1]XuZhou XY GOV
+222.187.120.16  , 222.187.120.31  ,  90 , [L1]XuZhou Police Bureau
+222.187.120.64  , 222.187.120.79  ,  90 , [L1]XuZhou Public Security BUREAU
+222.187.193.32  , 222.187.193.39  ,  90 , [L1]SUQIAN BROADCAST AND TV STATION
+222.187.193.212 , 222.187.193.215 ,  90 , [L1]SUQIAN BROADCAST AND TV STATION
+222.187.198.16  , 222.187.198.23  ,  90 , [L1]Suqian  Public Security Bureau
+222.188.10.1    , 222.188.10.1    , 107 , [PT]Proxy
+222.188.94.208  , 222.188.94.215  ,  90 , [L1]yancheng ministry of personnel
+222.188.109.32  , 222.188.109.47  ,  90 , [L1]jianhu music time
+222.188.114.64  , 222.188.114.127 ,  90 , [L1]yancheng jianhu musictime
+222.188.123.0   , 222.188.123.15  ,  90 , [L1]yancheng yandou  police station
+222.188.126.68  , 222.188.126.71  ,  90 , [L1]Yancheng dongtai Drug Administration
+222.188.253.215 , 222.188.253.215 , 119 , [TL]CHINANET jiangsu broadband gnu spammer
+222.189.206.48  , 222.189.206.55  ,  90 , [L1]kaifaqugonganju
+222.189.209.112 , 222.189.209.127 ,  90 , [L1]yangzhou gongan COMM
+222.189.210.248 , 222.189.210.255 ,  90 , [L1]gonganjuzhianzhidui
+222.189.214.32  , 222.189.214.47  ,  90 , [L1]yangzhou shijie film  Co.,Ltd
+222.189.228.0   , 222.189.228.255 ,  70 , [BG]Bogus AS Advertisements
+222.189.237.0   , 222.189.239.255 ,  70 , [BG]Bogus AS Advertisements
+222.190.108.72  , 222.190.108.79  ,  90 , [L1]NanJing Department,China Council for the Promotion of International Trade
+222.190.111.32  , 222.190.111.63  ,  90 , [L1]Jiangsu Province Police Office Info Network Security Superviser
+222.190.113.168 , 222.190.113.175 ,  97 , [MS]Jiangsu Microsoft Technology Co., Ltd
+222.190.152.8   , 222.190.152.11  ,  90 , [L1]Xinghua Municipal Office of Defense
+222.190.155.116 , 222.190.155.119 ,  90 , [L1]Economic Development Zone, Taizhou Public Security Bureau
+222.190.155.160 , 222.190.155.167 ,  90 , [L1]Taizhou City Public Security Traffic Police Battalion
+222.191.227.0   , 222.191.227.15  ,  90 , [L1]Wuxi Statistic Bureau
+222.191.234.80  , 222.191.234.83  , 109 , [L2]wuxi new atmosphere technology co.,ltd
+222.191.234.128 , 222.191.234.131 ,  90 , [L1]Sony Electronics Co.,Ltd
+222.191.234.180 , 222.191.234.183 , 109 , [L2]kla-tencor INTERNATIONAL TRADECO.,LID
+222.191.236.112 , 222.191.236.127 ,  90 , [L1]WUXI POLICE
+222.191.238.56  , 222.191.238.59  ,  90 , [L1]wuxi jinkui lawyer office
+222.191.238.76  , 222.191.238.79  ,  90 , [L1]wuxi xingguang picture ltd
+222.191.238.148 , 222.191.238.151 ,  90 , [L1]Wuxi judicature BUREAU
+222.191.240.4   , 222.191.240.7   ,  90 , [L1]Wuxi Software Park,Wuxi System Co.,Ltd
+222.191.240.60  , 222.191.240.63  ,  90 , [L1]wuxi sony electr co,.ltd
+222.191.240.196 , 222.191.240.199 ,  90 , [L1]wuxi  development  district  procurator office
+222.191.247.176 , 222.191.247.183 ,  90 , [L1]Wuxi Bureau of foreign Trade economic cooperation
+222.191.248.80  , 222.191.248.87  ,  90 , [L1]wuxi binhu goverment informationg network management center
+222.191.254.64  , 222.191.254.67  ,  90 , [L1]WUXI JINHUIREN lawyer OFFICE
+222.196.48.0    , 222.196.63.255  ,  90 , [L1]Sichuan Conservatory of Music
+222.198.246.0   , 222.198.246.255 ,  90 , [L1]GuiZhou Police Officer Vocational College
+222.199.100.0   , 222.199.100.255 ,  90 , [L1]Inner Mongolia Police Professional College
+222.208.52.234  , 222.208.52.234  , 107 , [PT]Proxy
+222.208.125.100 , 222.208.125.103 ,  90 , [L1]SC-ZG-POLICE-HOTEL
+222.208.125.192 , 222.208.125.195 ,  90 , [L1]SC-ZG-POLICE
+222.208.126.140 , 222.208.126.143 ,  90 , [L1]SC-ZG-LAW-OFFICE
+222.208.126.160 , 222.208.126.167 ,  90 , [L1]SC-ZG-YT-LAW-OFFICE
+222.211.75.19   , 222.211.75.19   , 109 , [L2]Abuse
+222.215.66.84   , 222.215.66.87   , 109 , [L2]SC-ZG-SAFE-NETBAR
+222.216.28.25   , 222.216.28.25   , 111 , [SW]SWF hijacks
+222.216.43.16   , 222.216.43.16   , 119 , [TL]p2p Corrupt Data Senders
+222.219.223.79  , 222.219.223.79  , 119 , [TL]gnutella hitmorpher
+222.221.7.248   , 222.221.7.248   , 109 , [L2]Abuse
+222.221.250.192 , 222.221.250.255 ,  90 , [L1]Information-industry-office-Of-Kunming-government
+222.223.2.0     , 222.223.2.7     ,  90 , [L1]BROADCAST&TV UNIVERSITY OF QIANAN
+222.223.70.25   , 222.223.70.25   , 107 , [PT]Proxy
+222.223.183.30  , 222.223.183.30  , 111 , [SW]zinanjing.com
+222.223.187.0   , 222.223.187.255 ,  90 , [L1]GOVERNMENT OF SHIJIAZHUANG
+222.223.208.0   , 222.223.223.255 , 109 , [L2]SHIHU TECHNOLOGY LTD OF GUANGXI
+222.227.164.73  , 222.227.164.73  ,  90 , [L1]DDoS_ap2p
+222.228.88.115  , 222.228.88.115  , 119 , [TL]Vectant gnu viruses
+222.228.161.106 , 222.228.161.106 ,  90 , [L1]DDoS_ap2p
+222.228.219.25  , 222.228.219.25  , 119 , [TL]BitTorrent Corrupt Data Senders, BitTorrent Corrupt Data Sender
+222.228.226.192 , 222.228.226.255 ,  90 , [L1]Movie Full,inc
+222.228.227.0   , 222.228.227.127 , 109 , [L2]I2TS Inc
+222.229.104.116 , 222.229.104.116 , 119 , [TL]BitTorrent Corrupt Data Sender
+222.230.191.160 , 222.230.191.191 ,  90 , [L1]Symantec Japan, Inc
+222.231.10.0    , 222.231.11.255  ,  90 , [L1]NCsoft
+222.231.16.0    , 222.231.19.255  , 115 , [SD]Yahoo Korea Inc
+222.231.22.0    , 222.231.23.255  , 115 , [SD]Yahoo Korea Inc
+222.231.45.0    , 222.231.45.255  ,  90 , [L1]Nintendo
+222.231.48.0    , 222.231.49.255  , 115 , [SD]YAHOO-KR Internet content provider
+222.232.244.124 , 222.232.244.124 , 119 , [TL]gnutella hitmorpher
+222.233.164.0   , 222.233.179.255 ,  90 , [L1]Anyang Cityhall
+222.234.104.0   , 222.234.107.255 , 109 , [L2]HANANET-LLINE-DAEWOOBESTEZ
+222.237.76.91   , 222.237.76.91   , 111 , [SW]W32/Downloader/http.down.love.witlog.net
+222.237.77.33   , 222.237.77.33   , 109 , [L2]Abuse
+222.239.76.142  , 222.239.76.142  ,  90 , [L1]www.riak.or.kr
+222.239.76.168  , 222.239.76.168  ,  90 , [L1]www.miak.or.kr
+222.253.170.188 , 222.253.170.188 , 119 , [TL]p2p corrupt data sender
+222.255.32.0    , 222.255.33.255  , 109 , [L2]IP Range assigned for VPN Service of VDC
+222.255.77.64   , 222.255.77.79   ,  90 , [L1]Cong ty Sony Vietnam
+222.255.96.0    , 222.255.98.255  , 109 , [L2]IP Range assigned for VPN Service of VDC
+222.255.160.0   , 222.255.160.255 , 109 , [L2]IP Range assigned for VPN Service of VDC
+223.0.0.0       , 223.255.255.255 ,  80 , - - - [BG]AS38639 HANABI NTT Communications Corporation
+238.209.5.182   , 238.209.5.182   , 111 , [SW]protection-manager.com
+240.0.0.0       , 255.255.255.25  , 160 , - - - [LN]IANA Reserved for private use FNLC
